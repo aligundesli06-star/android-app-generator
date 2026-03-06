@@ -1,0 +1,33 @@
+name: Generate Flutter Apps
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install groq
+      
+      - name: Generate apps
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python3 generate_apps.py
+      
+      - name: Commit generated apps
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add generated_apps/
+          git commit -m "Generated apps $(date +%Y-%m-%d)" || echo "Nothing to commit"
+          git push
