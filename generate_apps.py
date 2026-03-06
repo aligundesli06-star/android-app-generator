@@ -24,7 +24,7 @@ Format as JSON array like this:
 Only return the JSON array, nothing else."""
 
     response = client.chat.completions.create(
-        model="llama3-8b-8192",
+        model="model="llama-3.3-70b-versatile",
         messages=[{"role": "user", "content": prompt}],
         max_tokens=2000,
         temperature=0.8
