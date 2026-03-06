@@ -1,80 +1,127 @@
 import os
 import json
-import datetime
+from datetime import datetime
 from groq import Groq
 
 client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 
 def generate_app_ideas():
-    prompt = """Generate 5 simple Flutter app ideas for Google Play Store. 
-For each app provide:
-- App name
-- Short description (1 sentence)
-- Key features (3 bullet points)
-- Target audience
-Format as JSON array like this:
-[
-  {
-    "name": "App Name",
-    "description": "Short description",
-    "features": ["feature1", "feature2", "feature3"],
-    "audience": "Target audience"
-  }
-]
-Only return the JSON array, nothing else."""
-
     response = client.chat.completions.create(
-        model="model="llama-3.3-70b-versatile",
-        messages=[{"role": "user", "content": prompt}],
-        max_tokens=2000,
-        temperature=0.8
-    )
-    
-    text = response.choices[0].message.content.strip()
-    
-    if "```json" in text:
-        text = text.split("```json")[1].split("```")[0].strip()
-    elif "```" in text:
-        text = text.split("```")[1].split("```")[0].strip()
-    
-    apps = json.loads(text)
-    return apps
+        model="llama-3.3-70b-versatile",
+        messages=[
+            {
+                "role": "user",
+                "content": """Generate 5 simple Android app ideas that can be built with Flutter.
+For each app provide:
+1. App name
+2. Short description (1-2 sentences)
+3. Main features (3-5 bullet points)
+4. Target audience
 
-def save_results(apps):
-    today = datetime.date.today().strftime("%Y-%m-%d")
-    folder = f"generated_apps/{today}"
-    os.makedirs(folder, exist_ok=True)
-    
-    output_path = f"{folder}/app_ideas.json"
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(apps, f, indent=2, ensure_ascii=False)
-    
-    md_path = f"{folder}/app_ideas.md"
-    with open(md_path, "w", encoding="utf-8") as f:
-        f.write(f"# Flutter App Ideas - {today}\n\n")
-        for i, app in enumerate(apps, 1):
-            f.write(f"## {i}. {app['name']}\n")
-            f.write(f"**Description:** {app['description']}\n\n")
-            f.write(f"**Target Audience:** {app['audience']}\n\n")
-            f.write("**Features:**\n")
-            for feature in app['features']:
-                f.write(f"- {feature}\n")
-            f.write("\n---\n\n")
-    
-    return folder
+Format as JSON array with keys: name, description, features, target_audience.
+Only return valid JSON, no extra text."""
+            }
+        ],
+        max_tokens=2000
+    )
+    return response.choices[0].message.content
+
+def generate_flutter_code(app_name, description):
+    response = client.chat.completions.create(
+        model="llama-3.3-70b-versatile",
+        messages=[
+            {
+                "role": "user",
+                "content": f"""Write a simple Flutter app for: {app_name}
+Description: {description}
+
+Create a complete main.dart file with:
+- MaterialApp setup
+- Simple UI with the app's main functionality
+- Clean, readable code
+
+Only return the Dart code, no explanation."""
+            }
+        ],
+        max_tokens=2000
+    )
+    return response.choices[0].message.content
+
+def generate_play_store_listing(app_name, description):
+    response = client.chat.completions.create(
+        model="llama-3.3-70b-versatile",
+        messages=[
+            {
+                "role": "user",
+                "content": f"""Write a Google Play Store listing for:
+App: {app_name}
+Description: {description}
+
+Include:
+- Short description (80 chars max)
+- Full description (4000 chars max)
+- 5 keywords
+
+Format as JSON with keys: short_description, full_description, keywords.
+Only return valid JSON."""
+            }
+        ],
+        max_tokens=1000
+    )
+    return response.choices[0].message.content
 
 def main():
-    print("🚀 Generating Flutter app ideas with Groq AI...")
+    today = datetime.now().strftime("%Y-%m-%d")
+    output_dir = f"generated_apps/{today}"
+    os.makedirs(output_dir, exist_ok=True)
+
+    print("Generating app ideas...")
+    ideas_raw = generate_app_ideas()
     
-    try:
-        apps = generate_app_ideas()
-        print(f"✅ Generated {len(apps)} app ideas!")
-        folder = save_results(apps)
-        print(f"📁 Results saved to: {folder}")
+    ideas_raw = ideas_raw.strip()
+    if ideas_raw.startswith("```"):
+        ideas_raw = ideas_raw.split("```")[1]
+        if ideas_raw.startswith("json"):
+            ideas_raw = ideas_raw[4:]
+    ideas_raw = ideas_raw.strip()
+
+    ideas = json.loads(ideas_raw)
+    print(f"Generated {len(ideas)} app ideas")
+
+    for i, app in enumerate(ideas):
+        app_name = app["name"]
+        description = app["description"]
+        print(f"Processing app {i+1}: {app_name}")
+
+        app_dir = f"{output_dir}/app_{i+1}_{app_name.replace(' ', '_')}"
+        os.makedirs(app_dir, exist_ok=True)
+
+        with open(f"{app_dir}/app_info.json", "w") as f:
+            json.dump(app, f, indent=2)
+
+        flutter_code = generate_flutter_code(app_name, description)
+        with open(f"{app_dir}/main.dart", "w") as f:
+            f.write(flutter_code)
+
+        listing_raw = generate_play_store_listing(app_name, description)
+        listing_raw = listing_raw.strip()
+        if listing_raw.startswith("```"):
+            listing_raw = listing_raw.split("```")[1]
+            if listing_raw.startswith("json"):
+                listing_raw = listing_raw[4:]
+        listing_raw = listing_raw.strip()
         
-    except Exception as e:
-        print(f"❌ Error: {e}")
-        raise
+        try:
+            listing = json.loads(listing_raw)
+            with open(f"{app_dir}/play_store_listing.json", "w") as f:
+                json.dump(listing, f, indent=2)
+        except:
+            with open(f"{app_dir}/play_store_listing.txt", "w") as f:
+                f.write(listing_raw)
+
+        print(f"  Saved to {app_dir}")
+
+    print(f"\nDone! All apps saved to {output_dir}")
 
 if __name__ == "__main__":
     main()
