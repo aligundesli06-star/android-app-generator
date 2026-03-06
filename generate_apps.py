@@ -7,7 +7,7 @@ client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 
 def generate_app_ideas():
     response = client.chat.completions.create(
-        model="llama3-8b-8192",
+        model="llama-3.3-70b-versatile",
         messages=[
             {
                 "role": "user",
