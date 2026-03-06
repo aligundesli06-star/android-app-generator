@@ -12,7 +12,6 @@ For each app provide:
 - Short description (1 sentence)
 - Key features (3 bullet points)
 - Target audience
-
 Format as JSON array like this:
 [
   {
@@ -22,7 +21,6 @@ Format as JSON array like this:
     "audience": "Target audience"
   }
 ]
-
 Only return the JSON array, nothing else."""
 
     response = client.chat.completions.create(
@@ -63,7 +61,6 @@ def save_results(apps):
                 f.write(f"- {feature}\n")
             f.write("\n---\n\n")
     
-    print(f"✅ Saved {len(apps)} app ideas to {folder}/")
     return folder
 
 def main():
@@ -73,3 +70,11 @@ def main():
         apps = generate_app_ideas()
         print(f"✅ Generated {len(apps)} app ideas!")
         folder = save_results(apps)
+        print(f"📁 Results saved to: {folder}")
+        
+    except Exception as e:
+        print(f"❌ Error: {e}")
+        raise
+
+if __name__ == "__main__":
+    main()
