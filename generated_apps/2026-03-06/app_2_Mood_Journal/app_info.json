@@ -1,0 +1,10 @@
+{
+  "name": "Mood Journal",
+  "description": "A digital journal where users can record their emotions and thoughts, helping them to identify patterns and gain insight into their mental health. It provides a safe and private space for self-reflection.",
+  "features": [
+    "Mood tracking with customizable emotions",
+    "Journal entry writing with tagging and searching",
+    "Mood analytics and statistics"
+  ],
+  "target_audience": "Individuals struggling with mental health issues or those looking for a self-care tool"
+}

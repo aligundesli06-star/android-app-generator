@@ -1,0 +1,12 @@
+{
+  "short_description": "Find recipes easily",
+  "full_description": "Recipe Finder is an innovative app designed to help you discover new recipes tailored to your dietary preferences and ingredient availability. With a user-friendly interface, you can easily search, save, and organize your favorite recipes. The app also allows you to generate grocery lists, making meal planning and shopping a breeze. Whether you're a vegetarian, vegan, gluten-free, or follow a specific diet, Recipe Finder has got you covered. Key features include: 
+- Personalized recipe suggestions based on your dietary needs and preferences
+- Extensive recipe database with a wide variety of cuisines and dishes
+- Simple and intuitive search function to find recipes by ingredient, cooking time, or course
+- Ability to save and organize recipes in a personalized cookbook
+- Grocery list generator to help you plan and shop for ingredients
+- Regular updates with new recipes and features to keep your meal planning fresh and exciting
+Download Recipe Finder today and start exploring a world of delicious and easy-to-make recipes!",
+  "keywords": ["recipe finder", "meal planning", "grocery list", "dietary preferences", "cooking app"]
+}

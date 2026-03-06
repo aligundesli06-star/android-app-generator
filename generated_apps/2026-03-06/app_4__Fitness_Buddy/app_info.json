@@ -1,0 +1,10 @@
+{
+  "name": " Fitness Buddy",
+  "description": "A workout companion app that helps users find and track exercises, as well as connect with friends and join fitness challenges. It provides a motivational community to help users stay active.",
+  "features": [
+    "Exercise library with descriptions and videos",
+    "Workout tracking and logging",
+    "Social features for connecting with friends and joining challenges"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals looking for a workout motivation tool"
+}
