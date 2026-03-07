@@ -24,7 +24,15 @@ Only return valid JSON, no extra text."""
         ],
         max_tokens=2000
     )
-    return response.choices[0].message.content
+    code = response.choices[0].message.content.strip()
+if code.startswith("```"):
+    code = code.split("```")[1]
+    if code.startswith("dart"):
+        code = code[4:]
+    code = code.strip()
+if code.endswith("```"):
+    code = code[:-3].strip()
+return code
 
 def generate_flutter_code(app_name, description):
     response = client.chat.completions.create(
