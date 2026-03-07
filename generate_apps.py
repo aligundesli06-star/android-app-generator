@@ -5,83 +5,67 @@ from groq import Groq
 
 client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 
+def clean_code(content):
+    content = content.strip()
+    if content.startswith("```"):
+        lines = content.split("\n")
+        lines = lines[1:]
+        while lines and lines[-1].strip() == "```":
+            lines = lines[:-1]
+        content = "\n".join(lines)
+    return content.strip()
+
 def generate_app_ideas():
     response = client.chat.completions.create(
         model="llama-3.3-70b-versatile",
-        messages=[
-            {
-                "role": "user",
-                "content": """Generate 5 simple Android app ideas that can be built with Flutter.
+        messages=[{"role": "user", "content": """Generate 5 simple Android app ideas that can be built with Flutter.
 For each app provide:
 1. App name
 2. Short description (1-2 sentences)
 3. Main features (3-5 bullet points)
 4. Target audience
-
 Format as JSON array with keys: name, description, features, target_audience.
-Only return valid JSON, no extra text."""
-            }
-        ],
+Only return valid JSON, no extra text."""}],
         max_tokens=2000
     )
-    code = response.choices[0].message.content.strip()
-if code.startswith("```"):
-    code = code.split("```")[1]
-    if code.startswith("dart"):
-        code = code[4:]
-    code = code.strip()
-if code.endswith("```"):
-    code = code[:-3].strip()
-return code
+    return clean_code(response.choices[0].message.content)
 
 def generate_flutter_code(app_name, description):
     response = client.chat.completions.create(
         model="llama-3.3-70b-versatile",
-        messages=[
-            {
-                "role": "user",
-                "content": f"""Write a beautiful, modern Flutter app for: {app_name}
+        messages=[{"role": "user", "content": f"""Write a beautiful, modern Flutter app for: {app_name}
 Description: {description}
 Requirements:
-- Material 3 design with a beautiful color scheme
-- Custom AppBar with gradient or solid accent color
-- Cards with rounded corners and shadows
-- Proper padding and spacing throughout
-- At least one FloatingActionButton with icon
+- Material 3 design (useMaterial3: true)
+- Beautiful color scheme with ColorScheme.fromSeed()
+- Custom AppBar with accent color
+- Cards with rounded corners (BorderRadius.circular(16)) and shadows
+- Proper padding (16px) and spacing throughout
+- FloatingActionButton with icon
 - Empty state message when no data
-- Smooth and polished UI that looks professional
-- Use Colors from Material design palette (not just blue)
-- Add icons from Icons class to make it visual
+- Use Icons from Material icons
+- Professional UI that looks like a real app
 - Complete working functionality
-Only return the Dart code, no explanation, no markdown."""
-            }
-        ],
+Only return the Dart code, no markdown, no explanation."""}],
         max_tokens=2000
     )
-    return response.choices[0].message.content
+    return clean_code(response.choices[0].message.content)
 
 def generate_play_store_listing(app_name, description):
     response = client.chat.completions.create(
         model="llama-3.3-70b-versatile",
-        messages=[
-            {
-                "role": "user",
-                "content": f"""Write a Google Play Store listing for:
+        messages=[{"role": "user", "content": f"""Write a Google Play Store listing for:
 App: {app_name}
 Description: {description}
-
 Include:
 - Short description (80 chars max)
 - Full description (4000 chars max)
 - 5 keywords
-
 Format as JSON with keys: short_description, full_description, keywords.
-Only return valid JSON."""
-            }
-        ],
+Only return valid JSON."""}],
         max_tokens=1000
     )
-    return response.choices[0].message.content
+    return clean_code(response.choices[0].message.content)
 
 def main():
     today = datetime.now().strftime("%Y-%m-%d")
@@ -90,14 +74,6 @@ def main():
 
     print("Generating app ideas...")
     ideas_raw = generate_app_ideas()
-    
-    ideas_raw = ideas_raw.strip()
-    if ideas_raw.startswith("```"):
-        ideas_raw = ideas_raw.split("```")[1]
-        if ideas_raw.startswith("json"):
-            ideas_raw = ideas_raw[4:]
-    ideas_raw = ideas_raw.strip()
-
     ideas = json.loads(ideas_raw)
     print(f"Generated {len(ideas)} app ideas")
 
@@ -117,13 +93,6 @@ def main():
             f.write(flutter_code)
 
         listing_raw = generate_play_store_listing(app_name, description)
-        listing_raw = listing_raw.strip()
-        if listing_raw.startswith("```"):
-            listing_raw = listing_raw.split("```")[1]
-            if listing_raw.startswith("json"):
-                listing_raw = listing_raw[4:]
-        listing_raw = listing_raw.strip()
-        
         try:
             listing = json.loads(listing_raw)
             with open(f"{app_dir}/play_store_listing.json", "w") as f:
