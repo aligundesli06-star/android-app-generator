@@ -1,0 +1,67 @@
+name: Build APKs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 9 * * *'  # Her gün 09:00 UTC (generate'den 1 saat sonra)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Get latest generated apps folder
+        id: folder
+        run: |
+          LATEST=$(ls generated_apps/ | sort -r | head -1)
+          echo "date=$LATEST" >> $GITHUB_OUTPUT
+
+      - name: Setup Java
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.41.4'
+
+      - name: Build APKs
+        run: |
+          DATE=${{ steps.folder.outputs.date }}
+          for app_dir in generated_apps/$DATE/app_*/; do
+            app_name=$(basename $app_dir)
+            echo "Building $app_name..."
+            
+            # Flutter projesi oluştur
+            flutter create --project-name $(echo $app_name | tr '[:upper:]' '[:lower:]' | tr ' -' '_') /tmp/$app_name
+            
+            # main.dart'ı kopyala
+            cp $app_dir/main.dart /tmp/$app_name/lib/main.dart
+            
+            # APK build
+            cd /tmp/$app_name
+            flutter build apk --release 2>/dev/null || flutter build apk --debug
+            
+            # APK'yı kaydet
+            mkdir -p $GITHUB_WORKSPACE/apks/$DATE
+            cp build/apk/flutter-apk/*.apk $GITHUB_WORKSPACE/apks/$DATE/${app_name}.apk 2>/dev/null || true
+            cd $GITHUB_WORKSPACE
+          done
+
+      - name: Upload APKs
+        uses: actions/upload-artifact@v3
+        with:
+          name: apks-${{ steps.folder.outputs.date }}
+          path: apks/
+          retention-days: 30
+
+      - name: Commit APKs to repo
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "actions-user"
+          git add apks/
+          git diff --staged --quiet || git commit -m "Built APKs ${{ steps.folder.outputs.date }}"
+          git push
