@@ -1,0 +1,10 @@
+{
+  "name": "RecipeFinder",
+  "description": "A cooking app that allows users to discover new recipes, save favorites, and generate grocery lists. It provides an easy way to explore different cuisines and meal ideas.",
+  "features": [
+    "Recipe search with filters and categories",
+    "Recipe saving and favoriting",
+    "Grocery list generation and management"
+  ],
+  "target_audience": "Home cooks and food enthusiasts looking for inspiration and convenience"
+}

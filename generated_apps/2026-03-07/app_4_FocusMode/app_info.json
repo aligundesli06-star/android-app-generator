@@ -1,0 +1,10 @@
+{
+  "name": "FocusMode",
+  "description": "A productivity app designed to help users stay focused and avoid distractions, providing tools to boost concentration and efficiency. It offers a simple and non-intrusive way to prioritize tasks.",
+  "features": [
+    "Pomodoro timer with customizable intervals",
+    "Task management with prioritization",
+    "Website and app blocker"
+  ],
+  "target_audience": "Students, professionals, and individuals seeking to improve their productivity"
+}
