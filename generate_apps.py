@@ -32,15 +32,20 @@ def generate_flutter_code(app_name, description):
         messages=[
             {
                 "role": "user",
-                "content": f"""Write a simple Flutter app for: {app_name}
+                "content": f"""Write a beautiful, modern Flutter app for: {app_name}
 Description: {description}
-
-Create a complete main.dart file with:
-- MaterialApp setup
-- Simple UI with the app's main functionality
-- Clean, readable code
-
-Only return the Dart code, no explanation."""
+Requirements:
+- Material 3 design with a beautiful color scheme
+- Custom AppBar with gradient or solid accent color
+- Cards with rounded corners and shadows
+- Proper padding and spacing throughout
+- At least one FloatingActionButton with icon
+- Empty state message when no data
+- Smooth and polished UI that looks professional
+- Use Colors from Material design palette (not just blue)
+- Add icons from Icons class to make it visual
+- Complete working functionality
+Only return the Dart code, no explanation, no markdown."""
             }
         ],
         max_tokens=2000
