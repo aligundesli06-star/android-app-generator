@@ -1,0 +1,11 @@
+{
+  "short_description": "Track your mood",
+  "full_description": "MoodTracker is a mental health app designed to help you monitor your emotions and track your mood patterns. By using MoodTracker, you can gain a better understanding of your emotional state and identify areas for improvement. The app provides personalized insights and suggestions to help you manage stress, anxiety, and other emotions. With MoodTracker, you can: 
+- Record your emotions and track your mood over time
+- Identify patterns and trends in your emotional state
+- Receive personalized recommendations for improvement
+- Set reminders and notifications to help you stay on track
+- Export your data to share with a mental health professional
+MoodTracker is a simple, yet powerful tool for taking control of your mental health. Download the app today and start tracking your mood!",
+  "keywords": ["mood tracker", "mental health", "emotional wellness", "stress management", "anxiety relief"]
+}

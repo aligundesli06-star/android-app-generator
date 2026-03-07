@@ -1,0 +1,12 @@
+{
+  "name": "TaskTwin",
+  "description": "TaskTwin is a task management app that helps users stay organized and focused by providing a simple and intuitive interface for managing tasks and projects. It offers features like task prioritization, reminders, and collaboration tools.",
+  "features": [
+    "Task management with prioritization and due dates",
+    "Project collaboration tools with real-time updates",
+    "Customizable reminders and notifications",
+    "Integrations with popular calendar and email apps",
+    "Task analytics and statistics for productivity insights"
+  ],
+  "target_audience": "Professionals and individuals aged 18-50 seeking to improve their productivity and task management skills"
+}

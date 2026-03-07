@@ -1,0 +1,12 @@
+{
+  "name": "WalkBuddy",
+  "description": "WalkBuddy is a fitness app that encourages users to stay active by tracking their daily steps and providing personalized walking routes. It also connects users with nearby walking buddies for social support and motivation.",
+  "features": [
+    "Step tracking with customizable goals and reminders",
+    "Personalized walking routes with safety features",
+    "Social networking for walking groups and challenges",
+    "Integrations with popular fitness trackers and wearables",
+    "Rewards for milestones achieved and leaderboards"
+  ],
+  "target_audience": "Individuals aged 25-60 seeking to improve their physical activity and stay motivated"
+}
