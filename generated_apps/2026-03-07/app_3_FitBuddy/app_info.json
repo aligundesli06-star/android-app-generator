@@ -1,0 +1,10 @@
+{
+  "name": "FitBuddy",
+  "description": "FitBuddy is a fitness app that helps users stay motivated and accountable by connecting them with like-minded individuals who share similar fitness goals. It provides personalized workout plans, tracking features, and social sharing capabilities.",
+  "features": [
+    "Customizable workout plans and routines",
+    "Progress tracking and analytics",
+    "Social sharing and community support"
+  ],
+  "target_audience": "Fitness enthusiasts, athletes, and individuals looking to lead a healthier lifestyle"
+}
