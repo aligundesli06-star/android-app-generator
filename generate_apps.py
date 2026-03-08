@@ -36,17 +36,23 @@ def generate_flutter_code(app_name, description):
         messages=[{"role": "user", "content": f"""Write a complete, professional Flutter app for: {app_name}
 Description: {description}
 
-Must include:
-- Material 3 design (useMaterial3: true) with ColorScheme.fromSeed()
-- Bottom navigation bar with at least 3 tabs (Home, Stats, Settings)
-- Settings page with: dark/light mode toggle, language selector (English/Turkish/Spanish)
-- Home screen with cards, icons, and meaningful content
-- Stats/progress screen with simple indicators
+STRICT RULES - follow exactly:
+- Do NOT use useMaterial3
+- Do NOT import intl package
+- Do NOT use Icons.stats (use Icons.bar_chart instead)
+- Do NOT use accentColor
+- Do NOT use headline6 (use titleLarge instead)
+- Do NOT use SystemChrome
+- Do NOT use Timer without importing dart:async
+- Use ThemeData with primarySwatch: Colors.indigo
+- Bottom navigation bar with 3 tabs: Home, Progress, Settings
+- Settings page with dark/light mode toggle and language selector (English/Turkish/Spanish) using simple setState
+- Home screen with cards, icons, meaningful content
+- Progress screen with simple Column/Row indicators
 - FloatingActionButton to add new items
-- Empty state UI with icon and message
-- Smooth and professional UI with padding, rounded corners, shadows
-- All text in English
-- Complete working Flutter code in a single main.dart file
+- Clean professional UI with padding 16, rounded corners, shadows
+- Complete working Flutter code in single main.dart
+- Only standard flutter/material.dart imports
 
 Only return the Dart code, no markdown, no explanation."""}],
         max_tokens=2000
