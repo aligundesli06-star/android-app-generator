@@ -28,42 +28,21 @@ jobs:
         with:
           flutter-version: '3.41.4'
 
-      - name: Build APKs
+      - name: Fix and Build APKs
         run: |
           DATE=${{ steps.folder.outputs.date }}
           mkdir -p apks/$DATE
           for app_dir in generated_apps/$DATE/app_*/; do
             app_name=$(basename $app_dir)
             echo "Building $app_name..."
-            flutter create --project-name $(echo $app_name | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9_]/_/g') /tmp/$app_name
-            python3 -c "
-content = open('$app_dir/main.dart').read().strip()
-if content.startswith('\`\`\`'):
-    lines = content.split('\n')
-    lines = lines[1:]
-    while lines and lines[-1].strip() == '\`\`\`':
-        lines = lines[:-1]
-    content = '\n'.join(lines)
-# Fix common AI mistakes
-content = content.replace('useMaterial3: true,', '')
-content = content.replace('useMaterial3: true', '')
-content = content.replace('Icons.stats', 'Icons.bar_chart')
-content = content.replace('colorScheme.accentColor', 'colorScheme.primary')
-content = content.replace('textTheme.headline6', 'textTheme.titleLarge')
-content = content.replace('textTheme.headline5', 'textTheme.headlineSmall')
-content = content.replace('import \'package:intl/intl.dart\';', '')
-content = content.replace('import \"package:intl/intl.dart\";', '')
-open('/tmp/$app_name/lib/main.dart', 'w').write(content)
-"
-          content = open('$app_dir/main.dart').read().strip()
-          if content.startswith('\`\`\`'):
-              lines = content.split('\n')
-              lines = lines[1:]
-              if lines[-1].strip() == '\`\`\`':
-                  lines = lines[:-1]
-              content = '\n'.join(lines)
-          open('/tmp/$app_name/lib/main.dart', 'w').write(content)
-          "
+            PROJECT_NAME=$(echo $app_name | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9_]/_/g')
+            flutter create --project-name $PROJECT_NAME /tmp/$app_name
+            sed -i 's/useMaterial3: true,//g' $app_dir/main.dart
+            sed -i 's/useMaterial3: true//g' $app_dir/main.dart
+            sed -i 's/Icons\.stats/Icons.bar_chart/g' $app_dir/main.dart
+            sed -i 's/colorScheme\.accentColor/colorScheme.primary/g' $app_dir/main.dart
+            sed -i 's/textTheme\.headline6/textTheme.titleLarge/g' $app_dir/main.dart
+            cp $app_dir/main.dart /tmp/$app_name/lib/main.dart
             cd /tmp/$app_name
             flutter build apk --debug || true
             cp build/app/outputs/flutter-apk/app-debug.apk $GITHUB_WORKSPACE/apks/$DATE/${app_name}.apk 2>/dev/null || true
