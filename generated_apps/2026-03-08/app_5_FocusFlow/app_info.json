@@ -1,10 +1,11 @@
 {
   "name": "FocusFlow",
-  "description": "A productivity app designed to help users stay focused and on track with their work or study sessions. It utilizes the Pomodoro Technique to boost concentration and efficiency.",
+  "description": "A productivity app that helps users stay focused and avoid distractions. It provides a Pomodoro timer, task management, and website blocking features.",
   "features": [
-    "Pomodoro timer and scheduling",
+    "Pomodoro timer with customizable intervals",
     "Task management and prioritization",
-    "Customizable focus sessions"
+    "Website and app blocking during focus sessions",
+    "Statistics and productivity insights"
   ],
-  "target_audience": "Students, freelancers, and professionals seeking to improve their productivity"
+  "target_audience": "Students, professionals, and individuals with busy schedules"
 }

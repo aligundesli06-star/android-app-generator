@@ -1,0 +1,11 @@
+{
+  "name": "WalkPal",
+  "description": "A fitness app that encourages users to walk more and stay active. It tracks daily steps, distance, and calories burned, and provides rewards for achieving milestones.",
+  "features": [
+    "Step tracking and distance measurement",
+    "Calorie burn estimation and fitness tracking",
+    "Walking challenges and rewards",
+    "Statistics and progress visualization"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals with sedentary lifestyles"
+}
