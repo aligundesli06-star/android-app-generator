@@ -1,0 +1,10 @@
+{
+  "name": "Travel Pal",
+  "description": "An app to help you plan and organize your trips. It provides a simple way to book flights, hotels, and activities, as well as track your itinerary.",
+  "features": [
+    "Flight and hotel booking",
+    "Activity and tour booking",
+    "Itinerary tracking with real-time updates"
+  ],
+  "target_audience": "Travelers, tourists, and adventure seekers"
+}

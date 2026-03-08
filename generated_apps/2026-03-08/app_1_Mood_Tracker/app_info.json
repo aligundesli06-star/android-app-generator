@@ -1,10 +1,10 @@
 {
   "name": "Mood Tracker",
-  "description": "An app to track emotions and moods, helping users identify patterns and gain insights into their mental well-being. It provides a simple and intuitive way to log feelings and emotions.",
+  "description": "An app to track and analyze your emotions and moods. It helps you identify patterns and trends in your emotional state.",
   "features": [
-    "Daily mood tracking",
-    "Emotion categorization",
-    "Mood analytics and insights"
+    "Daily mood logging",
+    "Emotion tracking with customizable categories",
+    "Data visualization with charts and graphs"
   ],
-  "target_audience": "Individuals aged 16-40 interested in mental health and self-improvement"
+  "target_audience": "Individuals dealing with stress, anxiety, or mental health issues"
 }

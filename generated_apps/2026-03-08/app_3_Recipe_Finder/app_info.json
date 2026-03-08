@@ -1,0 +1,10 @@
+{
+  "name": "Recipe Finder",
+  "description": "An app to discover new recipes and cooking ideas. It allows you to search, save, and share your favorite recipes.",
+  "features": [
+    "Recipe search with filtering and sorting",
+    "Recipe saving and organization",
+    "Meal planning with grocery lists"
+  ],
+  "target_audience": "Home cooks, foodies, and individuals with dietary restrictions"
+}

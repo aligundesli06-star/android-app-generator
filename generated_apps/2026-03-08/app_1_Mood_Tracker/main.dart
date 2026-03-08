@@ -1,11 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:intl/intl.dart';
 
 void main() {
   runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+  const MyApp({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -14,161 +16,247 @@ class MyApp extends StatelessWidget {
       useMaterial3: true,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color(0xFF6495ED),
+          seedColor: Colors.blue,
         ),
       ),
-      home: const HomePage(),
+      darkTheme: ThemeData(
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: Colors.blueGrey,
+          brightness: Brightness.dark,
+        ),
+      ),
+      themeMode: ThemeMode.system,
+      home: const MyHomePage(),
     );
   }
 }
 
-class HomePage extends StatefulWidget {
-  const HomePage({super.key});
+class MyHomePage extends StatefulWidget {
+  const MyHomePage({Key? key}) : super(key: key);
 
   @override
-  State<HomePage> createState() => _HomePageState();
+  State<MyHomePage> createState() => _MyHomePageState();
 }
 
-class _HomePageState extends State<HomePage> {
+class _MyHomePageState extends State<MyHomePage> {
+  int _currentIndex = 0;
+  bool _isDarkMode = false;
+  Locale? _locale;
   List<Mood> _moods = [];
+  final List<String> _languages = const ['en', 'tr', 'es'];
 
-  void _addMood() {
+  void _createNewMood() {
     setState(() {
-      _moods.insert(
-        0,
-        Mood(
-          id: DateTime.now().millisecondsSinceEpoch.toString(),
-          mood: _selectedMood,
-          note: _noteController.text,
-        ),
-      );
-      _noteController.clear();
-      _selectedMood = null;
+      _moods.add(Mood(
+        id: DateTime.now().millisecondsSinceEpoch,
+        date: DateTime.now(),
+        mood: 'Happy',
+      ));
     });
   }
 
-  final _noteController = TextEditingController();
-  String? _selectedMood;
+  void _toggleDarkMode() {
+    setState(() {
+      _isDarkMode = !_isDarkMode;
+    });
+    SystemChrome.setSystemUIOverlayStyle(
+      _isDarkMode
+          ? const SystemUiOverlayStyle(
+              statusBarColor: Colors.black,
+              statusBarIconBrightness: Brightness.light,
+            )
+          : const SystemUiOverlayStyle(
+              statusBarColor: Colors.blue,
+              statusBarIconBrightness: Brightness.dark,
+            ),
+    );
+  }
+
+  void _changeLanguage(String language) {
+    setState(() {
+      _locale = Locale(language, '');
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Mood Tracker'),
-        backgroundColor: Theme.of(context).colorScheme.primary,
+        actions: [
+          IconButton(
+            icon: const Icon(Icons.language),
+            onPressed: () {
+              showModalBottomSheet(
+                context: context,
+                builder: (context) {
+                  return ListView.builder(
+                    shrinkWrap: true,
+                    itemCount: _languages.length,
+                    itemBuilder: (context, index) {
+                      return ListTile(
+                        title: Text(_languages[index].toUpperCase()),
+                        onTap: () {
+                          Navigator.of(context).pop();
+                          _changeLanguage(_languages[index]);
+                        },
+                      );
+                    },
+                  );
+                },
+              );
+            },
+          ),
+        ],
       ),
-      body: Container(
-        padding: const EdgeInsets.all(16),
-        child: Column(
-          children: [
-            TextField(
-              controller: _noteController,
-              decoration: const InputDecoration(
-                labelText: 'Note',
-                border: OutlineInputBorder(),
-              ),
-            ),
-            const SizedBox(height: 16),
-            Row(
+      bottomNavigationBar: BottomNavigationBar(
+        currentIndex: _currentIndex,
+        onTap: (index) {
+          setState(() {
+            _currentIndex = index;
+          });
+        },
+        items: const [
+          BottomNavigationBarItem(
+            icon: Icon(Icons.home),
+            label: 'Home',
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.stats),
+            label: 'Stats',
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.settings),
+            label: 'Settings',
+          ),
+        ],
+      ),
+      body: IndexedStack(
+        index: _currentIndex,
+        children: [
+          _buildHomeScreen(),
+          _buildStatsScreen(),
+          _buildSettingsScreen(),
+        ],
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: _createNewMood,
+        tooltip: 'Add new mood',
+        child: const Icon(Icons.add),
+      ),
+      floatingActionButtonLocation: FloatingActionButtonLocation.endFloat,
+    );
+  }
+
+  Widget _buildHomeScreen() {
+    return _moods.isEmpty
+        ? Center(
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                ElevatedButton(
-                  onPressed: () {
-                    setState(() {
-                      _selectedMood = 'Happy';
-                    });
-                  },
-                  style: ElevatedButton.styleFrom(
-                    backgroundColor: _selectedMood == 'Happy'
-                        ? Theme.of(context).colorScheme.primary
-                        : null,
-                  ),
-                  child: const Text('Happy'),
+                const Icon(
+                  Icons.sentiment_neutral,
+                  size: 100,
                 ),
-                const SizedBox(width: 16),
-                ElevatedButton(
-                  onPressed: () {
-                    setState(() {
-                      _selectedMood = 'Sad';
-                    });
-                  },
-                  style: ElevatedButton.styleFrom(
-                    backgroundColor: _selectedMood == 'Sad'
-                        ? Theme.of(context).colorScheme.primary
-                        : null,
-                  ),
-                  child: const Text('Sad'),
-                ),
-                const SizedBox(width: 16),
-                ElevatedButton(
-                  onPressed: () {
-                    setState(() {
-                      _selectedMood = 'Neutral';
-                    });
-                  },
-                  style: ElevatedButton.styleFrom(
-                    backgroundColor: _selectedMood == 'Neutral'
-                        ? Theme.of(context).colorScheme.primary
-                        : null,
-                  ),
-                  child: const Text('Neutral'),
+                const Text(
+                  'No moods yet',
+                  style: TextStyle(fontSize: 24),
                 ),
               ],
             ),
-            const SizedBox(height: 16),
-            Expanded(
-              child: _moods.isEmpty
-                  ? const Center(
-                      child: Text('No moods logged yet'),
-                    )
-                  : ListView.builder(
-                      itemCount: _moods.length,
-                      itemBuilder: (context, index) {
-                        return Card(
-                          shape: RoundedRectangleBorder(
-                            borderRadius: BorderRadius.circular(16),
-                          ),
-                          elevation: 4,
-                          child: Padding(
-                            padding: const EdgeInsets.all(16),
-                            child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                Text(
-                                  _moods[index].mood ?? '',
-                                  style: Theme.of(context)
-                                      .textTheme
-                                      .headlineSmall
-                                      ?.copyWith(
-                                        color: Theme.of(context)
-                                            .colorScheme
-                                            .primary,
-                                      ),
-                                ),
-                                const SizedBox(height: 8),
-                                Text(_moods[index].note ?? ''),
-                              ],
-                            ),
-                          ),
-                        );
-                      },
-                    ),
-            ),
-          ],
-        ),
+          )
+        : ListView.builder(
+            shrinkWrap: true,
+            itemCount: _moods.length,
+            itemBuilder: (context, index) {
+              return Card(
+                child: ListTile(
+                  leading: Icon(
+                    _moods[index].mood == 'Happy'
+                        ? Icons.sentiment_very_satisfied
+                        : _moods[index].mood == 'Sad'
+                            ? Icons.sentiment_very_dissatisfied
+                            : Icons.sentiment_neutral,
+                  ),
+                  title: Text(
+                    _moods[index].mood,
+                    style: const TextStyle(fontSize: 24),
+                  ),
+                  subtitle: Text(
+                    DateFormat('yyyy-MM-dd').format(_moods[index].date),
+                  ),
+                ),
+              );
+            },
+          );
+  }
+
+  Widget _buildStatsScreen() {
+    return Center(
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          const Icon(
+            Icons.stats,
+            size: 100,
+          ),
+          const Text(
+            'Statistics coming soon',
+            style: TextStyle(fontSize: 24),
+          ),
+        ],
       ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _addMood,
-        tooltip: 'Add Mood',
-        child: const Icon(Icons.add),
+    );
+  }
+
+  Widget _buildSettingsScreen() {
+    return Padding(
+      padding: const EdgeInsets.all(20.0),
+      child: Column(
+        children: [
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              const Text(
+                'Dark mode',
+                style: TextStyle(fontSize: 18),
+              ),
+              Switch(
+                value: _isDarkMode,
+                onChanged: _toggleDarkMode,
+              ),
+            ],
+          ),
+          const SizedBox(height: 20),
+          const Text(
+            'Language',
+            style: TextStyle(fontSize: 18),
+          ),
+          const SizedBox(height: 10),
+          DropdownButton(
+            isExpanded: true,
+            value: _languages[0],
+            items: _languages.map((language) {
+              return DropdownMenuItem(
+                child: Text(language.toUpperCase()),
+                value: language,
+                onTap: () {
+                  _changeLanguage(language);
+                },
+              );
+            }).toList(),
+            onChanged: (value) {},
+          ),
+        ],
       ),
     );
   }
 }
 
 class Mood {
-  final String id;
-  final String? mood;
-  final String? note;
+  final int id;
+  final DateTime date;
+  final String mood;
 
-  Mood({required this.id, this.mood, this.note});
+  Mood({required this.id, required this.date, required this.mood});
 }
