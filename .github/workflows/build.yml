@@ -37,6 +37,24 @@ jobs:
             echo "Building $app_name..."
             flutter create --project-name $(echo $app_name | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9_]/_/g') /tmp/$app_name
             python3 -c "
+content = open('$app_dir/main.dart').read().strip()
+if content.startswith('\`\`\`'):
+    lines = content.split('\n')
+    lines = lines[1:]
+    while lines and lines[-1].strip() == '\`\`\`':
+        lines = lines[:-1]
+    content = '\n'.join(lines)
+# Fix common AI mistakes
+content = content.replace('useMaterial3: true,', '')
+content = content.replace('useMaterial3: true', '')
+content = content.replace('Icons.stats', 'Icons.bar_chart')
+content = content.replace('colorScheme.accentColor', 'colorScheme.primary')
+content = content.replace('textTheme.headline6', 'textTheme.titleLarge')
+content = content.replace('textTheme.headline5', 'textTheme.headlineSmall')
+content = content.replace('import \'package:intl/intl.dart\';', '')
+content = content.replace('import \"package:intl/intl.dart\";', '')
+open('/tmp/$app_name/lib/main.dart', 'w').write(content)
+"
           content = open('$app_dir/main.dart').read().strip()
           if content.startswith('\`\`\`'):
               lines = content.split('\n')
