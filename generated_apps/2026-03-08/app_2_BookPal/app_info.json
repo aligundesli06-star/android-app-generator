@@ -1,0 +1,10 @@
+{
+  "name": "BookPal",
+  "description": "A social app for book lovers to discover new titles, connect with fellow readers, and share thoughts on their favorite books. It allows users to create a virtual bookshelf and join discussions.",
+  "features": [
+    "Book cataloging and search",
+    "Review and rating system",
+    "Discussion forums and groups"
+  ],
+  "target_audience": "Avid readers and book enthusiasts of all ages"
+}

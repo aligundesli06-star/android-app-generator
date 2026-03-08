@@ -1,0 +1,10 @@
+{
+  "name": "RecipeHub",
+  "description": "A recipe discovery app that allows users to explore new dishes, save favorite recipes, and create personalized meal plans. It features a large collection of user-generated and curated recipes.",
+  "features": [
+    "Recipe search and filtering",
+    "Meal planning and grocery lists",
+    "Recipe bookmarking and sharing"
+  ],
+  "target_audience": "Home cooks and food enthusiasts of all skill levels"
+}
