@@ -33,19 +33,21 @@ Only return valid JSON, no extra text."""}],
 def generate_flutter_code(app_name, description):
     response = client.chat.completions.create(
         model="llama-3.3-70b-versatile",
-        messages=[{"role": "user", "content": f"""Write a beautiful, modern Flutter app for: {app_name}
+        messages=[{"role": "user", "content": f"""Write a complete, professional Flutter app for: {app_name}
 Description: {description}
-Requirements:
-- Material 3 design (useMaterial3: true)
-- Beautiful color scheme with ColorScheme.fromSeed()
-- Custom AppBar with accent color
-- Cards with rounded corners (BorderRadius.circular(16)) and shadows
-- Proper padding (16px) and spacing throughout
-- FloatingActionButton with icon
-- Empty state message when no data
-- Use Icons from Material icons
-- Professional UI that looks like a real app
-- Complete working functionality
+
+Must include:
+- Material 3 design (useMaterial3: true) with ColorScheme.fromSeed()
+- Bottom navigation bar with at least 3 tabs (Home, Stats, Settings)
+- Settings page with: dark/light mode toggle, language selector (English/Turkish/Spanish)
+- Home screen with cards, icons, and meaningful content
+- Stats/progress screen with simple indicators
+- FloatingActionButton to add new items
+- Empty state UI with icon and message
+- Smooth and professional UI with padding, rounded corners, shadows
+- All text in English
+- Complete working Flutter code in a single main.dart file
+
 Only return the Dart code, no markdown, no explanation."""}],
         max_tokens=2000
     )
