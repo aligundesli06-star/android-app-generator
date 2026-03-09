@@ -1,0 +1,10 @@
+{
+  "name": "Recipe Book",
+  "description": "A cooking app that allows users to discover, save, and manage their favorite recipes, providing a convenient way to plan meals and grocery lists. It includes a database of recipes with step-by-step instructions.",
+  "features": [
+    "Recipe search and filtering",
+    "Meal planning and grocery lists",
+    "Recipe saving and customization"
+  ],
+  "target_audience": "Home cooks and food enthusiasts"
+}
