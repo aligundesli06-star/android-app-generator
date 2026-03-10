@@ -1,0 +1,10 @@
+{
+  "name": "NoteIt",
+  "description": "NoteIt is a simple note-taking app that allows users to organize their thoughts and ideas. It provides features like tagging, searching, and reminders.",
+  "features": [
+    "Note creation and editing",
+    "Tagging and categorization",
+    "Reminders and notifications"
+  ],
+  "target_audience": "Students, professionals, and individuals who need to stay organized"
+}

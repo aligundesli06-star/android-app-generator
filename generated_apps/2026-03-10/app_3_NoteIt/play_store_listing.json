@@ -1,0 +1,11 @@
+{
+  "short_description": "Simple note-taking app",
+  "full_description": "NoteIt is a simple note-taking app that allows users to organize their thoughts and ideas. It provides features like tagging, searching, and reminders. With NoteIt, you can create and manage your notes effortlessly. The tagging feature enables you to categorize your notes and access them quickly. The search function allows you to find specific notes by keyword or phrase. Additionally, you can set reminders to ensure you never forget important tasks or deadlines. NoteIt is designed to be intuitive and user-friendly, making it easy to use for people of all ages and skill levels.",
+  "keywords": [
+    "note taking",
+    "organization",
+    "productivity",
+    "reminders",
+    "tagging"
+  ]
+}

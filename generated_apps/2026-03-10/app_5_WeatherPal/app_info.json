@@ -1,0 +1,10 @@
+{
+  "name": "WeatherPal",
+  "description": "WeatherPal is a weather app that provides current and forecasted weather conditions. It offers features like location-based weather, alerts, and radar imagery.",
+  "features": [
+    "Current weather conditions",
+    "5-day forecast and hourly forecast",
+    "Weather alerts and notifications"
+  ],
+  "target_audience": "General users who want to stay informed about the weather"
+}
