@@ -1,0 +1,10 @@
+{
+  "name": "HabitBuddy",
+  "description": "HabitBuddy is a habit-tracking app that helps users build positive habits and break negative ones. It provides a simple and intuitive way to track daily activities.",
+  "features": [
+    "Habit tracking with reminders and notifications",
+    "Habit statistics and progress tracking",
+    "Customizable habit templates"
+  ],
+  "target_audience": "Individuals looking to improve their daily routines and productivity"
+}

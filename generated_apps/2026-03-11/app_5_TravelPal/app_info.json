@@ -1,0 +1,10 @@
+{
+  "name": "TravelPal",
+  "description": "TravelPal is a travel-planning app that helps users organize their trips and itineraries. It provides a simple way to track flights, hotels, and activities.",
+  "features": [
+    "Trip planning with itinerary management",
+    "Flight and hotel booking integration",
+    "Destination guides and activity suggestions"
+  ],
+  "target_audience": "Frequent travelers and adventure seekers"
+}

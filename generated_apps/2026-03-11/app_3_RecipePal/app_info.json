@@ -1,0 +1,10 @@
+{
+  "name": "RecipePal",
+  "description": "RecipePal is a recipe-discovery app that provides users with a wide variety of recipes and meal ideas. It allows users to save and organize their favorite recipes.",
+  "features": [
+    "Recipe search with filters and categorization",
+    "Recipe saving and organization",
+    "Meal planning and grocery list generation"
+  ],
+  "target_audience": "Home cooks and food enthusiasts"
+}

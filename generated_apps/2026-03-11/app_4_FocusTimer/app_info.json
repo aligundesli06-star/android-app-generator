@@ -1,0 +1,10 @@
+{
+  "name": "FocusTimer",
+  "description": "FocusTimer is a productivity app that helps users stay focused and on track with their work or studies. It provides a simple and customizable timer system.",
+  "features": [
+    "Pomodoro timer with customizable intervals",
+    "Focus mode with website blockers and notifications",
+    "Productivity statistics and insights"
+  ],
+  "target_audience": "Students, freelancers, and remote workers"
+}
