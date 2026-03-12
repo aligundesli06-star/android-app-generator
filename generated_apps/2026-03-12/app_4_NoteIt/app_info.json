@@ -1,0 +1,10 @@
+{
+  "name": "NoteIt",
+  "description": "A simple note-taking app that allows users to jot down quick notes and reminders. It provides a clean and intuitive interface.",
+  "features": [
+    "Note taking",
+    "Reminder setting",
+    "Note organization"
+  ],
+  "target_audience": "Students and professionals"
+}

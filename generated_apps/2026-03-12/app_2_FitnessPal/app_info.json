@@ -1,0 +1,10 @@
+{
+  "name": "FitnessPal",
+  "description": "A fitness tracking app that helps users set and achieve their workout goals. It provides a database of exercises and allows users to track their progress.",
+  "features": [
+    "Exercise database",
+    "Workout planning",
+    "Progress tracking"
+  ],
+  "target_audience": "Fitness enthusiasts"
+}

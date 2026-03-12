@@ -1,0 +1,10 @@
+{
+  "name": "BookWorm",
+  "description": "A book tracking app that allows users to log and track the books they've read. It provides recommendations based on their reading history.",
+  "features": [
+    "Book logging",
+    "Reading history",
+    "Personalized recommendations"
+  ],
+  "target_audience": "Book lovers"
+}
