@@ -1,0 +1,10 @@
+{
+  "name": "TravelDiary",
+  "description": "A travel journaling app to document trips and memories. Users can record experiences, add photos, and reflect on adventures.",
+  "features": [
+    "Trip planning and itinerary management",
+    "Travel journaling with notes, photos, and maps",
+    "Memory sharing and storytelling"
+  ],
+  "target_audience": "Travelers and adventure seekers"
+}

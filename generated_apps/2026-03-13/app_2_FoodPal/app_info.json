@@ -1,0 +1,10 @@
+{
+  "name": "FoodPal",
+  "description": "A social recipe-sharing platform for home cooks. Users can discover and share recipes with the community.",
+  "features": [
+    "Recipe sharing and discovery",
+    "User-generated recipes with ratings and reviews",
+    "Meal planning and grocery lists"
+  ],
+  "target_audience": "Home cooks and food enthusiasts"
+}

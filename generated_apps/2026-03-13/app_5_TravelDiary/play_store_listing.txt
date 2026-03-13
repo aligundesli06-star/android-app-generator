@@ -1,0 +1,12 @@
+{
+  "short_description": "Travel Journal",
+  "full_description": "TravelDiary is a travel journaling app designed to help you document your trips and memories. With TravelDiary, you can record your experiences, add photos, and reflect on your adventures. The app allows you to create a digital scrapbook of your travels, complete with notes, images, and memories. Whether you're a frequent traveler or just taking a weekend getaway, TravelDiary is the perfect companion to help you capture and preserve your travel experiences. Key features include: 
+- Easy note-taking and journaling
+- Photo and video upload
+- Organization by trip or location
+- Reflection and tagging system
+- Customizable and exportable entries
+
+Download TravelDiary today and start documenting your travels!",
+  "keywords": ["travel", "journal", "diary", "adventure", "memories"]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "StepUp",
+  "description": "A fitness app to track daily steps and activities. Users can set goals and compete with friends for motivation.",
+  "features": [
+    "Step tracking and daily activity monitoring",
+    "Customizable fitness goals and challenges",
+    "Social sharing and leaderboards"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals with wellness goals"
+}

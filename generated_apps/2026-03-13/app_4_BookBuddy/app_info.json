@@ -1,0 +1,10 @@
+{
+  "name": "BookBuddy",
+  "description": "A book discovery and tracking app for readers. Users can find new titles, track progress, and discuss with fellow book lovers.",
+  "features": [
+    "Book discovery with recommendations and reviews",
+    "Reading tracking and progress monitoring",
+    "Discussion forums for book clubs and readers"
+  ],
+  "target_audience": "Avid readers and book clubs"
+}
