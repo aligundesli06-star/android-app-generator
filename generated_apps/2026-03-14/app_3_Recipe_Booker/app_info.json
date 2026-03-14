@@ -1,0 +1,10 @@
+{
+  "name": "Recipe Booker",
+  "description": "A recipe management app that allows users to save, organize, and share their favorite recipes. It provides a simple and intuitive way to cook and discover new dishes.",
+  "features": [
+    "Recipe database with search and filter functionality",
+    "Meal planning and grocery list generation",
+    "Recipe sharing and import/export options"
+  ],
+  "target_audience": "Home cooks and food enthusiasts"
+}
