@@ -1,0 +1,10 @@
+{
+  "name": "Toasty",
+  "description": "Toasty is a simple todo list app that helps users manage their daily tasks. It provides a clean and intuitive interface for staying organized.",
+  "features": [
+    "Todo list creation with customizable tasks",
+    "Due date reminders and notifications",
+    "Task prioritization and categorization"
+  ],
+  "target_audience": "Students and professionals with busy schedules"
+}

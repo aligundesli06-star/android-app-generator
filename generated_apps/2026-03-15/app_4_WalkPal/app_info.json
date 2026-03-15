@@ -1,0 +1,10 @@
+{
+  "name": "WalkPal",
+  "description": "WalkPal is a walking companion app that helps users track their daily steps and distance. It provides a fun and motivational way to stay active.",
+  "features": [
+    "Step tracking with distance and calorie calculation",
+    "Daily goals and challenges",
+    "Leaderboard and social sharing"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals looking to stay active"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "EasyBudget",
+  "description": "EasyBudget is a personal finance app that helps users track their expenses and create a budget. It provides a simple and intuitive way to manage money.",
+  "features": [
+    "Expense tracking with categorization",
+    "Budget creation with customizable categories",
+    "Transaction reminders and notifications"
+  ],
+  "target_audience": "Young adults and individuals with basic financial needs"
+}

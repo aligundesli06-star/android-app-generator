@@ -1,0 +1,10 @@
+{
+  "name": "HabitTracker",
+  "description": "HabitTracker is a habit-building app that helps users create and maintain positive habits. It provides a simple and motivational way to build routines.",
+  "features": [
+    "Habit creation with customizable tracking",
+    "Daily reminders and notifications",
+    "Habit statistics and streaks"
+  ],
+  "target_audience": "Individuals looking to improve their daily routines"
+}

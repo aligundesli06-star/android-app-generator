@@ -1,0 +1,11 @@
+{
+  "short_description": "Simple Todo List",
+  "full_description": "Toasty is a simple todo list app that helps users manage their daily tasks. It provides a clean and intuitive interface for staying organized. With Toasty, you can easily create, edit, and delete tasks, and mark them as completed when you're done. The app also allows you to prioritize tasks and set reminders, so you'll never forget an important deadline. Whether you're a student, a working professional, or simply someone who wants to stay on top of their daily routine, Toasty is the perfect tool for you. Download Toasty today and start managing your tasks with ease!",
+  "keywords": [
+    "todo",
+    "tasks",
+    "organizer",
+    "productivity",
+    "reminder"
+  ]
+}
