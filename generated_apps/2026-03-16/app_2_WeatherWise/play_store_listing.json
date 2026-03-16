@@ -1,0 +1,11 @@
+{
+  "short_description": "Real-time weather updates",
+  "full_description": "WeatherWise is a weather forecasting app that provides users with real-time weather updates and alerts. It helps users plan their daily activities according to the weather. With WeatherWise, you can stay ahead of the weather and make informed decisions about your day. Receive push notifications for severe weather alerts, and get detailed forecasts for your location. The app also includes features such as hourly and daily forecasts, temperature and precipitation charts, and weather radar imagery. Whether you're planning a outdoor adventure or just want to know what to wear, WeatherWise has got you covered.",
+  "keywords": [
+    "weather",
+    "forecast",
+    "alerts",
+    "real-time",
+    "planning"
+  ]
+}

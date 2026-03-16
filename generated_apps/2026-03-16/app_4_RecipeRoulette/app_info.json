@@ -1,0 +1,10 @@
+{
+  "name": "RecipeRoulette",
+  "description": "A recipe discovery app that suggests new and exciting recipes based on users' dietary preferences and ingredient availability. It helps users explore different cuisines and cooking techniques.",
+  "features": [
+    "Recipe suggestions with step-by-step cooking instructions",
+    "Dietary filtering and ingredient customization",
+    "Meal planning and grocery list generation"
+  ],
+  "target_audience": "Foodies and home cooks looking for new recipe ideas"
+}
