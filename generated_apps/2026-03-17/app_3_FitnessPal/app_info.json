@@ -1,0 +1,12 @@
+{
+  "name": "FitnessPal",
+  "description": "FitnessPal is a fitness app that helps users track their workouts and nutrition. It provides a comprehensive database of exercises and meals to support a healthy lifestyle.",
+  "features": [
+    "Workout tracking",
+    "Nutrition planning",
+    "Exercise database",
+    "Meal tracking",
+    "Progress statistics"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals looking to adopt a healthier lifestyle"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "To-do List Pro",
+  "description": "To-do List Pro is a task management app that helps users stay organized and focused. It provides a customizable to-do list and reminders to ensure timely completion of tasks.",
+  "features": [
+    "Customizable to-do list",
+    "Reminder system",
+    "Task prioritization",
+    "Due date tracking",
+    "Statistics and insights"
+  ],
+  "target_audience": "Individuals looking to improve their productivity and time management skills"
+}
