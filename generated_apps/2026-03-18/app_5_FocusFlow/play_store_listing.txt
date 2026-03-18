@@ -1,0 +1,10 @@
+{
+  "short_description": "Stay focused",
+  "full_description": "FocusFlow is a productivity app designed to help users stay focused and avoid distractions. It provides a timer that helps you work in focused intervals, statistics to track your progress, and customizable settings to fit your unique needs. With FocusFlow, you can manage your time and attention more effectively, leading to increased productivity and better work-life balance. Key features include: 
+  - A simple and intuitive interface to get you started quickly
+  - Customizable timer settings to fit your work style
+  - Detailed statistics to help you identify areas for improvement
+  - Personalized settings to help you stay on track
+  Download FocusFlow today and start achieving your goals!",
+  "keywords": ["productivity", "focus", "timer", "distraction", "management"]
+}

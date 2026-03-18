@@ -1,0 +1,10 @@
+{
+  "name": "StepChallenge",
+  "description": "StepChallenge is a fitness app that encourages users to take more steps and engage in physical activity. It provides challenges, rewards, and social features to motivate users to move more.",
+  "features": [
+    "Step tracking with daily and weekly challenges",
+    "Reward system with badges and leaderboards",
+    "Social features to connect with friends and join step challenges"
+  ],
+  "target_audience": "Individuals who want to increase their physical activity and improve their overall health"
+}
