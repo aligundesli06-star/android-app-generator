@@ -1,0 +1,10 @@
+{
+  "name": "Walk Tracker",
+  "description": "A fitness app for tracking daily steps, distance, and calories burned. It provides motivation and rewards for achieving fitness goals.",
+  "features": [
+    "Track daily steps, distance, and calories burned",
+    "Set and achieve fitness goals with rewards",
+    "Integrate with wearable devices and health apps"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals with activity goals"
+}

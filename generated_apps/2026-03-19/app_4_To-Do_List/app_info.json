@@ -1,0 +1,10 @@
+{
+  "name": "To-Do List",
+  "description": "A simple and intuitive task management app. It allows users to create, prioritize, and track their tasks and projects.",
+  "features": [
+    "Create and manage to-do lists",
+    "Prioritize tasks with due dates and reminders",
+    "Project management with categories and tags"
+  ],
+  "target_audience": "Individuals and teams looking to boost their productivity"
+}
