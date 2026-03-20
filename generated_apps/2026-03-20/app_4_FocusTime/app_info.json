@@ -1,0 +1,10 @@
+{
+  "name": "FocusTime",
+  "description": "A productivity app that helps users stay focused on their tasks and goals, providing features to avoid distractions and increase concentration. It uses the Pomodoro Technique to boost productivity.",
+  "features": [
+    "Pomodoro timer and intervals",
+    "Task management and prioritization",
+    "Customizable focus-enhancing features"
+  ],
+  "target_audience": "Students, professionals, and individuals looking to improve their productivity and time management skills"
+}

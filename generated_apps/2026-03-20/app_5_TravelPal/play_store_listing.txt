@@ -1,0 +1,11 @@
+{
+  "short_description": "Plan your trip",
+  "full_description": "TravelPal is your ultimate travel companion. It helps you organize your trips, from booking flights and hotels to planning activities. With personalized recommendations for destinations and itineraries, TravelPal makes it easy to create your dream vacation. Whether you're looking for a relaxing getaway or an action-packed adventure, TravelPal has got you covered. Key features include: 
+- Flight booking: Search and book flights from hundreds of airlines
+- Hotel booking: Choose from a wide range of hotels, resorts, and hostels
+- Activity planning: Discover and book activities, tours, and experiences
+- Personalized recommendations: Get tailored suggestions for destinations and itineraries based on your interests and preferences
+- Trip organization: Keep all your travel plans and documents in one place
+Download TravelPal now and start planning your next adventure!",
+  "keywords": ["travel", "trip planner", "flight booking", "hotel booking", "itinerary"]
+}
