@@ -1,0 +1,10 @@
+{
+  "name": "Language Learner",
+  "description": "A language learning app offering interactive lessons, quizzes, and exercises to help users improve their language skills. It features a gamified approach to learning.",
+  "features": [
+    "Interactive lessons and quizzes",
+    "Gamified language learning",
+    "Progress tracking and rewards"
+  ],
+  "target_audience": "Language learners of all levels"
+}
