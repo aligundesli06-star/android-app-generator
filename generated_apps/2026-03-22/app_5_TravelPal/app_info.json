@@ -1,0 +1,10 @@
+{
+  "name": "TravelPal",
+  "description": "A travel planning app that provides users with destination guides, itinerary suggestions, and language translation features. It helps users navigate unfamiliar places and make the most of their trips.",
+  "features": [
+    "Destination guides and recommendations",
+    "Itinerary planning and customization",
+    "Language translation and phrasebook"
+  ],
+  "target_audience": "Travelers and tourists exploring new destinations"
+}
