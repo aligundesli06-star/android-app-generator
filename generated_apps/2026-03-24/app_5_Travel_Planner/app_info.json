@@ -1,0 +1,10 @@
+{
+  "name": "Travel Planner",
+  "description": "Travel Planner is an Android app that helps users plan and organize their trips. It provides a comprehensive guide to destinations, including attractions, restaurants, and accommodations.",
+  "features": [
+    "Destination guides and recommendations",
+    "Itinerary planning and management",
+    "Real-time weather and currency updates"
+  ],
+  "target_audience": "Travelers and adventure seekers"
+}
