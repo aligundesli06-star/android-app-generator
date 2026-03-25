@@ -1,0 +1,10 @@
+{
+  "name": "To-Do List",
+  "description": "A task-management app that allows users to create and manage to-do lists, set reminders, and track progress. It provides customizable lists and integrates with popular calendar apps.",
+  "features": [
+    "Customizable to-do lists with due dates and reminders",
+    "Task prioritization and categorization",
+    "Integration with popular calendar apps and services"
+  ],
+  "target_audience": "Individuals looking to improve productivity and manage their time more effectively"
+}

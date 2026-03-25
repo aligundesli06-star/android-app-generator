@@ -1,0 +1,10 @@
+{
+  "name": "Easy Recipes",
+  "description": "A recipe-discovery app that provides users with a vast collection of easy-to-make recipes, along with step-by-step cooking instructions and nutritional information.",
+  "features": [
+    "Recipe search and filtering by ingredient, course, or cuisine",
+    "Step-by-step cooking instructions with images and videos",
+    "Nutritional information and meal planning features"
+  ],
+  "target_audience": "Home cooks and individuals looking for healthy meal ideas"
+}
