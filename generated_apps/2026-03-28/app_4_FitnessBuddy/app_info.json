@@ -1,0 +1,10 @@
+{
+  "name": "FitnessBuddy",
+  "description": "FitnessBuddy is a fitness app that connects users with workout partners and provides personalized exercise plans. It helps users stay motivated and reach their fitness goals.",
+  "features": [
+    "Workout planning with customizable exercises and routines",
+    "Social feature to connect with workout partners and join fitness groups",
+    "Progress tracking with statistics and rewards"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals looking for workout motivation"
+}

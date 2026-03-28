@@ -1,0 +1,10 @@
+{
+  "name": "FoodFinder",
+  "description": "FoodFinder is a food discovery app that helps users find new restaurants and recipes. It allows users to filter by cuisine, location, and dietary restrictions.",
+  "features": [
+    "Restaurant discovery with user reviews and ratings",
+    "Recipe suggestions based on user's dietary preferences",
+    "Meal planning feature with grocery lists"
+  ],
+  "target_audience": "Foodies and individuals looking for new dining experiences"
+}
