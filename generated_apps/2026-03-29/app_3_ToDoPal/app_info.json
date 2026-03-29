@@ -1,0 +1,10 @@
+{
+  "name": "ToDoPal",
+  "description": "ToDoPal is a simple and intuitive task management app that helps users stay organized and focused. It provides a clean and minimalistic interface to manage tasks and to-do lists.",
+  "features": [
+    "Task creation and management with due dates and priorities",
+    "To-do list organization and categorization",
+    "Reminders and notifications for upcoming tasks"
+  ],
+  "target_audience": "Students, professionals, and individuals with busy schedules"
+}
