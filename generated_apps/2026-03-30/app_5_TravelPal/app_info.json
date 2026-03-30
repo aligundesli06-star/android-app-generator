@@ -1,0 +1,10 @@
+{
+  "name": "TravelPal",
+  "description": "TravelPal is a travel companion app that helps users plan, organize, and navigate their trips. It features a map view, itinerary builder, and packing list generator.",
+  "features": [
+    "Trip planning with itinerary builder",
+    "Map view with destination markers and routing",
+    "Packing list generator with customizable items"
+  ],
+  "target_audience": "Travelers and adventurers seeking a convenient and organized way to plan their trips"
+}
