@@ -1,0 +1,10 @@
+{
+  "name": "HabitHub",
+  "description": "HabitHub is a habit-tracking app that allows users to set and maintain positive habits, such as reading, exercise, or meditation.",
+  "features": [
+    "Habit tracking with customizable routines",
+    "Reminders and notifications for habit maintenance",
+    "Community features for shared habit support"
+  ],
+  "target_audience": "Individuals looking to improve their daily routines and habits"
+}

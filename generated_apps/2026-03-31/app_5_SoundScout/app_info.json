@@ -1,0 +1,10 @@
+{
+  "name": "SoundScout",
+  "description": "SoundScout is a noise-level monitoring app that helps users discover and avoid loud environments, protecting their hearing health.",
+  "features": [
+    "Real-time noise level monitoring",
+    "Customizable alerts for loud environments",
+    "Statistics and insights on noise exposure"
+  ],
+  "target_audience": "Music lovers, concert-goers, and individuals working in loud environments"
+}
