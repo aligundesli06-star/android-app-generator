@@ -1,0 +1,10 @@
+{
+  "name": "MoodJournal",
+  "description": "A mobile app for tracking emotions and moods, helping users identify patterns and improve mental well-being. It allows users to log their feelings and reflect on their emotional state over time.",
+  "features": [
+    "Daily mood tracking",
+    "Emotion logging with notes and tags",
+    "Mood analytics and statistics"
+  ],
+  "target_audience": "Individuals prioritizing mental health and wellness"
+}

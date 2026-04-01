@@ -1,0 +1,10 @@
+{
+  "name": "FocusForge",
+  "description": "A productivity app that uses the Pomodoro Technique to help users stay focused and avoid distractions. It provides a timer, task list, and statistics to boost productivity.",
+  "features": [
+    "Pomodoro timer with customizable intervals",
+    "Task management and prioritization",
+    "Productivity statistics and insights"
+  ],
+  "target_audience": "Students, freelancers, and professionals seeking to improve their productivity"
+}
