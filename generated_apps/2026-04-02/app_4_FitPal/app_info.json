@@ -1,0 +1,10 @@
+{
+  "name": "FitPal",
+  "description": "FitPal is a workout tracking app that helps users track their exercise routines and monitor their progress. It provides a simple and customizable way to log workouts and track fitness goals.",
+  "features": [
+    "Workout tracking with customizable exercises and routines",
+    "Progress analytics and insights for strength, cardio, and flexibility",
+    "Optional integration with wearable devices or fitness trackers"
+  ],
+  "target_audience": "Fitness enthusiasts, athletes, and individuals looking to improve their physical health"
+}
