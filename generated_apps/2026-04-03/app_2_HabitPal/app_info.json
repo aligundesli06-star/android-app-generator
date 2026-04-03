@@ -1,0 +1,10 @@
+{
+  "name": "HabitPal",
+  "description": "HabitPal is a habit-forming app that helps users create and maintain positive habits. It sends reminders and tracks progress to encourage consistent behavior.",
+  "features": [
+    "Customizable habit tracking",
+    "Personalized reminders and notifications",
+    "Progress analytics and rewards"
+  ],
+  "target_audience": "Individuals looking to improve their daily routines and productivity"
+}

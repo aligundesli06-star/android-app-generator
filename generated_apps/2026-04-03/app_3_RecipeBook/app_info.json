@@ -1,0 +1,10 @@
+{
+  "name": "RecipeBook",
+  "description": "RecipeBook is a digital cookbook that allows users to store and organize their favorite recipes. It also provides meal planning and grocery list features.",
+  "features": [
+    "Recipe storage and organization",
+    "Meal planning and grocery list generation",
+    "Nutritional information and dietary filtering"
+  ],
+  "target_audience": "Home cooks and individuals with dietary restrictions"
+}
