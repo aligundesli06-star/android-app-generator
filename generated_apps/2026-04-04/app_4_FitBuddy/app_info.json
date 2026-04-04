@@ -1,0 +1,10 @@
+{
+  "name": "FitBuddy",
+  "description": "A fitness app that pairs users with workout buddies for motivation and accountability. It provides routines, tracking, and social sharing features.",
+  "features": [
+    "Workout routines with exercises, sets, and reps",
+    "Buddy matching based on fitness goals and preferences",
+    "Progress tracking with rewards and leaderboards"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals looking for motivation"
+}

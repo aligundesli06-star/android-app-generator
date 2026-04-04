@@ -1,0 +1,10 @@
+{
+  "name": "SoundScout",
+  "description": "A social app for discovering and sharing local music events. It connects users with similar music tastes and provides event recommendations.",
+  "features": [
+    "Event listings with filters for genre, location, and date",
+    "User profiles for connecting with like-minded music fans",
+    "Reviews and ratings for events and venues"
+  ],
+  "target_audience": "Music lovers and concert-goers"
+}

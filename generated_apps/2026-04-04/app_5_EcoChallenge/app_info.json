@@ -1,0 +1,10 @@
+{
+  "name": "EcoChallenge",
+  "description": "A sustainability app that encourages users to adopt eco-friendly habits. It provides challenges, tips, and a community for sharing progress.",
+  "features": [
+    "Daily and weekly eco-challenges with rewards and badges",
+    "Personalized tips for reducing waste and conserving resources",
+    "Community forum for discussing eco-friendly practices"
+  ],
+  "target_audience": "Environmentally conscious individuals and families"
+}
