@@ -1,0 +1,10 @@
+{
+  "name": "Recipe Book",
+  "description": "A recipe management app that allows users to store, discover, and share favorite recipes. It includes meal planning and grocery list features.",
+  "features": [
+    "Recipe search and filtering",
+    "Meal planning and grocery lists",
+    "Recipe sharing and bookmarking"
+  ],
+  "target_audience": "Home cooks and food enthusiasts"
+}

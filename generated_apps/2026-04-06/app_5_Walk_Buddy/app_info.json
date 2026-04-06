@@ -1,0 +1,10 @@
+{
+  "name": "Walk Buddy",
+  "description": "A walking companion app that encourages users to walk more by tracking steps, distance, and calories burned. It offers rewards and challenges for motivation.",
+  "features": [
+    "Step tracking and distance monitoring",
+    "Calorie burn tracking and estimates",
+    "Rewards and challenges for motivation"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals with fitness goals"
+}
