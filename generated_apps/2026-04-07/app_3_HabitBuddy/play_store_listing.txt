@@ -1,0 +1,11 @@
+{
+  "short_description": "Habit tracker",
+  "full_description": "HabitBuddy is a habit-forming app designed to help you create and maintain positive habits, such as exercise, reading, or meditation. With its user-friendly interface and personalized tracking features, HabitBuddy makes it easy to set and achieve your goals. The app also provides a supportive community where you can connect with like-minded individuals, share your progress, and get motivated to reach new heights. Whether you're looking to improve your physical health, mental well-being, or productivity, HabitBuddy is the perfect companion to help you stay on track. Key features include: 
+- Customizable habit tracking: Set reminders, track progress, and receive notifications to help you stay consistent.
+- Personalized recommendations: Get tailored suggestions based on your habits, goals, and preferences.
+- Community support: Join groups, discuss your progress, and get support from others who share similar interests.
+- Reward system: Earn badges, points, and rewards for achieving your milestones and maintaining your habits.
+- Insights and analytics: View detailed statistics and insights to understand your habits, identify patterns, and make data-driven decisions.
+Download HabitBuddy today and start building the habits that will transform your life.",
+  "keywords": ["habit tracker", "goal setting", "productivity", "motivation", "self improvement"]
+}
