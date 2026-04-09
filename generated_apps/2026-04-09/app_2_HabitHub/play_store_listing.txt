@@ -1,0 +1,10 @@
+{
+  "short_description": "Build positive routines",
+  "full_description": "HabitHub is a habit formation app designed to help you create and maintain positive routines. With a simple and intuitive interface, you can easily track your daily habits and set reminders to ensure you stay on track. Whether you want to start exercising, reading, or practicing mindfulness, HabitHub provides the tools you need to make lasting changes. Key features include: 
+  - Customizable habit tracking: Create habits tailored to your goals and needs
+  - Reminders: Receive notifications to help you stay on track
+  - Progress tracking: See how far you've come and stay motivated
+  - Community support: Join a community of like-minded individuals working towards their goals
+  Download HabitHub today and start building the habits that will help you achieve your goals.",
+  "keywords": ["habits", "routines", "productivity", "self-improvement", "motivation"]
+}

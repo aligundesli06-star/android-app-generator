@@ -1,0 +1,10 @@
+{
+  "name": "HabitHub",
+  "description": "A habit formation app that helps users create and maintain positive routines. It provides a simple and intuitive interface for tracking daily habits and setting reminders.",
+  "features": [
+    "Habit tracking with customizable routines",
+    "Reminders and notifications",
+    "Progress statistics and rewards"
+  ],
+  "target_audience": "Productivity enthusiasts and individuals looking to improve their daily habits"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "SoundScout",
+  "description": "A sound discovery app that helps users find and explore new music, podcasts, and audiobooks. It provides a personalized feed based on users' listening history and preferences.",
+  "features": [
+    "Personalized music and podcast recommendations",
+    "Audiobook and podcast player",
+    "Discovery feed with trending and new releases"
+  ],
+  "target_audience": "Music and podcast fans"
+}
