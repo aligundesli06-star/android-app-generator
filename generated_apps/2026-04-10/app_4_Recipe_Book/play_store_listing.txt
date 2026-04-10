@@ -1,0 +1,11 @@
+{
+  "short_description": "Digital Cookbook",
+  "full_description": "Welcome to Recipe Book, your ultimate digital cookbook companion. With Recipe Book, you can store and discover new recipes, plan your meals, and create grocery lists with ease. Organize your favorite recipes in one place and share them with friends and family. Discover new recipes and cooking ideas, and get inspired to try something new. Key features include: 
+- Store and organize your favorite recipes
+- Discover new recipes and cooking ideas
+- Plan your meals for the week
+- Create grocery lists and keep track of the ingredients you need
+- Share your favorite recipes with others
+Download Recipe Book today and start cooking up a storm!",
+  "keywords": ["recipes", "cooking", "meal planning", "grocery list", "cookbook"]
+}
