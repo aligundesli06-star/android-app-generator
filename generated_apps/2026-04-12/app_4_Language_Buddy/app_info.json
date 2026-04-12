@@ -1,0 +1,10 @@
+{
+  "name": "Language Buddy",
+  "description": "A language learning app that connects native speakers with learners for practice and conversation. It helps users improve their language skills through real-life conversations.",
+  "features": [
+    "Language exchange and conversation practice",
+    "Native speaker matching and messaging",
+    "Language lessons and resource recommendations"
+  ],
+  "target_audience": "Language learners and travelers"
+}
