@@ -1,0 +1,11 @@
+{
+  "short_description": "Track expenses",
+  "full_description": "ExpenseMonitor is a personal finance app designed to help you track your expenses and stay within budget. It allows you to manage your spending, create budgets, and make informed financial decisions. With ExpenseMonitor, you can easily record your daily expenses, categorize them, and view detailed reports to understand where your money is going. The app also provides features such as budgeting, reminders, and alerts to help you stay on top of your finances. Whether you're looking to save money, pay off debt, or simply gain control over your spending, ExpenseMonitor is the perfect tool for you.",
+  "keywords": [
+    "expenses",
+    "budget",
+    "finance",
+    "spending",
+    "money"
+  ]
+}

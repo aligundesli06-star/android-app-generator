@@ -1,0 +1,10 @@
+{
+  "name": "ExpenseMonitor",
+  "description": "A personal finance app to track expenses and stay within budget. It helps users manage their spending and make informed financial decisions.",
+  "features": [
+    "Expense categorization",
+    "Budget setting and alerts",
+    "Transaction history and analysis"
+  ],
+  "target_audience": "Individuals looking to manage their finances effectively"
+}

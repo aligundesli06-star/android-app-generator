@@ -1,0 +1,10 @@
+{
+  "name": "QuizUp",
+  "description": "A trivia app that tests users' knowledge in various categories. It features multiple question types and difficulty levels.",
+  "features": [
+    "Multiple question categories",
+    "Leaderboard and score tracking",
+    "Daily challenges and rewards"
+  ],
+  "target_audience": "Students, knowledge enthusiasts, and people looking for entertainment"
+}
