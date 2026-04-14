@@ -1,0 +1,10 @@
+{
+  "name": "HabitHub",
+  "description": "HabitHub is a habit-forming app that helps users create and maintain healthy habits. It provides a simple and intuitive interface to track progress and stay motivated.",
+  "features": [
+    "Habit tracking with customizable goals and reminders",
+    "Progress analytics and statistics",
+    "Community features to share and learn from others"
+  ],
+  "target_audience": "Individuals looking to improve their daily habits and productivity"
+}
