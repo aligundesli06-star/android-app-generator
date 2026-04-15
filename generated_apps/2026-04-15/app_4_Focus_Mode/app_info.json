@@ -1,0 +1,10 @@
+{
+  "name": "Focus Mode",
+  "description": "An app that helps users stay concentrated and avoid distractions, providing a productive environment for work and study. It blocks social media and other distracting websites.",
+  "features": [
+    "Website blocking and filtering",
+    "Customizable focus modes and schedules",
+    "Productivity tracking and statistics"
+  ],
+  "target_audience": "Students, professionals, and individuals with productivity goals"
+}
