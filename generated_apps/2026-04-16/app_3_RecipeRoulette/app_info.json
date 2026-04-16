@@ -1,0 +1,10 @@
+{
+  "name": "RecipeRoulette",
+  "description": "RecipeRoulette is a cooking app that provides users with random recipe suggestions based on their dietary preferences and ingredient availability. It helps users discover new recipes and cooking ideas.",
+  "features": [
+    "Random recipe generator with filtering options",
+    "Meal planning and grocery list management",
+    "Recipe bookmarking and sharing"
+  ],
+  "target_audience": "Home cooks and food enthusiasts"
+}

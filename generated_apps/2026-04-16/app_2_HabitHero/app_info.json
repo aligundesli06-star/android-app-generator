@@ -1,0 +1,10 @@
+{
+  "name": "HabitHero",
+  "description": "HabitHero is a habit-forming app that helps users create and maintain positive habits. It provides a simple and gamified way to build new habits and break old ones.",
+  "features": [
+    "Habit tracking with customizable goals and reminders",
+    "Reward system with points and badges",
+    "Community support and leaderboards"
+  ],
+  "target_audience": "Individuals looking to improve their productivity and well-being"
+}

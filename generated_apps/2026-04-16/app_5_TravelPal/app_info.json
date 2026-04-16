@@ -1,0 +1,10 @@
+{
+  "name": "TravelPal",
+  "description": "TravelPal is a travel companion app that helps users plan and organize their trips. It provides a simple and intuitive way to manage itineraries, bookings, and expenses.",
+  "features": [
+    "Trip planning with itinerary management and mapping",
+    "Booking management for flights, hotels, and activities",
+    "Expense tracking with budgeting and currency conversion"
+  ],
+  "target_audience": "Travelers and adventure-seekers"
+}

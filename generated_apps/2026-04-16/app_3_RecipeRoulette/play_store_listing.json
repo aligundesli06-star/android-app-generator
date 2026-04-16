@@ -1,0 +1,11 @@
+{
+  "short_description": "Random recipe suggestions",
+  "full_description": "RecipeRoulette is a cooking app that provides users with random recipe suggestions based on their dietary preferences and ingredient availability. It helps users discover new recipes and cooking ideas. With RecipeRoulette, you can input your dietary needs, such as vegetarian, gluten-free, or low-carb, and the app will generate a list of recipes tailored to your preferences. You can also add the ingredients you have available at home, and the app will suggest recipes that you can make using those ingredients. The app features a vast library of recipes, including main courses, side dishes, desserts, and more. Each recipe comes with a detailed list of ingredients, step-by-step instructions, and nutritional information. RecipeRoulette is perfect for home cooks who want to try new recipes, reduce food waste, and make meal planning easier. Download RecipeRoulette today and start cooking with ease and inspiration!",
+  "keywords": [
+    "cooking app",
+    "random recipes",
+    "meal planning",
+    "dietary preferences",
+    "recipe suggestions"
+  ]
+}
