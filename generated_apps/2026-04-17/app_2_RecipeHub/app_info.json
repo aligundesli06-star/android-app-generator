@@ -1,0 +1,10 @@
+{
+  "name": "RecipeHub",
+  "description": "RecipeHub is a cooking app that provides users with a vast collection of recipes and meal planning features. It allows users to discover new dishes and manage their shopping lists.",
+  "features": [
+    "Extensive recipe library with search and filter functionality",
+    "Meal planning with grocery list generation",
+    "Step-by-step cooking instructions with images"
+  ],
+  "target_audience": "Home cooks and food enthusiasts"
+}

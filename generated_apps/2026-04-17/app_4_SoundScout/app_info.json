@@ -1,0 +1,10 @@
+{
+  "name": "SoundScout",
+  "description": "SoundScout is a sound-based meditation and relaxation app that helps users unwind and focus. It features a variety of calming sounds and guided meditations.",
+  "features": [
+    "Library of calming sounds and music",
+    "Guided meditations for stress relief and sleep",
+    "Personalizable soundscapes for focus and relaxation"
+  ],
+  "target_audience": "Individuals seeking stress relief and improved mental well-being"
+}
