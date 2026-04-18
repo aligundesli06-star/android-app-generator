@@ -1,0 +1,10 @@
+{
+  "name": "Dream Journal",
+  "description": "An app to record and track your dreams. It helps you reflect on your subconscious mind and identify recurring themes.",
+  "features": [
+    "Dream entry with date and time stamp",
+    "Emotion and theme tagging",
+    "Search functionality to track recurring dreams"
+  ],
+  "target_audience": "Individuals interested in self-reflection and personal growth"
+}

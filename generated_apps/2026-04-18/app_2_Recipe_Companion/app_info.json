@@ -1,0 +1,10 @@
+{
+  "name": "Recipe Companion",
+  "description": "A cooking assistant app that provides you with a variety of recipes and step-by-step cooking instructions. It also allows you to make grocery lists and keep track of your favorite dishes.",
+  "features": [
+    "Recipe search and filter functionality",
+    "Meal planning and grocery list creation",
+    "Favorite recipes bookmarking"
+  ],
+  "target_audience": "Home cooks and baking enthusiasts"
+}
