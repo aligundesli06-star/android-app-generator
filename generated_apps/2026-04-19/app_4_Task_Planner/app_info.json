@@ -1,0 +1,10 @@
+{
+  "name": "Task Planner",
+  "description": "The Task Planner app helps users organize and manage their tasks, providing a simple and intuitive way to prioritize and schedule their work. It includes features for setting deadlines and reminders, as well as tracking progress and completing tasks.",
+  "features": [
+    "Task list management and prioritization",
+    "Deadline and reminder setting",
+    "Progress tracking and task completion"
+  ],
+  "target_audience": "Students, professionals, and individuals with busy schedules"
+}

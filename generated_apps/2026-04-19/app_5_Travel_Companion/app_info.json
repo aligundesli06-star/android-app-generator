@@ -1,0 +1,10 @@
+{
+  "name": "Travel Companion",
+  "description": "The Travel Companion app assists users in planning and organizing their trips, providing a convenient way to book flights, hotels, and activities, as well as track their itinerary and expenses. It includes features for researching destinations and finding local recommendations.",
+  "features": [
+    "Trip planning and itinerary management",
+    "Booking and reservation features",
+    "Destination research and local recommendations"
+  ],
+  "target_audience": "Frequent travelers and individuals planning vacations"
+}
