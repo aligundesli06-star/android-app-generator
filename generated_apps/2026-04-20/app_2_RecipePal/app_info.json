@@ -1,0 +1,10 @@
+{
+  "name": "RecipePal",
+  "description": "A cooking companion app that provides recipe suggestions based on dietary preferences and ingredient availability. Users can discover new recipes and manage their meal plans.",
+  "features": [
+    "Recipe search with filtering by ingredient and diet",
+    "Meal planning with grocery lists",
+    "Step-by-step cooking instructions with images"
+  ],
+  "target_audience": "Home cooks and meal planners"
+}

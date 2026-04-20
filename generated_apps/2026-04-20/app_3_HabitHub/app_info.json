@@ -1,0 +1,10 @@
+{
+  "name": "HabitHub",
+  "description": "An app to help users build positive habits and break negative ones, providing a community for support and motivation. Users can track their progress and earn rewards.",
+  "features": [
+    "Habit tracking with customizable goals",
+    "Community forum for discussion and support",
+    "Reward system with unlockable badges"
+  ],
+  "target_audience": "Individuals looking to improve their daily habits"
+}
