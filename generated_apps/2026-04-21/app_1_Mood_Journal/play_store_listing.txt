@@ -1,0 +1,11 @@
+{
+  "short_description": "Track emotions & moods",
+  "full_description": "Mood Journal is a personal and private space for you to track your emotions and moods. By monitoring your feelings and identifying patterns, you can gain a deeper understanding of your mental health and well-being. The app allows you to express yourself freely, without judgment, and provides a safe outlet for your thoughts and emotions. With Mood Journal, you can: 
+- Record your daily emotions and moods
+- Identify patterns and correlations between your feelings and events
+- Monitor your progress over time
+- Set reminders to practice self-care and mindfulness
+- Access a library of resources and tips for managing stress and anxiety
+Download Mood Journal today and take the first step towards a happier, healthier you.",
+  "keywords": ["mood tracker", "emotional journal", "mental health", "self care", "mindfulness"]
+}

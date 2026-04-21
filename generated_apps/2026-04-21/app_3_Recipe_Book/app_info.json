@@ -1,0 +1,10 @@
+{
+  "name": "Recipe Book",
+  "description": "A digital cookbook app that stores and organizes recipes, allowing users to discover new dishes and plan meals. It features a search function, meal planning, and grocery lists.",
+  "features": [
+    "Recipe search and filtering",
+    "Meal planning and calendar integration",
+    "Grocery list generation"
+  ],
+  "target_audience": "Home cooks, foodies, and health-conscious individuals"
+}
