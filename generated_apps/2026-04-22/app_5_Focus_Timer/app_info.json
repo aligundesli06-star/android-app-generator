@@ -1,0 +1,10 @@
+{
+  "name": "Focus Timer",
+  "description": "A productivity app to help users stay focused and on track with their tasks. It provides a simple and customizable timer to boost productivity.",
+  "features": [
+    "Customizable timer settings",
+    "Task management and organization",
+    "Focus-enhancing music and sounds"
+  ],
+  "target_audience": "Students, professionals, and individuals looking to improve their productivity"
+}
