@@ -1,0 +1,12 @@
+{
+  "short_description": "Track habits, achieve goals",
+  "full_description": "Welcome to HabitHero, the ultimate habit tracking app designed to help you build positive habits and break negative ones. With HabitHero, you can set and track your daily goals in a simple and engaging way. The app allows you to create custom habits, set reminders, and monitor your progress over time. Whether you want to exercise more, read regularly, or spend less time on your phone, HabitHero is here to support you every step of the way. Key features include: 
+- Custom habit creation: Create habits tailored to your needs and goals
+- Reminder system: Receive notifications to help you stay on track
+- Progress tracking: Monitor your progress and identify areas for improvement
+- Goal setting: Set realistic goals and work towards achieving them
+- Community support: Join a community of like-minded individuals for motivation and support
+
+By using HabitHero, you'll be able to develop a clearer understanding of your habits and make positive changes to your daily routine. Download HabitHero today and start building the habits that will help you achieve your goals.",
+  "keywords": ["habit tracker", "goal setting", "productivity", "self improvement", "motivation"]
+}

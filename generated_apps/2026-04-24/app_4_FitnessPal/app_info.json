@@ -1,0 +1,10 @@
+{
+  "name": "FitnessPal",
+  "description": "A simple workout tracking app that helps users log their exercises, track their progress, and reach their fitness goals. It provides a straightforward way to monitor workouts and nutrition.",
+  "features": [
+    "Customizable workout tracking with exercise databases",
+    "Nutrition tracking with calorie counting and macronutrient analysis",
+    "Progress tracking and analytics"
+  ],
+  "target_audience": "Fitness enthusiasts, athletes, and individuals looking to improve their physical health"
+}
