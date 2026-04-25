@@ -1,0 +1,10 @@
+{
+  "name": "MoodJournal",
+  "description": "MoodJournal is a mobile app for tracking emotions and thoughts. It helps users identify patterns and gain insights into their mental well-being.",
+  "features": [
+    "Mood tracking with emoticon-based input",
+    "Daily journal entries with text and photo support",
+    "Mood analytics with charts and statistics"
+  ],
+  "target_audience": "Individuals seeking to improve their mental health and wellness"
+}

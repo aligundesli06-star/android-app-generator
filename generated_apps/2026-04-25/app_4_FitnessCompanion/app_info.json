@@ -1,0 +1,10 @@
+{
+  "name": "FitnessCompanion",
+  "description": "FitnessCompanion is a workout tracking app that helps users stay motivated and reach their fitness goals. It provides a variety of exercises and training plans.",
+  "features": [
+    "Workout tracking with exercise logging and weightlifting support",
+    "Customizable training plans with warm-up routines and nutritional advice",
+    "Progress tracking with statistics and achievements"
+  ],
+  "target_audience": "Fitness enthusiasts and athletes"
+}

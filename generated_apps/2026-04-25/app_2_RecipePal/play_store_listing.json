@@ -1,0 +1,11 @@
+{
+  "short_description": "Find, save, cook",
+  "full_description": "RecipePal is a recipe discovery and management app. It allows users to find, save, and cook their favorite dishes. With RecipePal, you can browse through a vast collection of recipes, filter by ingredient, cuisine, or cooking time, and save the ones you like for later. The app also features a meal planning tool, a grocery list generator, and a cooking mode that provides step-by-step instructions. Whether you're a beginner or an experienced cook, RecipePal is the perfect companion for your culinary journey.",
+  "keywords": [
+    "recipe",
+    "cooking",
+    "meal planning",
+    "grocery list",
+    "food"
+  ]
+}
