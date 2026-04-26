@@ -1,0 +1,10 @@
+{
+  "name": "Fitness Buddy",
+  "description": "A workout companion app that helps users track their exercise routines, set fitness goals, and stay motivated, providing a supportive community and personalized coaching. It features workout tracking, customizable exercise plans, and progress analytics.",
+  "features": [
+    "Workout tracking and exercise logging",
+    "Customizable exercise plans and coaching",
+    "Progress analytics and goal setting"
+  ],
+  "target_audience": "Fitness enthusiasts, athletes, and individuals looking to maintain a healthy lifestyle"
+}

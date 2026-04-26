@@ -1,0 +1,10 @@
+{
+  "short_description": "Workout tracker & coach",
+  "full_description": "Fitness Buddy is your ultimate workout companion app, designed to help you track your exercise routines, set achievable fitness goals, and stay motivated. With a supportive community and personalized coaching, you'll be guided every step of the way. Key features include: 
+- Workout tracking: Log your exercises, sets, and reps to monitor progress.
+- Customizable exercise plans: Create tailored plans based on your fitness goals and preferences.
+- Progress analytics: Visualize your progress with detailed statistics and insights.
+
+Join a community of like-minded individuals who share your passion for fitness, and get the motivation you need to reach your goals. Download Fitness Buddy today and start your fitness journey!",
+  "keywords": ["workout tracker", "fitness coach", "exercise plans", "progress analytics", "fitness community"]
+}
