@@ -1,0 +1,11 @@
+{
+  "short_description": "Stay focused with Pomodoro",
+  "full_description": "FocusTimer is a productivity app that helps users stay focused with the Pomodoro technique. It offers customizable timer settings and statistics. The Pomodoro technique is a time management method developed by Francesco Cirillo in the 1980s. The method is simple: work for 25 minutes, take a 5-minute break. After four cycles, take a longer break of 15-30 minutes. This technique can help you stay focused and avoid distractions. With FocusTimer, you can customize the timer settings to fit your needs. You can adjust the length of the work and break sessions, as well as the number of cycles. The app also provides statistics on your productivity, including the number of cycles completed and the total time spent working. Whether you're a student, freelancer, or employee, FocusTimer can help you stay on track and achieve your goals.",
+  "keywords": [
+    "Pomodoro",
+    "productivity",
+    "timer",
+    "focus",
+    "time management"
+  ]
+}

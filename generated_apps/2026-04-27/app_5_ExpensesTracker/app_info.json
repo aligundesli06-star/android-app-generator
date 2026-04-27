@@ -1,0 +1,10 @@
+{
+  "name": "ExpensesTracker",
+  "description": "ExpensesTracker is a personal finance app that allows users to track their expenses and stay within their budget. It offers categorization and receipt scanning features.",
+  "features": [
+    "Expense tracking with categorization",
+    "Budgeting with customizable limits",
+    "Receipt scanning and attachment"
+  ],
+  "target_audience": "Individuals looking to manage their finances and track expenses"
+}
