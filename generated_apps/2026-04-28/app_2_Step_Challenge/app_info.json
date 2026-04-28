@@ -1,0 +1,10 @@
+{
+  "name": "Step Challenge",
+  "description": "A fitness app that encourages users to stay active by competing with friends and family in step challenges. It tracks daily step count and provides rewards for achieving milestones.",
+  "features": [
+    "Step tracking with GPS integration",
+    "Competitive leaderboards with friends and family",
+    "Reward system with redeemable points"
+  ],
+  "target_audience": "Fitness enthusiasts, individuals looking to increase physical activity"
+}

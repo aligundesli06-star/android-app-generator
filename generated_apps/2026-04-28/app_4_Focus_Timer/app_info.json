@@ -1,0 +1,10 @@
+{
+  "name": "Focus Timer",
+  "description": "A productivity app that helps users stay focused and on track with customizable Pomodoro timers. It provides features to track progress and stay motivated.",
+  "features": [
+    "Customizable Pomodoro timer with intervals and breaks",
+    "Task management with prioritization and scheduling",
+    "Progress tracking with statistics and rewards"
+  ],
+  "target_audience": "Students, professionals, individuals with ADHD or productivity goals"
+}
