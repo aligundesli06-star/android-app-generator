@@ -1,0 +1,11 @@
+{
+  "short_description": "Recipe Book",
+  "full_description": "A digital recipe book app that allows users to discover, save, and manage their favorite recipes. It provides a convenient way to plan meals and cook. With Recipe Book, you can browse through a vast collection of recipes, add them to your favorites, and create a meal plan for the week. The app also allows you to add your own recipes, making it a great tool for home cooks and professional chefs alike. Key features include: recipe search, meal planning, grocery list creation, and nutritional information. Whether you're a beginner in the kitchen or an experienced cook, Recipe Book is the perfect companion to help you create delicious meals.",
+  "keywords": [
+    "recipes",
+    "cooking",
+    "meal planning",
+    "grocery list",
+    "recipe book"
+  ]
+}

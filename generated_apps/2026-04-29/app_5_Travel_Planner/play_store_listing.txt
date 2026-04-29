@@ -1,0 +1,11 @@
+{
+  "short_description": "Plan Your Trip",
+  "full_description": "Travel Planner is a comprehensive trip planning app designed to help you organize and manage your travels with ease. With this app, you can plan your itineraries, book flights, hotels, and activities all in one place. Whether you're a frequent traveler or planning a vacation, Travel Planner simplifies the process, saving you time and effort. Key features include: 
+- Itinerary creation and management
+- Flight, hotel, and activity booking
+- Destination guides and recommendations
+- Real-time travel alerts and updates
+- Personalized travel planning
+Download Travel Planner today and make your next trip a hassle-free experience.",
+  "keywords": ["travel", "planner", "trip", "itinerary", "booking"]
+}
