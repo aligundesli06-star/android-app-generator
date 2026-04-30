@@ -1,0 +1,10 @@
+{
+  "name": "FoodFusion",
+  "description": "FoodFusion is a recipe discovery app that allows users to explore new cuisines and cooking techniques. It provides a platform for users to share and discover recipes from around the world.",
+  "features": [
+    "Recipe search and filtering",
+    "User-generated recipe sharing",
+    "Meal planning and grocery lists"
+  ],
+  "target_audience": "Foodies and home cooks"
+}

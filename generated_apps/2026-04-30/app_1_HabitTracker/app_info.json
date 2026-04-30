@@ -1,0 +1,10 @@
+{
+  "name": "HabitTracker",
+  "description": "HabitTracker is a mobile app that helps users build and maintain healthy habits. It allows users to set reminders, track progress, and receive motivational quotes.",
+  "features": [
+    "Habit creation and customization",
+    "Daily reminders and notifications",
+    "Progress tracking and statistics"
+  ],
+  "target_audience": "Health-conscious individuals"
+}

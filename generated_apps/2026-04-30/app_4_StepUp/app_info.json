@@ -1,0 +1,10 @@
+{
+  "name": "StepUp",
+  "description": "StepUp is a fitness app that helps users create and manage their workout routines. It provides a variety of exercises and training plans to help users reach their fitness goals.",
+  "features": [
+    "Workout routine creation and customization",
+    "Exercise library and tutorials",
+    "Progress tracking and goal setting"
+  ],
+  "target_audience": "Fitness enthusiasts"
+}
