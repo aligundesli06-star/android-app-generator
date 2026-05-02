@@ -1,0 +1,10 @@
+{
+  "name": "Fitness Buddy",
+  "description": "A workout tracking app that connects users with a community of like-minded individuals, providing motivation and support to reach their fitness goals. It offers features like workout planning and nutrition advice.",
+  "features": [
+    "Workout planning and tracking",
+    "Nutrition advice and meal planning",
+    "Social sharing and community features"
+  ],
+  "target_audience": "Fitness enthusiasts and athletes"
+}

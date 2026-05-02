@@ -1,0 +1,11 @@
+{
+  "short_description": "Task manager",
+  "full_description": "To-Do List Pro is a task management app designed to help users create, prioritize, and manage their to-do lists efficiently. With this app, you can organize your tasks by categories, set due date reminders, and focus on the most important tasks first. The app's intuitive interface makes it easy to add, edit, and delete tasks, and you can also mark tasks as completed to track your progress. Additional features include task prioritization, reminders, and customizable categories. Whether you're a student, professional, or simply looking to stay organized, To-Do List Pro is the perfect tool to help you achieve your goals.",
+  "keywords": [
+    "task manager",
+    "to-do list",
+    "productivity",
+    "organization",
+    "reminders"
+  ]
+}
