@@ -1,0 +1,10 @@
+{
+  "name": "TravelPal",
+  "description": "TravelPal is a travel companion app that helps users organize their trips and stays. It provides an easy way to store travel documents, itineraries, and memories.",
+  "features": [
+    "Trip planning with itinerary management",
+    "Travel document storage (e.g., boarding passes, hotel reservations)",
+    "Memory book for storing trip photos and notes"
+  ],
+  "target_audience": "Travelers who want to stay organized and cherish their travel memories"
+}

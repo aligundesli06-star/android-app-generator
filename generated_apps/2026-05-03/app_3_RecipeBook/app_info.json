@@ -1,0 +1,10 @@
+{
+  "name": "RecipeBook",
+  "description": "RecipeBook is a digital recipe book that allows users to store, organize, and share their favorite recipes. It provides an easy way to discover new recipes and cooking ideas.",
+  "features": [
+    "Recipe storage with search and filtering options",
+    "Meal planning and grocery list generation",
+    "Recipe sharing and import from popular cooking websites"
+  ],
+  "target_audience": "Home cooks and food enthusiasts who want to organize their recipes and discover new cooking ideas"
+}
