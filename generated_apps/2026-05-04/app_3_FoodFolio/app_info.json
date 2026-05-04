@@ -1,0 +1,10 @@
+{
+  "name": "FoodFolio",
+  "description": "A recipe and meal planning app that allows users to discover, save, and organize favorite dishes. It includes a database of recipes with filtering and search functionality.",
+  "features": [
+    "Recipe database with filtering and search",
+    "Meal planning with grocery list generation",
+    "Recipe bookmarking and organization"
+  ],
+  "target_audience": "Home cooks and food enthusiasts"
+}

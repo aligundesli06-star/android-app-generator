@@ -1,0 +1,12 @@
+{
+  "short_description": "Build positive habits",
+  "full_description": "HabitHub is an innovative app designed to help users build positive habits and break negative ones, promoting a healthier and more productive lifestyle. The app offers a comprehensive habit tracking system, allowing users to set and track their daily goals and milestones. With customizable reminders and rewards, HabitHub provides the motivation and support needed to stay on track. Key features include: 
+- A user-friendly interface for easy habit tracking
+- Customizable reminders to ensure consistency
+- Rewards system to motivate and incentivize progress
+- Personalized statistics and insights to monitor growth
+- Community support to connect with like-minded individuals
+
+By using HabitHub, users can experience a significant improvement in their overall well-being, leading to a more balanced and fulfilling life. Download HabitHub today and start building the habits that will transform your life for the better.",
+  "keywords": ["habit tracker", "productivity", "self improvement", "motivation", "wellness"]
+}

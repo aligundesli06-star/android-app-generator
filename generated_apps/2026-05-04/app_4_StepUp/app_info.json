@@ -1,0 +1,10 @@
+{
+  "name": "StepUp",
+  "description": "A fitness app focused on tracking and motivating physical activity, helping users achieve step goals and stay active. It integrates with wearable devices and provides personalized recommendations.",
+  "features": [
+    "Step tracking with customizable daily goals",
+    "Integration with wearable devices and health apps",
+    "Reward system and activity challenges"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals seeking to increase physical activity"
+}

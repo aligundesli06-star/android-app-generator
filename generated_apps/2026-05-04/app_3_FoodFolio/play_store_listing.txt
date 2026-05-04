@@ -1,0 +1,11 @@
+{
+  "short_description": "Discover & save recipes",
+  "full_description": "FoodFolio is a comprehensive recipe and meal planning app designed to simplify your cooking experience. With a vast database of recipes at your fingertips, you can discover new dishes, save your favorites, and organize them for easy access. The app features robust filtering and search functionality, allowing you to find recipes based on ingredients, dietary preferences, and cooking methods. Whether you're a beginner or an experienced cook, FoodFolio is the perfect companion for planning and preparing delicious meals. Key features include: 
+- Extensive recipe database with high-quality images
+- Advanced search and filter options
+- Personalized recipe book for saving favorites
+- Meal planning functionality for organizing your weekly meals
+- Integration with popular grocery delivery services for seamless shopping,
+FoodFolio aims to make cooking easier, more enjoyable, and accessible to everyone. Download now and start exploring the world of culinary delights!",
+  "keywords": ["recipe app", "meal planning", "cooking", "food", "recipes"]
+}

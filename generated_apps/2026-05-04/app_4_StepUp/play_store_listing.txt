@@ -1,0 +1,11 @@
+{
+  "short_description": "Track & boost your steps",
+  "full_description": "Welcome to StepUp, your personal fitness companion. This app is designed to help you track and achieve your daily step goals, providing motivation and personalized recommendations to keep you active. With seamless integration with popular wearable devices, you can effortlessly monitor your progress and receive tailored suggestions to enhance your physical activity. Whether you're a fitness enthusiast or just starting out, StepUp is here to support you every step of the way. Key features include: 
+- Daily step tracking and goal setting
+- Integration with wearable devices for accurate monitoring
+- Personalized recommendations for improving physical activity
+- Motivational reminders and rewards for reaching milestones
+- Customizable fitness plans tailored to your needs and goals
+Download StepUp now and take the first step towards a healthier, more active you.",
+  "keywords": ["fitness", "step tracker", "workout", "motivation", "health"]
+}
