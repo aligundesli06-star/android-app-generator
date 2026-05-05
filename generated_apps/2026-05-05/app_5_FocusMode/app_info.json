@@ -1,0 +1,10 @@
+{
+  "name": "FocusMode",
+  "description": "FocusMode is a productivity app that helps users stay focused and avoid distractions. It provides tools to block distracting websites, set timers, and track progress.",
+  "features": [
+    "Website blocking and filtering",
+    "Pomodoro timer and focus sessions",
+    "Progress tracking and statistics"
+  ],
+  "target_audience": "Students, professionals, and individuals seeking to improve productivity"
+}
