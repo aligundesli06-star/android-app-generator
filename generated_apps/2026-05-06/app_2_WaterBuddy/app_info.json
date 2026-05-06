@@ -1,0 +1,10 @@
+{
+  "name": "WaterBuddy",
+  "description": "WaterBuddy is an app that helps users stay hydrated by tracking their daily water intake. It sends reminders to drink water throughout the day.",
+  "features": [
+    "Customizable daily water goals",
+    "Water intake tracking with notifications",
+    "Hydration statistics and progress charts"
+  ],
+  "target_audience": "Health-conscious individuals"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "BookBuddy",
+  "description": "BookBuddy is a reading tracker app that helps users discover new books and track their reading progress. It provides personalized recommendations based on reading history.",
+  "features": [
+    "Book tracking with reading logs and ratings",
+    "Personalized book recommendations",
+    "Reading statistics and goals"
+  ],
+  "target_audience": "Avid readers and book lovers"
+}

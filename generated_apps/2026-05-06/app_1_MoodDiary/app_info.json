@@ -1,0 +1,10 @@
+{
+  "name": "MoodDiary",
+  "description": "MoodDiary is a simple app where users can track their emotions and thoughts. It helps users identify patterns in their mood and provides insights for improvement.",
+  "features": [
+    "Mood tracking with emojis",
+    "Daily journaling with text and photo entries",
+    "Mood analytics and charts"
+  ],
+  "target_audience": "Teenagers and young adults"
+}

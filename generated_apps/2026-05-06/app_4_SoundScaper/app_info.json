@@ -1,0 +1,10 @@
+{
+  "name": "SoundScaper",
+  "description": "SoundScaper is an app that generates calming soundscapes to help users relax and focus. It offers a variety of sounds and customizable mixes.",
+  "features": [
+    "Library of calming sounds and music",
+    "Customizable soundscapes with volume controls",
+    "Timer for scheduled relaxation sessions"
+  ],
+  "target_audience": "Individuals with anxiety or stress"
+}
