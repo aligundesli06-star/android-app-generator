@@ -1,0 +1,14 @@
+{
+  "short_description": "Build positive habits",
+  "full_description": "Habit Builder is a simple and intuitive app designed to help you create and maintain positive habits. With Habit Builder, you can easily track your progress, set reminders, and stay motivated to reach your goals. The app allows you to customize your habits, set realistic targets, and monitor your performance over time. Features include: 
+- A user-friendly interface for easy habit tracking
+- Customizable habit settings to suit your needs
+- Reminders and notifications to keep you on track
+- Progress tracking and analytics to help you stay motivated
+- A community feature to share your progress and connect with like-minded individuals
+
+By using Habit Builder, you can develop healthy routines, increase productivity, and improve your overall well-being. Download the app today and start building positive habits that will last a lifetime.
+
+The app is free to download and use, with optional in-app purchases for premium features. Join the Habit Builder community today and take the first step towards a happier, healthier you.",
+  "keywords": ["habits", "productivity", "motivation", "self-improvement", "goal-setting"]
+}

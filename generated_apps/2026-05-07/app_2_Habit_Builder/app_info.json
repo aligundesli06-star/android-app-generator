@@ -1,0 +1,10 @@
+{
+  "name": "Habit Builder",
+  "description": "A habit-forming app that assists users in creating and maintaining positive habits. It provides a simple and intuitive way to track progress and stay motivated.",
+  "features": [
+    "Habit tracking with customizable goals and reminders",
+    "Reward system with badges and milestones",
+    "Community sharing and support"
+  ],
+  "target_audience": "Health-conscious individuals"
+}

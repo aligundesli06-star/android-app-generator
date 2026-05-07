@@ -1,0 +1,10 @@
+{
+  "name": "Focus Timer",
+  "description": "A productivity app that helps users stay focused and avoid distractions. It provides a simple and customizable timer to boost concentration and efficiency.",
+  "features": [
+    "Pomodoro timer with customizable intervals and breaks",
+    "Task management and prioritization",
+    "Statistics and insights on focus and productivity"
+  ],
+  "target_audience": "Students and professionals"
+}
