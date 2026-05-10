@@ -1,0 +1,10 @@
+{
+  "name": "WalkPal",
+  "description": "A walking app that tracks and rewards users for their daily step count. It provides fitness challenges and healthy tips.",
+  "features": [
+    "Step tracking with customizable goals",
+    "Fitness challenges with rewards",
+    "Healthy tips and articles"
+  ],
+  "target_audience": "Individuals looking to improve their physical fitness"
+}

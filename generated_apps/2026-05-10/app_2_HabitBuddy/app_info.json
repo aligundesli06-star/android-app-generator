@@ -1,0 +1,10 @@
+{
+  "name": "HabitBuddy",
+  "description": "A habit-tracking app that helps users build positive routines and break bad ones. It provides reminders and motivation to stay on track.",
+  "features": [
+    "Habit tracking with customizable reminders",
+    "Goal setting with progress tracking",
+    "Community sharing for motivation"
+  ],
+  "target_audience": "Individuals looking to improve their daily habits"
+}

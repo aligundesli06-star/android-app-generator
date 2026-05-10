@@ -1,0 +1,12 @@
+{
+  "short_description": "Cooking made easy",
+  "full_description": "Welcome to RecipeRoulette, your new favorite cooking companion. This innovative app suggests random recipes based on the ingredients you have at home and your dietary preferences. Whether you're a vegetarian, gluten-free, or following a specific diet, RecipeRoulette has got you covered. With a vast library of recipes to choose from, you'll never run out of ideas for delicious meals. Users can save their favorite recipes for later, share them with friends and family, and even create their own custom cookbooks. Key features include: 
+- Random recipe suggestions based on ingredients and dietary preferences
+- Save and share your favorite recipes
+- Create custom cookbooks
+- Browse a vast library of recipes
+- Filtering options for dietary restrictions and ingredient availability
+
+Download RecipeRoulette today and start cooking up a storm in the kitchen. Discover new flavors, ingredients, and cooking techniques with the help of our app. Happy cooking!",
+  "keywords": ["cooking", "recipes", "meal planning", "dietary restrictions", "random recipes"]
+}
