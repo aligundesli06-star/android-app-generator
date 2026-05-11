@@ -1,0 +1,10 @@
+{
+  "name": "HabitHub",
+  "description": "A habit-tracking app that helps users build positive routines and break negative ones. It provides a simple and motivating way to create and maintain healthy habits.",
+  "features": [
+    "Habit tracking with customizable reminders and notifications",
+    "Reward system for motivation and encouragement",
+    "Statistics and insights for habit analysis"
+  ],
+  "target_audience": "Individuals seeking to improve their productivity and self-discipline"
+}

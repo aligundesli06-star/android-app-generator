@@ -1,0 +1,10 @@
+{
+  "name": "BookBuddy",
+  "description": "A social app for book lovers, allowing users to discover new titles, share reviews, and connect with fellow readers. It provides a platform for users to explore different genres and authors.",
+  "features": [
+    "Book catalog with search and filter functionality",
+    "User-generated book reviews and ratings",
+    "Discussion forums for book clubs and recommendations"
+  ],
+  "target_audience": "Avid readers and book enthusiasts"
+}
