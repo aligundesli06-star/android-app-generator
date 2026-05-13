@@ -1,0 +1,11 @@
+{
+  "short_description": "Track habits, build a healthier life",
+  "full_description": "Habit Tracker is an app designed to help users build positive habits and break negative ones, promoting a healthier lifestyle. It allows users to set reminders, track progress, and receive motivational quotes. With Habit Tracker, you can set and achieve your goals, whether it's exercising regularly, reading more, or eating healthier. The app provides a simple and intuitive interface to help you stay on track and motivated. Key features include: 
+- Customizable habit tracking: set reminders and track your progress
+- Motivational quotes: receive daily quotes to keep you motivated and inspired
+- Progress tracking: see how far you've come and stay motivated to continue
+- Reminders: set reminders to ensure you never miss a habit
+- Personalization: customize the app to fit your needs and goals
+Download Habit Tracker today and start building the habits you need to achieve your goals and live a healthier, happier life.",
+  "keywords": ["habit tracker", "productivity", "motivation", "self improvement", "lifestyle"]
+}

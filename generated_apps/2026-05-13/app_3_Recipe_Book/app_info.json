@@ -1,0 +1,10 @@
+{
+  "name": "Recipe Book",
+  "description": "A digital cookbook where users can store and manage their favorite recipes, including ingredients, instructions, and nutritional information. It allows users to search, filter, and share recipes.",
+  "features": [
+    "Recipe storage and management",
+    "Search and filter functionality",
+    "Nutritional information and meal planning"
+  ],
+  "target_audience": "Home cooks, professional chefs, and food enthusiasts"
+}

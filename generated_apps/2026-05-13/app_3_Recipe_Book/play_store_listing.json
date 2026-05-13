@@ -1,0 +1,11 @@
+{
+  "short_description": "Digital Cookbook",
+  "full_description": "Recipe Book is a digital cookbook where users can store and manage their favorite recipes. It allows users to add ingredients, instructions, and nutritional information for each recipe. The app also includes features to search, filter, and share recipes with friends and family. Users can organize their recipes into different categories and add tags for easy searching. Additionally, the app provides a meal planning feature, allowing users to plan their meals for the week and generate a grocery list. Recipe Book is a great tool for home cooks, professional chefs, and anyone who loves trying new recipes. The app is easy to use and provides a clean and intuitive interface. With Recipe Book, users can access their recipes from anywhere, at any time, and share them with others.",
+  "keywords": [
+    "recipes",
+    "cookbook",
+    "meal planning",
+    "grocery list",
+    "nutrition"
+  ]
+}
