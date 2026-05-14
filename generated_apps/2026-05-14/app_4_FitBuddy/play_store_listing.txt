@@ -1,0 +1,10 @@
+{
+  "short_description": "Find workout buddies",
+  "full_description": "FitBuddy is a fitness app designed to help you stay motivated and achieve your fitness goals. The app connects you with like-minded individuals who share similar fitness objectives, allowing you to find workout buddies and stay accountable. With FitBuddy, you'll have access to personalized training plans tailored to your specific needs and goals. Whether you're a beginner or an experienced athlete, our app provides the tools and support you need to succeed. Key features include: 
+- Workout buddy finder: Connect with others who share your fitness goals
+- Personalized training plans: Get customized workouts tailored to your needs
+- Goal tracking: Monitor your progress and stay motivated
+- Community support: Join a community of like-minded individuals for support and motivation
+Download FitBuddy today and start achieving your fitness goals!",
+  "keywords": ["fitness", "workout", "buddy", "training", "motivation"]
+}
