@@ -1,0 +1,10 @@
+{
+  "name": "MoodTracker",
+  "description": "MoodTracker is an Android app that helps users monitor their emotions and track their mental well-being. It provides a safe space for users to express and manage their feelings.",
+  "features": [
+    "Mood journaling with customizable entries",
+    "Emotion tracking with daily, weekly, and monthly analytics",
+    "Personalized recommendations for stress relief and relaxation"
+  ],
+  "target_audience": "Individuals dealing with stress, anxiety, or depression"
+}

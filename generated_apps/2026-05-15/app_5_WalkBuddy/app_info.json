@@ -1,0 +1,10 @@
+{
+  "name": "WalkBuddy",
+  "description": "WalkBuddy is a walking tracker app that encourages users to stay active and explore their surroundings. It provides a fun and interactive way to track daily walks and discover new routes.",
+  "features": [
+    "Step tracking and distance measurement",
+    "Route mapping and discovery with GPS",
+    "Daily challenges and rewards for consistent walking habits"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals looking to stay active"
+}
