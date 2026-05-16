@@ -1,0 +1,10 @@
+{
+  "name": "Fit Finder",
+  "description": "A fitness app that helps users discover and book local workout classes, providing a convenient way to stay active and try new exercises. It features filters for class type, location, and schedule.",
+  "features": [
+    "Class searching and filtering",
+    "Booking and scheduling system",
+    "User reviews and ratings"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals seeking to stay active and healthy"
+}

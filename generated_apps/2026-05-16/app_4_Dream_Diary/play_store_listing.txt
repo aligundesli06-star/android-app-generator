@@ -1,0 +1,11 @@
+{
+  "short_description": "Dream Journal",
+  "full_description": "Unlock the secrets of your subconscious mind with Dream Diary, a comprehensive dream journaling app. Record, analyze, and understand your dreams to gain a deeper insight into your thoughts, emotions, and desires. The app allows you to track recurring themes, symbols, and patterns in your dreams, helping you identify areas of your life that may require attention. With Dream Diary, you can: 
+- Record your dreams as soon as you wake up to capture every detail
+- Analyze your dreams to identify recurring themes and symbols
+- Keep a personalized dream journal to track your progress over time
+- Set reminders to ensure you never miss a dream recording
+- Browse through a library of common dream symbols and their meanings
+Discover the hidden meaning behind your dreams and tap into the power of your subconscious mind. Download Dream Diary today and start your journey of self-discovery.",
+  "keywords": ["dream journal", "dream analysis", "subconscious mind", "self discovery", "mindfulness"]
+}

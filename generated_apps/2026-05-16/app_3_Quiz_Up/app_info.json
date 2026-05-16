@@ -1,0 +1,10 @@
+{
+  "name": "Quiz Up",
+  "description": "A social learning app that offers a wide range of trivia quizzes, allowing users to test their knowledge, compete with friends, and learn new things. It features various categories and difficulty levels.",
+  "features": [
+    "Multi-category quiz questions",
+    "Leaderboards and competitive scoring",
+    "Social sharing and challenge features"
+  ],
+  "target_audience": "Students, trivia enthusiasts, and individuals seeking entertainment and learning"
+}

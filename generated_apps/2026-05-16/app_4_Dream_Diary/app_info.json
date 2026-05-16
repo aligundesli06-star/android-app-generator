@@ -1,0 +1,10 @@
+{
+  "name": "Dream Diary",
+  "description": "A dream journaling app that lets users record, analyze, and understand their dreams, providing a unique insight into their subconscious mind. It offers features for tracking recurring themes and symbols.",
+  "features": [
+    "Dream entry and tagging system",
+    "Recurring theme and symbol tracking",
+    "Lucid dreaming techniques and tips"
+  ],
+  "target_audience": "Individuals interested in dream analysis and subconscious exploration"
+}
