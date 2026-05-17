@@ -1,0 +1,12 @@
+{
+  "name": "Focus Mode",
+  "description": "An app designed to help users stay focused and productive, providing a distraction-free environment for work, study, or creativity. It includes features for website blocking, time tracking, and goal setting.",
+  "features": [
+    "Website and app blocking with customizable filters",
+    "Time tracking and productivity analytics",
+    "Goal setting and task management with reminders",
+    "Pomodoro timer and focus-enhancing music",
+    "Integrations with popular task management and calendar apps"
+  ],
+  "target_audience": "Students, professionals, and individuals seeking to improve their productivity and focus"
+}

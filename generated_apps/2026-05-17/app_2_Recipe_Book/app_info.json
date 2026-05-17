@@ -1,0 +1,12 @@
+{
+  "name": "Recipe Book",
+  "description": "A digital recipe book app that allows users to discover, save, and cook their favorite dishes. It includes features for meal planning, grocery lists, and cooking guides.",
+  "features": [
+    "Recipe database with search, filter, and categorization",
+    "Meal planning and grocery list generation",
+    "Step-by-step cooking guides with images and videos",
+    "Nutrition information and dietary filtering",
+    "User-generated recipe sharing and ratings"
+  ],
+  "target_audience": "Home cooks, food enthusiasts, and individuals with dietary restrictions"
+}
