@@ -1,0 +1,10 @@
+{
+  "name": "WalkBuddy",
+  "description": "A fitness app that encourages users to stay active by tracking their daily steps and providing rewards for achieving milestones. It offers a social feature to connect with friends and family.",
+  "features": [
+    "Step tracking and distance measurement",
+    "Customizable fitness goals and challenges",
+    "Social sharing and leaderboards"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals looking to stay active"
+}
