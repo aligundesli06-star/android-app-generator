@@ -1,0 +1,11 @@
+{
+  "short_description": "Recipe manager",
+  "full_description": "Recipe Booker is a comprehensive recipe management app designed to help users discover, save, and cook their favorite dishes. With Recipe Booker, you can organize your recipes in a personalized cookbook, making it easy to find and prepare your favorite meals. The app allows you to browse through a vast collection of recipes, filter them by ingredients, cuisine, and cooking time, and save them to your virtual cookbook. You can also add your own recipes, edit existing ones, and share them with friends and family. Additionally, Recipe Booker provides a meal planning feature, which enables you to plan your meals for the week, generate grocery lists, and keep track of your nutritional intake. Whether you're a busy home cook or an avid foodie, Recipe Booker is the perfect companion for anyone who loves cooking and trying new recipes.",
+  "keywords": [
+    "recipe manager",
+    "cooking app",
+    "meal planner",
+    "grocery list",
+    "cookbook"
+  ]
+}
