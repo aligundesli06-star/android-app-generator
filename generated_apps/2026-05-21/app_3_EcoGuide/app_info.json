@@ -1,0 +1,10 @@
+{
+  "name": "EcoGuide",
+  "description": "A sustainability guide app that provides users with tips and resources for reducing their environmental impact. It covers topics like energy, waste, and conservation.",
+  "features": [
+    "Personalized eco-friendly tips and recommendations",
+    "Carbon footprint tracker with statistics and insights",
+    "Directory of local eco-friendly businesses and services"
+  ],
+  "target_audience": "Environmentally conscious consumers"
+}
