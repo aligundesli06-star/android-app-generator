@@ -1,0 +1,10 @@
+{
+  "name": "FocusZone",
+  "description": "A productivity app that helps users stay focused on tasks and avoid distractions. It uses the Pomodoro Technique and provides customizable settings.",
+  "features": [
+    "Pomodoro timer with customizable intervals",
+    "Task management with prioritization and scheduling",
+    "Distraction blocking with website and app filters"
+  ],
+  "target_audience": "Students, professionals, and individuals with productivity goals"
+}
