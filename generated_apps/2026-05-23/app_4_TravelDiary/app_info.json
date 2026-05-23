@@ -1,0 +1,10 @@
+{
+  "name": "TravelDiary",
+  "description": "A travel journal app that allows users to document their trips, track expenses, and share memories with friends and family. It also provides travel recommendations and tips.",
+  "features": [
+    "Trip planning and organization",
+    "Expense tracking and budgeting",
+    "Photo and journal entries"
+  ],
+  "target_audience": "Travelers and adventure seekers"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Mindful Moments",
+  "description": "A meditation and mindfulness app that guides users through daily relaxation exercises. It helps reduce stress and improve mental well-being.",
+  "features": [
+    "Guided meditation sessions",
+    "Personalized meditation plans",
+    "Mood tracking and analytics"
+  ],
+  "target_audience": "Individuals looking to reduce stress and improve mental health"
+}

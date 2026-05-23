@@ -1,0 +1,11 @@
+{
+  "short_description": "Discover new books",
+  "full_description": "BookPal is a social book club app designed to connect readers with similar interests. With BookPal, you can discover new books, connect with fellow readers, and share your thoughts on the books you've read. Our app provides personalized book recommendations based on your reading history and preferences. Join groups dedicated to your favorite genres, participate in discussions, and get inspired by what others are reading. Key features include: 
+- Personalized book recommendations
+- Social groups for discussion and connection
+- Book reviews and ratings
+- Discovery of new books and authors
+- Customizable reading lists
+Download BookPal today and start exploring the world of books with like-minded readers.",
+  "keywords": ["book club", "reading", "book recommendations", "social reading", "book reviews"]
+}

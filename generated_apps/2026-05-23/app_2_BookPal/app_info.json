@@ -1,0 +1,10 @@
+{
+  "name": "BookPal",
+  "description": "A social book club app that allows users to discover new books, connect with fellow readers, and share reviews. It also provides personalized book recommendations.",
+  "features": [
+    "Book discovery and reviews",
+    "Personalized book recommendations",
+    "Discussion forums and groups"
+  ],
+  "target_audience": "Avid readers and book clubs"
+}
