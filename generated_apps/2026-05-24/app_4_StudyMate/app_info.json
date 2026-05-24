@@ -1,0 +1,10 @@
+{
+  "name": "StudyMate",
+  "description": "StudyMate is a learning companion app that helps students organize their study materials and schedules. It provides a simple and effective way to stay on top of assignments and exams.",
+  "features": [
+    "Note-taking with organization and tagging",
+    "Study schedule management with reminders and alerts",
+    "Flashcard creation and quiz functionality"
+  ],
+  "target_audience": "Students of all ages and levels"
+}

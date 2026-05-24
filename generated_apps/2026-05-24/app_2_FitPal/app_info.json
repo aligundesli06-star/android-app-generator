@@ -1,0 +1,10 @@
+{
+  "name": "FitPal",
+  "description": "FitPal is a fitness companion app that helps users track their daily activities and workouts. It provides a simple and easy-to-use interface to monitor progress and stay motivated.",
+  "features": [
+    "Workout logging with exercise and calorie tracking",
+    "Daily activity tracking with step and distance monitoring",
+    "Personalized fitness goals and reminders"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals who want to lead a healthy lifestyle"
+}
