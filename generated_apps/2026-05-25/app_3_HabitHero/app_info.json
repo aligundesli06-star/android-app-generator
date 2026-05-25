@@ -1,0 +1,10 @@
+{
+  "name": "HabitHero",
+  "description": "A habit tracking app that helps users build positive habits and break negative ones. It provides a simple and gamified way to track progress and stay motivated.",
+  "features": [
+    "Habit tracking with customizable goals and reminders",
+    "Progress analytics and insights",
+    "Reward system with badges and streaks"
+  ],
+  "target_audience": "Individuals seeking self-improvement and productivity"
+}

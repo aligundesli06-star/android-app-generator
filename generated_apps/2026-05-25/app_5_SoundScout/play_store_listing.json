@@ -1,0 +1,11 @@
+{
+  "short_description": "Monitor noise levels",
+  "full_description": "SoundScout is a noise level monitoring app designed to help users identify and avoid loud environments. It provides a simple and intuitive way to measure sound levels and track noise exposure. With SoundScout, you can easily monitor the noise levels around you and take steps to protect your hearing. The app uses your device's microphone to measure sound levels in decibels (dB) and provides a clear and easy-to-understand display of the current noise level. You can also track your noise exposure over time and receive alerts when you are in a loud environment. SoundScout is a useful tool for anyone who wants to protect their hearing and reduce their risk of noise-induced hearing loss. Whether you work in a loud industry, enjoy loud music, or simply want to be more aware of the noise levels around you, SoundScout is the perfect app for you.",
+  "keywords": [
+    "noise monitor",
+    "sound level",
+    "hearing protection",
+    "noise exposure",
+    "decibel meter"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "PlantPal",
+  "description": "A plant care companion app that assists users in monitoring and caring for their indoor plants. It offers personalized advice and reminders for watering, pruning, and fertilizing.",
+  "features": [
+    "Plant database with care instructions and photos",
+    "Watering and fertilizing reminders",
+    "Photo journaling for plant progress tracking"
+  ],
+  "target_audience": "Plant enthusiasts and urban gardeners"
+}

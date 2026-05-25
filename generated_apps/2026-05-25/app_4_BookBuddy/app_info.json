@@ -1,0 +1,10 @@
+{
+  "name": "BookBuddy",
+  "description": "A book tracking app that allows users to log and review the books they've read. It provides a social platform for book lovers to share recommendations and connect with others.",
+  "features": [
+    "Book logging with rating and review system",
+    "Personalized book recommendations",
+    "Social feed for sharing and discovering new books"
+  ],
+  "target_audience": "Book lovers and reading enthusiasts"
+}
