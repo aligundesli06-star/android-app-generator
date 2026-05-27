@@ -1,0 +1,10 @@
+{
+  "name": "BookPal",
+  "description": "BookPal is a social networking app for book lovers, allowing users to share and discover new books, authors, and genres. It facilitates discussions and recommendations among users.",
+  "features": [
+    "Book discovery with personalized recommendations",
+    "User-generated book reviews and ratings",
+    "Discussion forums for book clubs and genres"
+  ],
+  "target_audience": "Book enthusiasts and readers"
+}

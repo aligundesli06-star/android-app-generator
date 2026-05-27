@@ -1,0 +1,10 @@
+{
+  "name": "HabitBuddy",
+  "description": "HabitBuddy is a habit formation app that helps users create and maintain positive habits. It offers reminders, tracking, and rewards for consistency.",
+  "features": [
+    "Habit creation with customized reminders",
+    "Habit tracking with calendar view",
+    "Reward system for consistent progress"
+  ],
+  "target_audience": "Individuals looking to improve productivity and habits"
+}

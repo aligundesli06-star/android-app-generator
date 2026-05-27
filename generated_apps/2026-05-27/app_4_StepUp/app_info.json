@@ -1,0 +1,10 @@
+{
+  "name": "StepUp",
+  "description": "StepUp is a fitness tracking app that motivates users to stay active and reach their fitness goals. It offers workout routines, step tracking, and progress analysis.",
+  "features": [
+    "Step tracking with daily, weekly, and monthly analysis",
+    "Customizable workout routines and exercises",
+    "Progress tracking with rewards and badges"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals with health goals"
+}
