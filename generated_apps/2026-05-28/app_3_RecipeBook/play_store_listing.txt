@@ -1,0 +1,11 @@
+{
+  "short_description": "Cooking made easy",
+  "full_description": "RecipeBook is a comprehensive cooking app that allows users to discover, save, and organize recipes. With a vast database of dishes from around the world, you can browse and search for your favorite meals. The app also provides meal planning features, making it easy to plan your meals for the week. Create and share your own recipes with the community, and get inspired by other home cooks. Key features include: 
+- Extensive recipe database with filter and search options
+- Meal planning and grocery list generation
+- Ability to create, save, and share your own recipes
+- Community features to share and discover new recipes
+- Personalized recipe recommendations based on your preferences
+Download RecipeBook now and start cooking like a pro!",
+  "keywords": ["cooking", "recipes", "meal planning", "recipe organizer", "food"]
+}

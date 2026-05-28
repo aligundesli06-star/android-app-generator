@@ -1,0 +1,9 @@
+{
+  "short_description": "Travel made easy",
+  "full_description": "TravelPal is your ultimate travel companion app, designed to help you plan, organize, and navigate your trips with ease. With a wide range of essential tools and features, you can enjoy a stress-free travel experience. Key features include: 
+- Packing lists: Create and manage your packing lists to ensure you never forget anything important.
+- Itinerary management: Organize your daily schedule, including flights, hotels, and activities.
+- Destination guides: Get insider knowledge on top attractions, restaurants, and local tips for your destination.
+Whether you're a seasoned traveler or embarking on your first adventure, TravelPal is the perfect app to help you make the most of your trip. Download now and start exploring the world with confidence!",
+  "keywords": ["travel", "trip planner", "itinerary", "packing list", "destination guide"]
+}
