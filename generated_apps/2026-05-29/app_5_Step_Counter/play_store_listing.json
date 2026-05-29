@@ -1,0 +1,11 @@
+{
+  "short_description": "Track your daily steps",
+  "full_description": "A fitness app that tracks daily steps, distance, and calories burned, providing a simple way to monitor physical activity. It offers basic fitness tracking without requiring a wearable device. Easily set and achieve daily step goals, and view your progress over time. Whether you're looking to increase your physical activity or just want to stay on top of your fitness, this app is the perfect companion. With its simple and intuitive interface, you can focus on what matters most - getting moving and staying healthy.",
+  "keywords": [
+    "step counter",
+    "fitness tracker",
+    "pedometer",
+    "calories burned",
+    "distance tracker"
+  ]
+}

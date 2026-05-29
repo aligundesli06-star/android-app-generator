@@ -1,0 +1,11 @@
+{
+  "short_description": "Track habits, reach goals",
+  "full_description": "Habit Builder is an innovative app designed to help you build positive habits and break negative ones. With its intuitive interface and customizable features, you can set reminders, track your progress, and stay motivated to achieve your goals. Set daily, weekly, or monthly targets for your habits, and monitor your progress through detailed statistics and charts. Habit Builder is the perfect tool for anyone looking to improve their productivity, health, or well-being. Key features include: 
+- Customizable habit tracking
+- Reminders and notifications
+- Goal setting and progress monitoring
+- Detailed statistics and charts
+- Motivational quotes and tips
+Download Habit Builder today and start building the habits that will change your life for the better.",
+  "keywords": ["habits", "productivity", "goal setting", "self improvement", "motivation"]
+}

@@ -1,0 +1,11 @@
+{
+  "short_description": "Cooking made easy",
+  "full_description": "Recipe Buddy is your ultimate cooking companion app. It provides personalized recipe suggestions based on your dietary preferences and ingredient availability. With Meal Planning, you can plan your meals for the week, generate grocery lists, and keep track of your cooking schedule. Discover new recipes, organize your favorite dishes, and cook with confidence. Whether you're a beginner or an experienced chef, Recipe Buddy helps you save time and effort in the kitchen. Key features include: 
+- Personalized recipe suggestions
+- Meal planning and calendar integration
+- Grocery lists and pantry management
+- Recipe discovery and filtering
+- Cooking mode for easy recipe navigation
+Download Recipe Buddy now and start cooking like a pro!",
+  "keywords": ["cooking", "recipes", "meal planning", "grocery list", "kitchen"]
+}

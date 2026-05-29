@@ -1,0 +1,10 @@
+{
+  "name": "Mood Tracker",
+  "description": "An app to track and analyze emotions, helping users identify patterns and trends in their mental health. It provides a simple and intuitive way to log and view emotions.",
+  "features": [
+    "Mood logging with emotions and notes",
+    "Calendar view to visualize mood patterns",
+    "Statistics and insights into mood trends"
+  ],
+  "target_audience": "Individuals concerned about their mental health"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Step Counter",
+  "description": "A fitness app that tracks daily steps, distance, and calories burned, providing a simple way to monitor physical activity. It offers basic fitness tracking without requiring a wearable device.",
+  "features": [
+    "Step tracking with distance and calorie calculations",
+    "Daily activity summaries and statistics",
+    "Goal setting with progress tracking"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals tracking physical activity"
+}
