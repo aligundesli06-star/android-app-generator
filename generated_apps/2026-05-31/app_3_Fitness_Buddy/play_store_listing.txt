@@ -1,0 +1,12 @@
+{
+  "short_description": "Find your fitness buddy",
+  "full_description": "Fitness Buddy is a comprehensive fitness app designed to connect like-minded individuals and help them stay motivated on their fitness journey. The app offers a wide range of workout routines, allowing users to choose the ones that best suit their goals and preferences. With its exercise tracking feature, users can monitor their progress, set reminders, and receive notifications to ensure they stay on track. Fitness Buddy also features social sharing, enabling users to share their achievements and connect with others who have similar fitness goals. Key features include: 
+- Personalized workout routines
+- Exercise tracking and monitoring
+- Social sharing and community building
+- Goal setting and reminders
+- Progress tracking and analytics
+
+By downloading Fitness Buddy, users can join a supportive community of fitness enthusiasts, gain access to a wealth of fitness resources, and stay motivated to achieve their goals. Whether you're a beginner or an experienced athlete, Fitness Buddy is the perfect companion to help you reach new heights in your fitness journey.",
+  "keywords": ["fitness", "workout", "exercise", "motivation", "community"]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Travel Pal",
+  "description": "A travel app that provides destination guides, language translations, and currency converters, helping users navigate foreign countries. It also includes a trip planner and packing checklist.",
+  "features": [
+    "Destination guides and maps",
+    "Language translations and phrasebooks",
+    "Currency converters and budget trackers"
+  ],
+  "target_audience": "Travelers and backpackers"
+}
