@@ -1,0 +1,10 @@
+{
+  "name": "Travel Pal",
+  "description": "A travel companion app that provides destination guides, language translation, and currency exchange rates. It helps users navigate foreign countries with ease.",
+  "features": [
+    "Destination guides and maps",
+    "Language translation and phrasebook",
+    "Currency exchange rates and converter"
+  ],
+  "target_audience": "Travelers and tourists exploring foreign countries"
+}

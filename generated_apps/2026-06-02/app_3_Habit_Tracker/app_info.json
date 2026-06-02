@@ -1,0 +1,10 @@
+{
+  "name": "Habit Tracker",
+  "description": "A productivity app that helps users build positive habits and break negative ones. It provides customizable habit tracking and reminders.",
+  "features": [
+    "Customizable habit tracking",
+    "Reminders and notifications",
+    "Progress analytics and goal setting"
+  ],
+  "target_audience": "Individuals seeking to improve productivity and self-discipline"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Recipe Finder",
+  "description": "A cooking app that suggests recipes based on ingredients users have at home. It also provides step-by-step cooking instructions and nutritional information.",
+  "features": [
+    "Recipe search by ingredient",
+    "Step-by-step cooking guide",
+    "Nutritional information and meal planning"
+  ],
+  "target_audience": "Home cooks and individuals with dietary restrictions"
+}
