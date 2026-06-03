@@ -1,0 +1,13 @@
+{
+  "short_description": "Track habits, stay consistent",
+  "full_description": "HabitTracker is a simple and intuitive app that helps you stay on top of your daily routines. With HabitTracker, you can set and track your habits, receive reminders to ensure you never forget, and get motivated with inspirational quotes. Whether you want to start a new exercise routine, read more books, or practice a new skill, HabitTracker is the perfect tool to help you stay consistent and achieve your goals. Key features include: 
+- Customizable habit tracking 
+- Reminders and notifications 
+- Motivational quotes to keep you going 
+- Progress tracking and statistics 
+- Easy-to-use interface 
+
+Download HabitTracker today and start building the habits that will help you succeed. 
+Note: This app is free to download, with optional in-app purchases for premium features.",
+  "keywords": ["habit tracker", "daily routine", "motivation", "productivity", "goals"]
+}

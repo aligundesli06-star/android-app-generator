@@ -1,0 +1,10 @@
+{
+  "name": "FocusTimer",
+  "description": "A focus-enhancing app that helps users stay concentrated and productive. It provides a Pomodoro timer, customizable work sessions, and statistics on user productivity.",
+  "features": [
+    "Pomodoro timer and customizable work sessions",
+    "Productivity statistics and insights",
+    "Customizable break reminders and notifications"
+  ],
+  "target_audience": "Students, professionals, and individuals looking to improve their focus and productivity"
+}

@@ -1,0 +1,10 @@
+{
+  "short_description": "Plan your trip",
+  "full_description": "TravelPal is your ultimate travel companion. This intuitive app helps you organize your trips and stay informed about your destinations. With TravelPal, you can create and manage your itineraries, access comprehensive destination guides, and receive real-time weather updates. Whether you're a seasoned traveler or embarking on your first adventure, TravelPal has got you covered. Key features include: 
+  - Itinerary management: organize your flights, hotels, and activities in one place
+  - Destination guides: get insider knowledge on the best places to visit, eat, and shop
+  - Real-time weather updates: stay ahead of the weather and plan accordingly
+  - Personalized recommendations: get tailored suggestions based on your interests and preferences
+  Download TravelPal today and make the most of your travels!",
+  "keywords": ["travel", "trip planner", "itinerary", "destination guide", "weather updates"]
+}
