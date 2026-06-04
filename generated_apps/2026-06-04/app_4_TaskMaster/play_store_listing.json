@@ -1,0 +1,11 @@
+{
+  "short_description": "Task manager",
+  "full_description": "TaskMaster is a productivity app that helps users manage their tasks, set reminders, and prioritize their to-do lists. It also provides features for tracking progress and staying organized. With TaskMaster, you can create and manage your tasks, set deadlines, and receive reminders to ensure you stay on track. The app also allows you to prioritize your tasks, so you can focus on the most important ones first. Additionally, TaskMaster provides a progress tracker, so you can see how far you've come and what still needs to be done. Whether you're a student, professional, or simply looking to get more done in your daily life, TaskMaster is the perfect tool to help you stay organized and achieve your goals.",
+  "keywords": [
+    "task manager",
+    "productivity",
+    "to-do list",
+    "reminders",
+    "organization"
+  ]
+}

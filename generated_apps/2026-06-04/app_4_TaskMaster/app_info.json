@@ -1,0 +1,10 @@
+{
+  "name": "TaskMaster",
+  "description": "TaskMaster is a productivity app that helps users manage their tasks, set reminders, and prioritize their to-do lists. It also provides features for tracking progress and staying organized.",
+  "features": [
+    "Task management with prioritization and due dates",
+    "Customizable reminders and notifications",
+    "Progress tracking with analytics and insights"
+  ],
+  "target_audience": "Students, professionals, and individuals with busy schedules"
+}

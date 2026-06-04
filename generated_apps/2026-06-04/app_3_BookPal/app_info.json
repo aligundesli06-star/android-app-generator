@@ -1,0 +1,10 @@
+{
+  "name": "BookPal",
+  "description": "BookPal is a reading app that helps users discover new books, track their reading progress, and connect with fellow book lovers. It provides personalized book recommendations and allows users to join book clubs.",
+  "features": [
+    "Book discovery with personalized recommendations",
+    "Reading progress tracking with customizable goals",
+    "Social features for discussing books and joining clubs"
+  ],
+  "target_audience": "Avid readers and book clubs"
+}
