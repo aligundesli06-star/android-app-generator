@@ -1,0 +1,10 @@
+{
+  "name": "Recipe Book",
+  "description": "A digital cookbook where users can discover, save, and organize their favorite recipes, with features to plan meals and make grocery lists. It provides an accessible way to explore new cuisines and cooking techniques.",
+  "features": [
+    "Recipe search and filtering",
+    "Meal planning and grocery list generation",
+    "Recipe bookmarking and organization"
+  ],
+  "target_audience": "Home cooks and food enthusiasts"
+}

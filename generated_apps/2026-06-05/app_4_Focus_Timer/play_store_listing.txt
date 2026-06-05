@@ -1,0 +1,11 @@
+{
+  "short_description": "Stay focused",
+  "full_description": "Improve your productivity with Focus Timer, a Pomodoro Technique-based app designed to help you stay concentrated and work efficiently. The app provides customizable timers and break reminders to keep you on track. With Focus Timer, you can boost your concentration, reduce distractions, and achieve your goals. Key features include: 
+  - Customizable work and break sessions
+  - Adjustable timer intervals
+  - Optional break reminders
+  - Simple and intuitive interface
+  - Statistics to track your progress
+  Download Focus Timer now and start staying focused on what matters most.",
+  "keywords": ["Pomodoro Technique", "productivity", "focus", "timer", "concentration"]
+}
