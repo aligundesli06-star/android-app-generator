@@ -1,0 +1,10 @@
+{
+  "name": "TravelBuddy",
+  "description": "A travel app that helps users plan and organize their trips, providing recommendations for destinations, activities, and accommodations. It makes traveling easier and more enjoyable.",
+  "features": [
+    "Destination recommendations with itineraries",
+    "Activity and accommodation booking",
+    "Real-time language translation and currency conversion"
+  ],
+  "target_audience": "Travelers and adventure seekers"
+}

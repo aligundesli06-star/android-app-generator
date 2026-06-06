@@ -1,0 +1,10 @@
+{
+  "name": "BookWorm",
+  "description": "An app for book lovers to discover new titles, track their reading progress, and connect with fellow readers. It provides a personalized reading experience and helps users explore different genres and authors.",
+  "features": [
+    "Book discovery with recommendations and reviews",
+    "Reading progress tracking with statistics",
+    "Discussion forum for book clubs and readers"
+  ],
+  "target_audience": "Book lovers and avid readers"
+}

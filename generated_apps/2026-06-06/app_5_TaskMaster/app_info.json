@@ -1,0 +1,10 @@
+{
+  "name": "TaskMaster",
+  "description": "A task management app that helps users stay organized and focused, providing tools for prioritizing and managing tasks. It boosts productivity and reduces stress.",
+  "features": [
+    "Task prioritization and scheduling",
+    "Reminders and notifications",
+    "Project management with collaboration tools"
+  ],
+  "target_audience": "Professionals, students, and individuals looking to improve their productivity"
+}
