@@ -1,0 +1,10 @@
+{
+  "name": "FocusForge",
+  "description": "A productivity app designed to help users stay focused and avoid distractions, providing tools and techniques for improving concentration. It aims to boost productivity and efficiency.",
+  "features": [
+    "Pomodoro timer and customized work sessions",
+    "Website and app blockers for minimizing distractions",
+    "Task management and prioritization"
+  ],
+  "target_audience": "Students, professionals, and individuals seeking to improve their productivity"
+}
