@@ -1,0 +1,11 @@
+{
+  "short_description": "Real-time weather updates",
+  "full_description": "Weather Watch is a weather forecasting app that provides users with real-time weather updates and forecasts. It includes features such as weather alerts and radar imagery, allowing users to stay informed and plan their daily activities accordingly. With Weather Watch, users can access current weather conditions, hourly forecasts, and 10-day forecasts. The app also provides detailed information on temperature, humidity, wind speed, and precipitation. Additionally, users can customize the app to receive weather alerts for their location, ensuring they stay safe and up-to-date on any severe weather conditions. Whether you're planning a trip, commuting to work, or just want to know what the weather will be like for the day, Weather Watch is the perfect app for you.",
+  "keywords": [
+    "weather",
+    "forecast",
+    "radar",
+    "alerts",
+    "meteorology"
+  ]
+}

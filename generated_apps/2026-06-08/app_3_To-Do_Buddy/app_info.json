@@ -1,0 +1,10 @@
+{
+  "name": "To-Do Buddy",
+  "description": "To-Do Buddy is a task management app that helps users stay organized and focused on their daily tasks. It provides reminders and prioritization features.",
+  "features": [
+    "Task creation and management",
+    "Reminders and notifications",
+    "Task prioritization and categorization"
+  ],
+  "target_audience": "Busy professionals and students"
+}

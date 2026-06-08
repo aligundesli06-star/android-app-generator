@@ -1,0 +1,11 @@
+{
+  "short_description": "Task manager",
+  "full_description": "To-Do Buddy is a task management app that helps users stay organized and focused on their daily tasks. It provides reminders and prioritization features to ensure that users never miss a deadline. With To-Do Buddy, users can create and manage their to-do lists, set reminders, and prioritize tasks based on their importance and urgency. The app also allows users to break down large tasks into smaller, manageable chunks, making it easier to stay on track and achieve their goals. Whether you're a student, professional, or simply looking to stay organized, To-Do Buddy is the perfect tool to help you manage your time and increase your productivity.",
+  "keywords": [
+    "task management",
+    "to-do list",
+    "reminders",
+    "productivity",
+    "organization"
+  ]
+}

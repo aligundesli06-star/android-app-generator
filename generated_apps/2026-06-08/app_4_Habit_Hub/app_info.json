@@ -1,0 +1,10 @@
+{
+  "name": "Habit Hub",
+  "description": "Habit Hub is a habit-forming app that helps users create and maintain positive habits. It provides tracking and motivation features to help users stay on track.",
+  "features": [
+    "Habit creation and tracking",
+    "Customizable habit reminders",
+    "Motivational quotes and statistics"
+  ],
+  "target_audience": "Individuals looking to form positive habits and improve their daily routines"
+}

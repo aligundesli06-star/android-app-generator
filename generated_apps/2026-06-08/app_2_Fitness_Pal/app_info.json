@@ -1,0 +1,10 @@
+{
+  "name": "Fitness Pal",
+  "description": "Fitness Pal is a workout companion app that helps users create and track their exercise routines. It provides a library of exercises and nutritional advice.",
+  "features": [
+    "Customizable workout routines",
+    "Exercise library with video tutorials",
+    "Nutrition advice and meal planning"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals looking to start a workout routine"
+}
