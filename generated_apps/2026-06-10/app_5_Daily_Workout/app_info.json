@@ -1,0 +1,10 @@
+{
+  "name": "Daily Workout",
+  "description": "Daily Workout is a fitness app that provides users with a variety of exercises and workout routines. It allows users to track their progress and set fitness goals.",
+  "features": [
+    "Exercise database with descriptions and videos",
+    "Workout planning and scheduling",
+    "Progress tracking and goal setting"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals looking to stay active"
+}

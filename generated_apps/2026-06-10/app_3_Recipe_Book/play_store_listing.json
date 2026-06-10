@@ -1,0 +1,11 @@
+{
+  "short_description": "Cooking app",
+  "full_description": "Recipe Book is a cooking app that provides users with a vast collection of recipes and advanced meal planning features. It allows users to save and organize their favorite recipes, making it easy to access them whenever they want. The app also includes features such as ingredient lists, step-by-step instructions, and nutritional information. Users can filter recipes by course, cuisine, and dietary restrictions, making it simple to find the perfect dish for any occasion. With Recipe Book, users can discover new recipes, plan their meals, and cook with confidence.",
+  "keywords": [
+    "cooking",
+    "recipes",
+    "meal planning",
+    "food",
+    "cuisine"
+  ]
+}
