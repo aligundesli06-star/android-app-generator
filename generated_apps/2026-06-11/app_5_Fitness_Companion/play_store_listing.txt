@@ -1,0 +1,12 @@
+{
+  "short_description": "Your fitness guide",
+  "full_description": "Get fit with Fitness Companion, the ultimate app for your wellness journey. Our comprehensive platform provides a wide range of workouts, exercise routines, and personalized nutrition advice tailored to your specific needs and goals. Whether you're a beginner or an experienced athlete, Fitness Companion has something for everyone. Connect with like-minded individuals through our social features, join challenges, and track your progress to stay motivated and inspired. Key features include: 
+- Customizable workout plans
+- Database of exercises with step-by-step instructions
+- Meal planning and nutrition advice
+- Progress tracking and analytics
+- Community forums and discussion groups
+- Integrations with popular wearables and health apps
+Download Fitness Companion today and take the first step towards achieving your fitness goals.",
+  "keywords": ["fitness", "workout", "nutrition", "exercise", "wellness"]
+}

@@ -1,0 +1,20 @@
+{
+  "short_description": "Track habits daily",
+  "full_description": "Habit Tracker is a simple and intuitive app designed to help you set and achieve your daily goals. With its user-friendly interface, you can easily monitor your progress and maintain good habits. The app allows you to create customized habits, set reminders, and track your achievements over time. Features include: 
+- Customizable habit lists
+- Daily reminders and notifications
+- Progress tracking and statistics
+- Motivational quotes and rewards
+- Seamless data backup and sync
+
+Download Habit Tracker today and start building positive habits that will improve your overall well-being. The app is free to use, with optional in-app purchases for premium features.
+
+By using Habit Tracker, you'll be able to:
+- Improve your mental and physical health
+- Increase productivity and focus
+- Enhance self-discipline and willpower
+- Develop a growth mindset and achieve your goals
+
+Join the Habit Tracker community and start your journey to a happier, healthier you!",
+  "keywords": ["habit tracker", "goal setting", "productivity", "self improvement", "motivation"]
+}

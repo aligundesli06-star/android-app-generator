@@ -1,0 +1,10 @@
+{
+  "name": "Fitness Companion",
+  "description": "A fitness app that provides workouts, exercise routines, and nutrition advice to help users achieve their fitness goals. It offers social features to connect with like-minded individuals.",
+  "features": [
+    "Workout routines and exercise plans",
+    "Nutrition advice and meal planning",
+    "Social sharing and community features"
+  ],
+  "target_audience": "Fitness enthusiasts and athletes"
+}
