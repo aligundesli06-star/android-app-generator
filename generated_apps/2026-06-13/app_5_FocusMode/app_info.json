@@ -1,0 +1,10 @@
+{
+  "name": "FocusMode",
+  "description": "FocusMode is a productivity app that helps users stay focused and avoid distractions. It provides tools for time management and goal setting.",
+  "features": [
+    "Pomodoro timer and focus mode",
+    "Goal setting and task management",
+    "Customizable productivity tracking"
+  ],
+  "target_audience": "Students, professionals, and individuals looking to boost productivity"
+}
