@@ -1,0 +1,10 @@
+{
+  "name": "Language Learner",
+  "description": "A language learning app that offers interactive lessons, quizzes, and exercises to help users improve their language skills. It focuses on conversational skills and vocabulary building.",
+  "features": [
+    "Interactive lessons with audio and video content",
+    "Quizzes and exercises to test language skills",
+    "Conversation practice with native speaker audio"
+  ],
+  "target_audience": "Language learners and travelers"
+}

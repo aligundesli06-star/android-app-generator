@@ -1,0 +1,10 @@
+{
+  "name": "Recipe Finder",
+  "description": "A cooking app that suggests recipes based on ingredients, dietary restrictions, and cooking time, helping users discover new dishes. It provides step-by-step cooking instructions and nutritional information.",
+  "features": [
+    "Search recipes by ingredient or dietary restriction",
+    "Save and organize favorite recipes",
+    "Meal planning and grocery list generation"
+  ],
+  "target_audience": "Home cooks and individuals looking for new recipe ideas"
+}
