@@ -1,0 +1,10 @@
+{
+  "name": "MoodTracker",
+  "description": "A mental health app that helps users track and manage their emotions. It provides personalized recommendations for relaxation and stress relief.",
+  "features": [
+    "Mood journaling with customizable emotions",
+    "Personalized meditation and relaxation techniques",
+    "Statistics and insights on mood patterns"
+  ],
+  "target_audience": "Individuals struggling with mental health issues, stress, or anxiety"
+}
