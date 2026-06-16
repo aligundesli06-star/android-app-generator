@@ -1,0 +1,10 @@
+{
+  "name": "TravelDiary",
+  "description": "TravelDiary is a travel journaling app that allows users to document and share their travel experiences. It provides a platform for travelers to record memories and reflections.",
+  "features": [
+    "Travel journaling and note-taking",
+    "Photo and video sharing",
+    "Itinerary planning and organization"
+  ],
+  "target_audience": "Travelers and adventure-seekers"
+}
