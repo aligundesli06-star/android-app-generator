@@ -1,0 +1,10 @@
+{
+  "name": "Language Learner",
+  "description": "An app for learning new languages through interactive lessons and exercises. It focuses on practical conversation skills and cultural immersion.",
+  "features": [
+    "Interactive language lessons",
+    "Conversation practice with native speakers",
+    "Cultural insights and immersion activities"
+  ],
+  "target_audience": "Language learners and travelers"
+}

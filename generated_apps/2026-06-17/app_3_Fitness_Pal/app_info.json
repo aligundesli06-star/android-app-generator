@@ -1,0 +1,10 @@
+{
+  "name": "Fitness Pal",
+  "description": "A fitness app to track workouts, monitor progress, and set goals. It provides a community for users to stay motivated and accountable.",
+  "features": [
+    "Workout tracking and logging",
+    "Progress monitoring and goal setting",
+    "Social sharing and community forums"
+  ],
+  "target_audience": "Fitness enthusiasts and athletes"
+}
