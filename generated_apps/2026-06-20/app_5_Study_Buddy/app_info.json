@@ -1,0 +1,10 @@
+{
+  "name": "Study Buddy",
+  "description": "A study companion app that helps students prepare for exams and stay organized. It provides flashcards, quizzes, and study materials for various subjects.",
+  "features": [
+    "Customizable flashcards and study materials",
+    "Quizzes and practice tests with detailed feedback",
+    "Integration with popular learning management systems"
+  ],
+  "target_audience": "Students and learners of all ages"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Food Diary",
+  "description": "A food tracking app that helps users monitor their daily food intake and make healthier choices. It provides detailed nutrition information and personalized dietary recommendations.",
+  "features": [
+    "Barcode scanning and manual food entry",
+    "Nutrition tracking with detailed statistics and analytics",
+    "Personalized meal planning and recipe suggestions"
+  ],
+  "target_audience": "Health-conscious individuals and fitness enthusiasts"
+}
