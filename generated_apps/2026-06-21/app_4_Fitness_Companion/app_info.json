@@ -1,0 +1,10 @@
+{
+  "name": "Fitness Companion",
+  "description": "A workout app that guides users through exercises, tracks progress, and provides motivation to reach fitness goals. It offers a personalized approach to physical training.",
+  "features": [
+    "Exercise library with video demonstrations",
+    "Workout planning and tracking",
+    "Nutrition advice and meal planning"
+  ],
+  "target_audience": "Fitness enthusiasts, athletes, and individuals looking to get in shape"
+}
