@@ -1,0 +1,10 @@
+{
+  "name": "Focus Timer",
+  "description": "A time management app that helps users stay focused and productive, using techniques like the Pomodoro timer. It provides a simple and customizable way to work in focused intervals.",
+  "features": [
+    "Customizable Pomodoro timer",
+    "Task management and prioritization",
+    "Focus-enhancing music and ambient sounds"
+  ],
+  "target_audience": "Students, professionals, and individuals seeking to improve their productivity"
+}

@@ -1,0 +1,11 @@
+{
+  "short_description": "Stay focused",
+  "full_description": "Focus Timer is a time management app designed to help users stay focused and productive. It utilizes techniques like the Pomodoro timer, which involves working in focused intervals (typically 25 minutes) separated by short breaks. This approach has been shown to improve concentration, reduce distractions, and increase overall productivity. The app provides a simple and customizable way to implement this technique, allowing users to adjust the length of their work sessions and breaks according to their needs. Features include: customizable timer intervals, reminder notifications, statistics to track progress, and a clean, intuitive interface. Whether you're a student looking to improve your study habits, a professional seeking to enhance your work efficiency, or simply an individual aiming to achieve your goals, Focus Timer is a valuable tool to help you stay on track and maintain your momentum.",
+  "keywords": [
+    "Pomodoro timer",
+    "time management",
+    "productivity",
+    "focus",
+    "concentration"
+  ]
+}
