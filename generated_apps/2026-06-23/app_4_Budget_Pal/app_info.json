@@ -1,0 +1,10 @@
+{
+  "name": "Budget Pal",
+  "description": "A personal finance app to help users manage their expenses, create budgets, and achieve financial goals. It offers expense tracking and budgeting tools.",
+  "features": [
+    "Expense tracking and categorization",
+    "Budget creation and monitoring",
+    "Financial goal setting and alerts"
+  ],
+  "target_audience": "Individuals looking to manage their finances effectively"
+}

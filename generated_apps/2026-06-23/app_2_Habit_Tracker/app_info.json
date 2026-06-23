@@ -1,0 +1,10 @@
+{
+  "name": "Habit Tracker",
+  "description": "An app to help users build positive habits and break negative ones, promoting a healthier lifestyle. It allows users to set and track goals.",
+  "features": [
+    "Customizable habit tracking",
+    "Reminders and notifications",
+    "Progress statistics and rewards"
+  ],
+  "target_audience": "Health-conscious individuals and those looking to improve their daily routines"
+}
