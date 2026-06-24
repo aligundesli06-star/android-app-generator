@@ -1,0 +1,9 @@
+{
+  "short_description": "Plan trips with ease",
+  "full_description": "TravelPal is your ultimate travel companion app, designed to assist you in planning and organizing your trips. With TravelPal, you can manage your itinerary, explore destination guides, and even translate languages in real-time. The app provides a user-friendly interface to help you stay organized and make the most of your travels. Key features include: 
+- Itinerary management: Create and manage your daily travel plans, including flights, hotel bookings, and activities.
+- Destination guides: Get insider tips and information on top destinations, including attractions, restaurants, and local customs.
+- Language translation: Communicate with locals using our real-time translation feature, supporting multiple languages.
+Whether you're a frequent traveler or embarking on your first adventure, TravelPal is the perfect companion to help you navigate unfamiliar places and make unforgettable memories. Download TravelPal today and start exploring the world with confidence!",
+  "keywords": ["travel", "itinerary", "destination", "translation", "trip"]
+}

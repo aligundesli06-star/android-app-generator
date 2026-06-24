@@ -1,0 +1,10 @@
+{
+  "name": "FocusFlow",
+  "description": "A productivity app designed to boost focus and concentration, using techniques like the Pomodoro timer and task prioritization. It helps users manage distractions and stay motivated.",
+  "features": [
+    "Pomodoro timer with customizable intervals",
+    "Task management with prioritization and deadlines",
+    "Statistics and insights into productivity"
+  ],
+  "target_audience": "Students, remote workers, and individuals with busy schedules"
+}
