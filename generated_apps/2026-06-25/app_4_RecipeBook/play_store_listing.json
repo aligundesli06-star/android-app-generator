@@ -1,0 +1,11 @@
+{
+  "short_description": "Recipe organizer",
+  "full_description": "RecipeBook is a recipe management app that allows users to store, organize, and share their favorite recipes. It also provides features for meal planning and grocery shopping. With RecipeBook, you can easily add, edit, and categorize your recipes, and even add photos and notes to make them more personal. The meal planning feature allows you to plan your meals for the week, and generate a grocery list based on the recipes you've chosen. You can also share your recipes with friends and family, or discover new recipes from other users. Whether you're a busy home cook or an experienced chef, RecipeBook is the perfect tool for managing your recipes and staying organized in the kitchen.",
+  "keywords": [
+    "recipes",
+    "meal planning",
+    "grocery shopping",
+    "cooking",
+    "organization"
+  ]
+}
