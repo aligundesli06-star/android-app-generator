@@ -1,0 +1,10 @@
+{
+  "name": "Travel Planner",
+  "description": "A trip planning app that helps users organize and manage their travels. It provides a one-stop solution for travel planning.",
+  "features": [
+    "Trip itinerary management",
+    "Destination research and recommendations",
+    "Packing list and expense tracking"
+  ],
+  "target_audience": "Frequent travelers"
+}
