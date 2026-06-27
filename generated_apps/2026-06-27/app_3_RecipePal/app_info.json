@@ -1,0 +1,10 @@
+{
+  "name": "RecipePal",
+  "description": "A recipe discovery app that allows users to find and save new dishes based on their dietary preferences. It provides step-by-step cooking instructions and meal planning features.",
+  "features": [
+    "Recipe search with filters for dietary restrictions",
+    "Meal planning and grocery list generation",
+    "Step-by-step cooking instructions with images"
+  ],
+  "target_audience": "Home cooks and individuals with specific dietary needs"
+}

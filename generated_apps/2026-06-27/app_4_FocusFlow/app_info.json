@@ -1,0 +1,10 @@
+{
+  "name": "FocusFlow",
+  "description": "A productivity app that helps users stay focused and avoid distractions. It provides a Pomodoro timer, website blocker, and customizable focus modes.",
+  "features": [
+    "Pomodoro timer with customizable intervals",
+    "Website and app blocker during focus mode",
+    "Customizable focus modes for different tasks"
+  ],
+  "target_audience": "Students, professionals, and individuals with productivity goals"
+}
