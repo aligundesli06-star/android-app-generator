@@ -1,0 +1,10 @@
+{
+  "name": "DailyQuotes",
+  "description": "An inspirational app that provides daily quotes and motivational content. It helps users stay positive and motivated.",
+  "features": [
+    "Daily quote push notifications",
+    "Quote categories and filtering",
+    "Favorite quotes and sharing features"
+  ],
+  "target_audience": "People who need a daily dose of motivation and inspiration"
+}
