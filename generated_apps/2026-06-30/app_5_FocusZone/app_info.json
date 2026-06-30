@@ -1,0 +1,10 @@
+{
+  "name": "FocusZone",
+  "description": "A productivity app that helps users stay focused and avoid distractions. It offers a pomodoro timer, task management, and website blocking features.",
+  "features": [
+    "Pomodoro timer with customizable sessions",
+    "Task management and prioritization",
+    "Website blocking and distraction limitation"
+  ],
+  "target_audience": "Students, professionals, and individuals seeking improved productivity"
+}

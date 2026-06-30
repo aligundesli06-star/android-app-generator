@@ -1,0 +1,11 @@
+{
+  "short_description": "Walk, explore, track",
+  "full_description": "WalkBuddy is a fitness app designed to encourage users to walk and explore their surroundings. It tracks progress, providing a clear picture of daily and weekly activity. The app also suggests routes, helping users discover new places and stay motivated. With social sharing features, users can share their achievements and compete with friends, making the experience more enjoyable and engaging. Key features include: 
+- Step tracking and progress monitoring
+- Personalized route suggestions based on user preferences
+- Social sharing and community features
+- Integration with popular wearables and health apps
+- Customizable goals and reminders to stay on track
+Download WalkBuddy today and start walking your way to a healthier, happier you!",
+  "keywords": ["walking", "fitness", "exercise", "tracking", "health"]
+}

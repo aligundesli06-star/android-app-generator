@@ -1,0 +1,10 @@
+{
+  "name": "WalkBuddy",
+  "description": "A fitness app that encourages users to walk and explore their surroundings. It tracks progress, provides route suggestions, and offers social sharing features.",
+  "features": [
+    "Step tracking and distance measurement",
+    "Route planning and exploration",
+    "Social sharing and community features"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals who enjoy walking"
+}
