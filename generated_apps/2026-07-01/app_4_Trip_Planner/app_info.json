@@ -1,0 +1,10 @@
+{
+  "name": "Trip Planner",
+  "description": "An app to organize and plan trips, providing itineraries, destination guides, and travel tips. Users can book flights, hotels, and activities within the app.",
+  "features": [
+    "Destination guides with points of interest",
+    "Itinerary planning and booking",
+    "Real-time travel updates and alerts"
+  ],
+  "target_audience": "Travelers and adventure seekers"
+}

@@ -1,0 +1,11 @@
+{
+  "short_description": "Track workouts & nutrition",
+  "full_description": "FitnessPal is your ultimate fitness companion app, designed to help you reach your health and wellness goals. With FitnessPal, you can track your workouts, monitor your progress, and set achievable goals. The app provides access to a vast library of exercises, allowing you to create custom routines tailored to your needs and preferences. Additionally, FitnessPal enables you to track your nutrition, ensuring you're fueling your body for optimal performance. Key features include: 
+- Exercise library with detailed instructions and videos
+- Customizable workout routines
+- Progress tracking and analytics
+- Nutrition tracking with a database of foods
+- Goal setting and reminders
+Whether you're a fitness enthusiast or just starting out, FitnessPal is the perfect tool to help you achieve a healthier, happier you.",
+  "keywords": ["fitness", "workout", "nutrition", "exercise", "wellness"]
+}

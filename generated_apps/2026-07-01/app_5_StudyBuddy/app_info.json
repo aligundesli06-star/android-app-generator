@@ -1,0 +1,10 @@
+{
+  "name": "StudyBuddy",
+  "description": "A learning app to connect students with study groups, resources, and mentors. Users can access flashcards, practice quizzes, and collaborate on projects.",
+  "features": [
+    "Study group formation and discussion forums",
+    "Flashcard decks and practice quizzes",
+    "Mentorship programs and peer review"
+  ],
+  "target_audience": "Students and educators"
+}

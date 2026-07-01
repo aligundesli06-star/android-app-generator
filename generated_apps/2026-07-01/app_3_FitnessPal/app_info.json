@@ -1,0 +1,10 @@
+{
+  "name": "FitnessPal",
+  "description": "A fitness companion app to track workouts, monitor progress, and set goals. Users can access a library of exercises, create custom routines, and track nutrition.",
+  "features": [
+    "Exercise library with video tutorials",
+    "Customizable workout routines",
+    "Nutrition tracking and meal planning"
+  ],
+  "target_audience": "Fitness enthusiasts and athletes"
+}

@@ -1,0 +1,11 @@
+{
+  "short_description": "Learn Together",
+  "full_description": "StudyBuddy is a learning app designed to connect students with study groups, resources, and mentors. With StudyBuddy, users can access a wide range of educational tools, including flashcards, practice quizzes, and collaborative project workspaces. Join or create study groups to stay motivated and learn from peers, and get guidance from experienced mentors who can provide valuable feedback and support. Key features include: 
+- Access to a vast library of flashcards and practice quizzes for various subjects
+- Collaborative project workspaces to work with peers on assignments and projects
+- Study group management to join or create groups and connect with fellow students
+- Mentorship program to get guidance and feedback from experienced mentors
+- Personalized learning dashboard to track progress and stay organized
+Whether you're a student looking for a study companion or a teacher seeking to create a collaborative learning environment, StudyBuddy has something to offer. Download the app today and start learning together!",
+  "keywords": ["study groups", "learning app", "flashcards", "mentors", "collaboration"]
+}
