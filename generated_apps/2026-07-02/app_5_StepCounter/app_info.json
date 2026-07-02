@@ -1,0 +1,10 @@
+{
+  "name": "StepCounter",
+  "description": "StepCounter is a fitness app that tracks users' daily steps and activities. It provides insights into users' physical activity.",
+  "features": [
+    "Step tracking with distance and calories burned",
+    "Activity tracking with exercise and sleep",
+    "Fitness goals and challenges"
+  ],
+  "target_audience": "Fitness enthusiasts and athletes"
+}

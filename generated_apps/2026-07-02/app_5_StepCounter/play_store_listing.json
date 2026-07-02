@@ -1,0 +1,11 @@
+{
+  "short_description": "Track daily steps",
+  "full_description": "StepCounter is a fitness app that tracks users' daily steps and activities. It provides insights into users' physical activity, helping them set and achieve fitness goals. With StepCounter, users can monitor their progress, identify areas for improvement, and stay motivated to maintain a healthy lifestyle. The app offers a user-friendly interface, making it easy to navigate and understand the tracking data. Key features include step tracking, distance calculation, calorie burn estimation, and personalized recommendations for increasing physical activity. Whether you're a fitness enthusiast or just starting out, StepCounter is a valuable tool to help you take control of your health and wellness.",
+  "keywords": [
+    "fitness",
+    "step tracker",
+    "activity monitor",
+    "health",
+    "wellness"
+  ]
+}

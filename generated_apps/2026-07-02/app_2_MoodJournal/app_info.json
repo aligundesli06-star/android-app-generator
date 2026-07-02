@@ -1,0 +1,10 @@
+{
+  "name": "MoodJournal",
+  "description": "MoodJournal is a digital journal that allows users to record and track their emotions. It provides insights into users' mental well-being.",
+  "features": [
+    "Mood tracking with emotions and tags",
+    "Journal entries with text and images",
+    "Mood analytics and statistics"
+  ],
+  "target_audience": "Individuals dealing with mental health issues"
+}

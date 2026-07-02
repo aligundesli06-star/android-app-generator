@@ -1,0 +1,11 @@
+{
+  "short_description": "Task manager",
+  "full_description": "TodoTask is a task management app that helps users organize and prioritize their tasks. It allows users to set deadlines and reminders, ensuring they stay on track and never miss a task. With TodoTask, users can create and manage their to-do lists, set priorities, and receive notifications when a task is due. The app is designed to be simple and intuitive, making it easy for users to get started and stay organized. Whether you're a student, professional, or simply looking to get more done in your daily life, TodoTask is the perfect tool to help you achieve your goals.",
+  "keywords": [
+    "task manager",
+    "to-do list",
+    "productivity",
+    "organization",
+    "reminders"
+  ]
+}

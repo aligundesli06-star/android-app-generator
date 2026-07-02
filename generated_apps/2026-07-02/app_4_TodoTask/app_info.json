@@ -1,0 +1,10 @@
+{
+  "name": "TodoTask",
+  "description": "TodoTask is a task management app that helps users organize and prioritize their tasks. It allows users to set deadlines and reminders.",
+  "features": [
+    "Task list with priorities and deadlines",
+    "Reminders and notifications",
+    "Task completion tracking and statistics"
+  ],
+  "target_audience": "Productivity-focused individuals"
+}
