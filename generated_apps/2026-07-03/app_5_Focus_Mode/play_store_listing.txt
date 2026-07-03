@@ -1,0 +1,11 @@
+{
+  "short_description": "Stay focused, achieve goals",
+  "full_description": "Improve your productivity with Focus Mode, a powerful app designed to help you stay focused and avoid distractions. With a range of innovative tools, including website blockers, time tracking, and goal setting, you'll be able to concentrate on what matters most and achieve your work and study goals. Whether you're a student, professional, or entrepreneur, Focus Mode provides the perfect solution to boost your productivity and reach your full potential. Key features include: 
+- Website blockers to minimize online distractions
+- Time tracking to monitor your productivity
+- Goal setting to help you stay motivated
+- Customizable settings to fit your unique needs
+- Detailed statistics to track your progress
+Download Focus Mode today and discover a more efficient, productive you.",
+  "keywords": ["productivity", "focus", "goal setting", "time tracking", "distraction blocker"]
+}

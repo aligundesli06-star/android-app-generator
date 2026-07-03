@@ -1,0 +1,10 @@
+{
+  "name": "Focus Mode",
+  "description": "A productivity app that helps users stay focused and avoid distractions, providing tools such as website blockers, time tracking, and goal setting. It assists individuals in achieving their work and study goals.",
+  "features": [
+    "Website and app blockers",
+    "Time tracking and analytics",
+    "Goal setting and reminders"
+  ],
+  "target_audience": "Students, professionals, and individuals looking to improve their productivity"
+}

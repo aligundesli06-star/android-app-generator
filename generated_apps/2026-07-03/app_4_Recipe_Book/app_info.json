@@ -1,0 +1,10 @@
+{
+  "name": "Recipe Book",
+  "description": "A cooking app that allows users to discover, save, and organize their favorite recipes, as well as generate meal plans and grocery lists. It provides a comprehensive cooking companion for home cooks.",
+  "features": [
+    "Recipe search and discovery",
+    "Meal planning and grocery lists",
+    "Recipe book and organization"
+  ],
+  "target_audience": "Home cooks and food enthusiasts"
+}
