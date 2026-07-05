@@ -1,0 +1,10 @@
+{
+  "name": "Mood Journal",
+  "description": "Mood Journal is a mental health app that allows users to track their emotions and moods. It provides a safe space for users to express themselves and monitor their mental well-being.",
+  "features": [
+    "Mood tracking and analytics",
+    "Journaling and note-taking",
+    "Customizable mood themes and colors"
+  ],
+  "target_audience": "Individuals struggling with mental health issues or those looking to improve their self-awareness"
+}
