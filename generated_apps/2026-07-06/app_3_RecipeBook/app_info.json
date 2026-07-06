@@ -1,0 +1,10 @@
+{
+  "name": "RecipeBook",
+  "description": "A digital cookbook where users can discover, save, and organize their favorite recipes, with features for meal planning and grocery shopping. It allows users to search and filter recipes by ingredients, dietary restrictions, and cooking time.",
+  "features": [
+    "Recipe search and filtering",
+    "Meal planning and grocery list generation",
+    "Customizable recipe book and favorites list"
+  ],
+  "target_audience": "Home cooks and individuals looking for recipe inspiration"
+}
