@@ -1,0 +1,10 @@
+{
+  "name": "MoodJournal",
+  "description": "A mood tracking app that helps users monitor their emotions and identify patterns. It provides a simple and private way to record feelings and thoughts.",
+  "features": [
+    "Mood tracking with emojis and colors",
+    "Daily, weekly, and monthly mood statistics",
+    "Private note-taking for each entry"
+  ],
+  "target_audience": "Individuals struggling with mental health issues, therapists, and counselors"
+}

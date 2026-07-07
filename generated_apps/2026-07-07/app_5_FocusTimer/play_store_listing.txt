@@ -1,0 +1,10 @@
+{
+  "short_description": "Pomodoro timer",
+  "full_description": "Boost your productivity with FocusTimer, a simple and customizable app that utilizes the Pomodoro Technique. This technique involves working in focused 25-minute increments, followed by a 5-minute break. After four cycles, you can take a longer break of 15-30 minutes. Our app allows you to adjust the length of your work sessions and breaks to fit your needs. With FocusTimer, you can stay on track, avoid distractions, and maintain a sustainable work pace. Key features include: 
+  - Simple and intuitive interface
+  - Customizable work sessions and breaks
+  - Notification system to keep you on track
+  - Statistics to track your progress
+  Download FocusTimer now and start achieving your goals.",
+  "keywords": ["Pomodoro", "productivity", "timer", "focus", "study"]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "HabitTracker",
+  "description": "A habit tracking app that helps users build positive routines and break bad habits. It provides reminders, tracking, and rewards for consistent behavior.",
+  "features": [
+    "Customizable habit tracking with reminders",
+    "Habit statistics and progress charts",
+    "Reward system for consistent behavior"
+  ],
+  "target_audience": "Individuals looking to improve their productivity, health, and wellness"
+}
