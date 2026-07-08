@@ -1,0 +1,11 @@
+{
+  "short_description": "Weather forecast app",
+  "full_description": "WeatherWise is a simple weather forecasting app that provides current and forecasted weather conditions. It offers real-time updates and customizable location tracking, allowing you to stay informed about the weather at your current location or any other location of your choice. With WeatherWise, you can plan your day, week, or month ahead with confidence, knowing exactly what the weather has in store. The app is easy to use, intuitive, and provides accurate weather forecasts, making it an essential tool for anyone who wants to stay ahead of the weather.",
+  "keywords": [
+    "weather",
+    "forecast",
+    "location",
+    "tracking",
+    "realtime"
+  ]
+}
