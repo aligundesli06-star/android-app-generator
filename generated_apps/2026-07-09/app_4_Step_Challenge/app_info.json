@@ -1,0 +1,10 @@
+{
+  "name": "Step Challenge",
+  "description": "A fitness app that encourages users to stay active by competing with friends and joining step challenges. The app tracks daily steps, distance, and calories burned, providing a fun and social way to stay motivated.",
+  "features": [
+    "Step tracking and challenge creation",
+    "Social sharing and leaderboard competition",
+    "Reward system with badges and achievements"
+  ],
+  "target_audience": "Fitness enthusiasts and individuals looking to increase their physical activity"
+}

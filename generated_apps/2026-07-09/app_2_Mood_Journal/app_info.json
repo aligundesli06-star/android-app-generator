@@ -1,0 +1,10 @@
+{
+  "name": "Mood Journal",
+  "description": "A digital journal where users can record their emotions and thoughts, helping them identify patterns and gain insight into their mental well-being. The app provides a safe space for self-reflection and personal growth.",
+  "features": [
+    "Emotion tracking with customizable mood tags",
+    "Private note-taking with encryption",
+    "Mood analytics and trend identification"
+  ],
+  "target_audience": "Teenagers and young adults focusing on mental health and self-care"
+}

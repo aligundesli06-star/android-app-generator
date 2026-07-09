@@ -1,0 +1,10 @@
+{
+  "name": "Recipe Booker",
+  "description": "An app for home cooks to discover, save, and organize their favorite recipes in one place. It allows users to filter recipes by ingredient, cooking time, and dietary restrictions.",
+  "features": [
+    "Recipe search and filtering",
+    "Personalized cookbook creation",
+    "Meal planning and grocery list generation"
+  ],
+  "target_audience": "Home cooks and food enthusiasts"
+}
