@@ -1,0 +1,10 @@
+{
+  "name": "HabitTracker",
+  "description": "HabitTracker is an Android app that helps users track and maintain their daily habits. It provides a simple and intuitive way to stay consistent with habits and achieve goals.",
+  "features": [
+    "Customizable habit lists",
+    "Daily reminders and notifications",
+    "Habit tracking statistics and progress charts"
+  ],
+  "target_audience": "Health-conscious individuals and individuals looking to improve their productivity"
+}
