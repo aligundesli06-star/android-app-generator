@@ -1,0 +1,10 @@
+{
+  "name": "FocusForge",
+  "description": "A productivity app that helps users stay focused, avoid distractions, and achieve their goals. It provides a Pomodoro timer, customizable workflows, and analytics.",
+  "features": [
+    "Pomodoro timer with customizable work sessions and breaks",
+    "Task management with prioritization, deadlines, and reminders",
+    "Analytics and insights on productivity, time spent, and goal progress"
+  ],
+  "target_audience": "Students, professionals, and individuals looking to boost their productivity"
+}
