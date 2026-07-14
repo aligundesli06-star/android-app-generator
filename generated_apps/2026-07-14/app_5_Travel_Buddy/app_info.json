@@ -1,0 +1,10 @@
+{
+  "name": "Travel Buddy",
+  "description": "A trip planning app that assists users in organizing their trips, from booking flights and hotels to creating itineraries and managing expenses. It also provides destination guides and recommendations from fellow travelers.",
+  "features": [
+    "Trip planning with flight, hotel, and activity booking",
+    "Itinerary creation and management",
+    "Destination guides and user-generated recommendations"
+  ],
+  "target_audience": "Travelers and adventure seekers"
+}

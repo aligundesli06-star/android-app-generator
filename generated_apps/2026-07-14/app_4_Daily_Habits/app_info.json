@@ -1,0 +1,10 @@
+{
+  "name": "Daily Habits",
+  "description": "A habit-tracking app that helps users build positive routines and break unwanted ones, using customizable habits, reminders, and rewards. It aims to promote consistency and motivation in achieving personal goals.",
+  "features": [
+    "Customizable habit tracking with reminders and notifications",
+    "Habit chaining and streak tracking",
+    "Reward system with motivational quotes and statistics"
+  ],
+  "target_audience": "Individuals seeking to improve their productivity and self-discipline"
+}

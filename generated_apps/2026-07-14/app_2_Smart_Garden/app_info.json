@@ -1,0 +1,10 @@
+{
+  "name": "Smart Garden",
+  "description": "An app designed for gardening enthusiasts to monitor and care for their plants, providing personalized advice and reminders. It helps users track watering schedules, fertilization, and pruning needs.",
+  "features": [
+    "Plant database with care instructions and photos",
+    "Watering and fertilization schedule reminders",
+    "Personalized plant care advice based on user input"
+  ],
+  "target_audience": "Gardening hobbyists and urban farmers"
+}

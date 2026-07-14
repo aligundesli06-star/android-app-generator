@@ -1,0 +1,11 @@
+{
+  "short_description": "Plan your trip",
+  "full_description": "Travel Buddy is your one-stop-shop for all your trip planning needs. With our app, you can book flights and hotels, create personalized itineraries, and manage your expenses. Get destination guides and recommendations from fellow travelers to make the most out of your trip. Whether you're a solo traveler or traveling with a group, Travel Buddy has got you covered. Key features include: 
+- Flight and hotel booking 
+- Itinerary creation and management 
+- Expense tracking 
+- Destination guides 
+- Recommendations from fellow travelers 
+Download Travel Buddy today and make your trip planning experience seamless and enjoyable!",
+  "keywords": ["trip planning", "travel guide", "itinerary", "flight booking", "hotel booking"]
+}
