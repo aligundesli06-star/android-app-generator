@@ -1,0 +1,10 @@
+{
+  "name": "FocusFlow",
+  "description": "FocusFlow is a productivity app that helps users stay focused and on track with their tasks. It provides a simple and customizable interface for managing tasks and time.",
+  "features": [
+    "Task creation with prioritization and deadlines",
+    "Pomodoro timer for focused work sessions",
+    "Customizable goal setting and progress tracking"
+  ],
+  "target_audience": "Students, remote workers, individuals with busy schedules"
+}

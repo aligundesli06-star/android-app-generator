@@ -1,0 +1,11 @@
+{
+  "short_description": "Cook with what you have",
+  "full_description": "RecipeRoulette is a cooking app that provides users with randomized recipe suggestions based on ingredients they have at home. It helps users discover new recipes and reduce food waste. Simply input the ingredients you have available, and RecipeRoulette will generate a list of delicious and easy-to-make recipes. With a vast database of recipes and a user-friendly interface, RecipeRoulette is the perfect tool for home cooks and professional chefs alike. Reduce food waste, save time, and get cooking with RecipeRoulette!",
+  "keywords": [
+    "cooking",
+    "recipes",
+    "meal planning",
+    "food waste",
+    "kitchen"
+  ]
+}
