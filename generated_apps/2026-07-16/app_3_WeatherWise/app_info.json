@@ -1,0 +1,10 @@
+{
+  "name": "WeatherWise",
+  "description": "A location-based weather app that provides current weather conditions, forecasts, and alerts. It offers a simple and easy-to-use interface for planning daily activities.",
+  "features": [
+    "Current weather conditions and forecasts",
+    "Location-based weather alerts",
+    "Customizable weather widgets"
+  ],
+  "target_audience": "General users who want to stay informed about the weather"
+}

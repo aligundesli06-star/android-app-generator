@@ -1,0 +1,10 @@
+{
+  "name": "ToDOList",
+  "description": "A task management app that allows users to create and manage their to-do lists, set reminders, and prioritize tasks. It provides a clean and intuitive interface for increased productivity.",
+  "features": [
+    "Task creation and management",
+    "Reminders and notifications",
+    "Task prioritization and organization"
+  ],
+  "target_audience": "Individuals looking to improve their task management and productivity skills"
+}

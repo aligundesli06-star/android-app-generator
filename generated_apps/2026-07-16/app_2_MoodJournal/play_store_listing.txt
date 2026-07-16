@@ -1,0 +1,10 @@
+{
+  "short_description": "Track your mood",
+  "full_description": "MoodJournal is a comprehensive mood-tracking app designed to help you monitor and understand your emotions. By recording your thoughts and feelings, you'll gain valuable insights into your mental well-being. The app features a mood calendar, allowing you to visualize your emotional state over time and identify patterns. Additionally, MoodJournal provides personalized recommendations to help you manage stress, anxiety, and other emotions. With this app, you can develop a better understanding of yourself and take the first step towards improving your mental health. Key features include: 
+- Mood tracking: Record your emotions and thoughts throughout the day
+- Mood calendar: Visualize your emotional state over time
+- Personalized recommendations: Receive tailored advice for managing stress and anxiety
+- Insights: Gain a deeper understanding of your mental well-being
+Download MoodJournal today and start taking control of your emotions.",
+  "keywords": ["mood tracker", "mental health", "emotional wellness", "stress management", "self-care"]
+}

@@ -1,0 +1,11 @@
+{
+  "short_description": "Task manager",
+  "full_description": "ToDOList is a task management app designed to help you stay organized and focused. With its clean and intuitive interface, you can easily create and manage your to-do lists, set reminders, and prioritize tasks. The app allows you to break down large tasks into smaller, manageable chunks, and track your progress over time. You can also customize your lists with different colors and icons to make them more visually appealing. Whether you're a student, professional, or simply looking to boost your productivity, ToDOList is the perfect tool to help you achieve your goals.",
+  "keywords": [
+    "task manager",
+    "to-do list",
+    "productivity",
+    "reminder",
+    "organization"
+  ]
+}
