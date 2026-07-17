@@ -1,0 +1,11 @@
+{
+  "short_description": "Weather forecast app",
+  "full_description": "WeatherWise is a user-friendly weather forecasting app that provides current weather conditions, forecasts, and alerts. It includes a simple and clean interface for easy navigation, allowing you to quickly access the information you need. With WeatherWise, you can stay up-to-date with the latest weather developments and plan your daily activities accordingly. The app's features include current temperature, humidity, wind speed, and precipitation levels, as well as hourly and daily forecasts. You can also set up custom alerts for severe weather conditions, such as heavy rain, snow, or extreme heat. Whether you're a commuter, outdoor enthusiast, or just someone who likes to stay informed, WeatherWise is the perfect app for you.",
+  "keywords": [
+    "weather",
+    "forecast",
+    "app",
+    "alerts",
+    "navigation"
+  ]
+}

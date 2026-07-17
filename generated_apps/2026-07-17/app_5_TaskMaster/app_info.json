@@ -1,0 +1,10 @@
+{
+  "name": "TaskMaster",
+  "description": "A task management app that helps users prioritize and organize their tasks, from work projects to personal to-do lists. It includes a calendar view and reminders.",
+  "features": [
+    "Task prioritization and categorization",
+    "Calendar integration and reminders",
+    "Recurring task scheduling"
+  ],
+  "target_audience": "Professionals, students, and individuals with busy schedules"
+}

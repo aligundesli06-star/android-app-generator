@@ -1,0 +1,10 @@
+{
+  "name": "WeatherWise",
+  "description": "A weather forecasting app that provides current weather conditions, forecasts, and alerts. It includes a simple and clean interface for easy navigation.",
+  "features": [
+    "Real-time weather updates",
+    "Location-based forecasts",
+    "Severe weather alerts"
+  ],
+  "target_audience": "Commuters, travelers, and outdoor enthusiasts"
+}
