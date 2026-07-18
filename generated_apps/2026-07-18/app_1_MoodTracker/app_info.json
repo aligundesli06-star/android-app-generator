@@ -1,0 +1,12 @@
+{
+  "name": "MoodTracker",
+  "description": "MoodTracker is a simple app that allows users to track their daily emotions and activities. It helps users identify patterns and gain insights into their mental well-being.",
+  "features": [
+    "Daily mood tracking",
+    "Activity logging",
+    "Mood analytics and insights",
+    "Customizable mood categories",
+    "Data export options"
+  ],
+  "target_audience": "Individuals with mental health concerns, therapists, and counselors"
+}
