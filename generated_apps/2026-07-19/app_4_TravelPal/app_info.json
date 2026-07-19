@@ -1,0 +1,10 @@
+{
+  "name": "TravelPal",
+  "description": "A travel planning app that provides destination guides, itineraries, and booking recommendations. Users can also share their travel experiences and photos.",
+  "features": [
+    "Destination guides and recommendations",
+    "Itinerary planning and booking integration",
+    "User-generated travel reviews and photos"
+  ],
+  "target_audience": "Travelers and adventure seekers"
+}

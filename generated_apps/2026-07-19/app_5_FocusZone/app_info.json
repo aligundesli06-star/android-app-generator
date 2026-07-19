@@ -1,0 +1,10 @@
+{
+  "name": "FocusZone",
+  "description": "A productivity app that helps users stay focused and avoid distractions, with features such as website blockers and time tracking. Users can set goals and priorities for their work sessions.",
+  "features": [
+    "Website and app blocking during focus sessions",
+    "Time tracking and productivity analytics",
+    "Customizable focus modes and goals"
+  ],
+  "target_audience": "Students, professionals, and individuals seeking to improve their productivity"
+}

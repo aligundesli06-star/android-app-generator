@@ -1,0 +1,11 @@
+{
+  "short_description": "Plan Your Trip",
+  "full_description": "TravelPal is your ultimate travel companion. Get destination guides, itineraries, and booking recommendations to make the most of your trip. Share your travel experiences and photos with the community to inspire others. Discover new places, plan your itinerary, and book your accommodations and activities all in one place. With TravelPal, you can: 
+- Explore destinations and activities
+- Create and customize your itinerary
+- Book flights, hotels, and activities
+- Share your travel experiences and photos
+- Get recommendations from fellow travelers
+Download TravelPal now and start planning your dream trip!",
+  "keywords": ["travel", "trip", "planner", "itinerary", "booking"]
+}
