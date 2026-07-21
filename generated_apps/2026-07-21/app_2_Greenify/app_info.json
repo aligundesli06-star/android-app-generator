@@ -1,0 +1,11 @@
+{
+  "name": "Greenify",
+  "description": "A plant care and gardening companion app that helps users keep their plants healthy and thriving. It provides tailored advice, reminders, and a community for plant enthusiasts.",
+  "features": [
+    "Personalized plant care advice based on species and climate",
+    "Watering and fertilization reminders",
+    "Photo gallery for plant tracking and identification",
+    "Community forum for plant enthusiasts"
+  ],
+  "target_audience": "Plant owners, gardening enthusiasts, and environmentally conscious individuals"
+}
