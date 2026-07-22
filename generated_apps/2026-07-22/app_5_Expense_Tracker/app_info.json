@@ -1,0 +1,10 @@
+{
+  "name": "Expense Tracker",
+  "description": "Expense Tracker is a personal finance app that helps users track and manage their expenses. It provides a simple and easy-to-use interface for users to monitor their spending.",
+  "features": [
+    "Expense categorization and tagging",
+    "Budgeting and spending limits",
+    "Financial analytics and insights"
+  ],
+  "target_audience": "Individuals looking to manage their finances and track their expenses"
+}

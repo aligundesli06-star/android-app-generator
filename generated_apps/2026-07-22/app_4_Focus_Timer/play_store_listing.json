@@ -1,0 +1,11 @@
+{
+  "short_description": "Stay focused",
+  "full_description": "Focus Timer is a productivity app that helps users stay focused and on track. It uses the Pomodoro Technique to provide a simple and effective way to manage time. The Pomodoro Technique involves working in focused, 25-minute increments, followed by a 5-minute break. This cycle can be repeated for a set number of rounds, known as a 'Pomodoro Sprint.' After four Pomodoro Sprints, the user can take a longer break of 15-30 minutes. This technique has been shown to improve concentration, reduce distractions, and increase overall productivity. With Focus Timer, you can customize the length of your work sessions, break times, and Pomodoro Sprints to fit your individual needs and work style. The app also provides statistics and tracking features to help you monitor your progress and stay motivated.",
+  "keywords": [
+    "productivity",
+    "Pomodoro",
+    "focus",
+    "timer",
+    "concentration"
+  ]
+}
