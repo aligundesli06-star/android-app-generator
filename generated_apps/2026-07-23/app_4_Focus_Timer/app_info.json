@@ -1,0 +1,10 @@
+{
+  "name": "Focus Timer",
+  "description": "A productivity app that uses the Pomodoro technique to boost focus and efficiency. It helps users stay on track and avoid distractions.",
+  "features": [
+    "Customizable work and break intervals",
+    "Task management and tracking",
+    "Statistics on productivity and progress"
+  ],
+  "target_audience": "Students, freelancers, and remote workers"
+}

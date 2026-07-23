@@ -1,0 +1,10 @@
+{
+  "name": "Mood Journal",
+  "description": "An app for tracking emotions and moods. It helps users identify patterns and gain insights into their mental well-being.",
+  "features": [
+    "Mood tracking with emojis and colors",
+    "Daily journal entries with text and photo",
+    "Statistics and analytics of user's mood"
+  ],
+  "target_audience": "Individuals dealing with mental health issues"
+}
