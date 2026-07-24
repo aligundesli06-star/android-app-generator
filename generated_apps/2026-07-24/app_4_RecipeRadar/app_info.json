@@ -1,0 +1,10 @@
+{
+  "name": "RecipeRadar",
+  "description": "A cooking app that provides users with recipe suggestions based on their dietary preferences and ingredient availability. It also allows users to save and organize their favorite recipes.",
+  "features": [
+    "Recipe search with filters for dietary preferences",
+    "Meal planning and grocery lists",
+    "Recipe book with customizable tags and categories"
+  ],
+  "target_audience": "Home cooks and individuals with specific dietary needs"
+}
