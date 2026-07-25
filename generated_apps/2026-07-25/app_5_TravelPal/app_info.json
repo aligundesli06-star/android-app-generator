@@ -1,0 +1,10 @@
+{
+  "name": "TravelPal",
+  "description": "A trip planning app where users can organize itineraries, bookings, and destinations. It provides real-time weather and currency updates.",
+  "features": [
+    "Itinerary creation with location-based suggestions",
+    "Booking management for flights, hotels, and activities",
+    "Real-time weather and currency exchange updates"
+  ],
+  "target_audience": "Travelers and adventure-seekers"
+}

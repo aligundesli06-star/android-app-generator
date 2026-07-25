@@ -1,0 +1,10 @@
+{
+  "name": "FocusTimer",
+  "description": "A productivity app using the Pomodoro Technique for focused work sessions. It helps users stay concentrated and avoid distractions.",
+  "features": [
+    "Customizable work sessions and breaks",
+    "Statistics on completed sessions and productivity",
+    "Background music and sound effects for ambiance"
+  ],
+  "target_audience": "Students, freelancers, and professionals seeking to boost productivity"
+}
