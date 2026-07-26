@@ -1,0 +1,10 @@
+{
+  "name": "SmartKitchen",
+  "description": "A cooking companion app that helps users discover new recipes, manage meal plans, and keep track of grocery shopping lists.",
+  "features": [
+    "Recipe discovery with filtering and search",
+    "Meal planning with calendar integration",
+    "Grocery list management with barcode scanning"
+  ],
+  "target_audience": "Home cooks, meal preppers, busy professionals"
+}

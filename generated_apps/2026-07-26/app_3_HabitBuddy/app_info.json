@@ -1,0 +1,10 @@
+{
+  "name": "HabitBuddy",
+  "description": "A habit tracker app that helps users build positive routines and break unhealthy habits. Users can set reminders, track progress, and compete with friends.",
+  "features": [
+    "Habit tracking with customizable routines",
+    "Reminder system with notifications and alarms",
+    "Social sharing and friendly competition"
+  ],
+  "target_audience": "Individuals looking to improve productivity, fitness enthusiasts"
+}

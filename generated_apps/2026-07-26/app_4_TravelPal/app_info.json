@@ -1,0 +1,10 @@
+{
+  "name": "TravelPal",
+  "description": "A travel companion app that provides destination guides, language translation, and currency conversion. Users can plan trips, bookmark favorite places, and share experiences.",
+  "features": [
+    "Destination guides with maps and reviews",
+    "Language translation with offline support",
+    "Currency conversion with real-time exchange rates"
+  ],
+  "target_audience": "Travelers, tourists, adventure seekers"
+}

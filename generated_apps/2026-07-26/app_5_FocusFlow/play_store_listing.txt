@@ -1,0 +1,11 @@
+{
+  "short_description": "Stay focused",
+  "full_description": "Boost your productivity with FocusFlow. This app helps you stay on track by letting you set customizable timers, block distracting websites, and track your progress over time. With FocusFlow, you can work more efficiently, avoid procrastination, and achieve your goals. Key features include: 
+  - Customizable timers to help you stay focused
+  - Website blocker to minimize distractions
+  - Progress tracking to monitor your productivity
+  - Personalized statistics to help you identify areas for improvement
+  - Simple and intuitive interface to get you started quickly
+  Download FocusFlow now and start achieving your goals.",
+  "keywords": ["productivity", "focus", "timer", "distraction", "tracker"]
+}

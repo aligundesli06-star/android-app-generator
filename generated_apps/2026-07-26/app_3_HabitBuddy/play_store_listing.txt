@@ -1,0 +1,10 @@
+{
+  "short_description": "Track habits, reach goals",
+  "full_description": "Welcome to HabitBuddy, your personal habit tracker and motivator. Build positive routines, break unhealthy habits, and achieve your goals with our easy-to-use app. Set reminders, track your progress, and compete with friends to stay motivated. With HabitBuddy, you can: 
+- Set customizable reminders to stay on track
+- Track your progress and see how far you've come
+- Compete with friends to make habit-building a fun, social experience
+- Celebrate your successes and learn from your setbacks
+Download HabitBuddy today and start building the habits that will help you reach your full potential.",
+  "keywords": ["habit tracker", "productivity", "motivation", "goal setting", "self improvement"]
+}
