@@ -1,0 +1,10 @@
+{
+  "name": "FitnessPal Lite",
+  "description": "A simplified fitness tracking app that helps users monitor their exercise and nutrition. It provides basic calorie tracking and workout logging.",
+  "features": [
+    "Exercise and workout logging",
+    "Calorie tracking and nutrient information",
+    "Customizable fitness goals and reminders"
+  ],
+  "target_audience": "Casual fitness enthusiasts"
+}
