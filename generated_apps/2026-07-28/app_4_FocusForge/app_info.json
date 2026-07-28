@@ -1,0 +1,10 @@
+{
+  "name": "FocusForge",
+  "description": "A productivity app that helps users stay focused and avoid distractions. Users can set goals, track time, and use customized productivity tools.",
+  "features": [
+    "Goal setting and prioritization",
+    "Time tracking and analytics",
+    "Customizable productivity tools and reminders"
+  ],
+  "target_audience": "Students, professionals, and individuals looking to improve their productivity"
+}

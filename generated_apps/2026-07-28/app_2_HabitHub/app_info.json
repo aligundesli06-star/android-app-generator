@@ -1,0 +1,10 @@
+{
+  "name": "HabitHub",
+  "description": "A habit-building app that helps users create and maintain positive routines. Users can set reminders, track progress, and celebrate milestones.",
+  "features": [
+    "Customizable habit tracking with reminders",
+    "Progress tracking and analytics",
+    "Reward system for milestones achieved"
+  ],
+  "target_audience": "Individuals looking to build positive habits and improve their daily routines"
+}
