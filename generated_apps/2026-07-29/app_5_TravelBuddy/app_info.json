@@ -1,0 +1,10 @@
+{
+  "name": "TravelBuddy",
+  "description": "TravelBuddy is a travel planning app that helps users discover new destinations and plan their trips. It provides a range of features and tools to make travel planning easier and more enjoyable.",
+  "features": [
+    "Destination discovery and recommendations",
+    "Itinerary planning and booking",
+    "Real-time travel alerts and safety tips"
+  ],
+  "target_audience": "Travelers and adventure-seekers"
+}
