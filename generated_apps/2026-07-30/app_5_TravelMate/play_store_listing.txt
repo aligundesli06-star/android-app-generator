@@ -1,0 +1,10 @@
+{
+  "short_description": "Plan your trips",
+  "full_description": "TravelMate is your ultimate travel companion. This app assists you in organizing trips, booking flights, and discovering new destinations around the world. With features like itinerary management and destination guides, TravelMate makes planning your next adventure easier than ever. Whether you're a seasoned traveler or just starting to explore, TravelMate has everything you need to make the most of your travels. Key features include: 
+- Itinerary management: keep track of your flights, hotels, and activities in one place
+- Destination guides: get insider tips and recommendations for top destinations
+- Flight booking: easily book flights and compare prices across different airlines
+- Discovery feature: find new and exciting destinations to add to your bucket list
+Download TravelMate today and start planning your next trip!",
+  "keywords": ["travel", "planning", "itinerary", "destination", "adventure"]
+}

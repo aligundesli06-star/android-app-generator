@@ -1,0 +1,10 @@
+{
+  "name": "TravelMate",
+  "description": "A travel planning app that assists users in organizing trips, booking flights, and discovering new destinations. It provides features like itinerary management and destination guides.",
+  "features": [
+    "Trip planning with customizable itineraries",
+    "Flight and accommodation booking integration",
+    "Destination guides with recommendations and tips"
+  ],
+  "target_audience": "Travelers and adventure seekers"
+}
