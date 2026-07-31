@@ -1,0 +1,10 @@
+{
+  "name": "HabitTracker",
+  "description": "An app to track daily habits and routines. It helps users stay consistent and achieve their goals.",
+  "features": [
+    "Customizable habit lists",
+    "Reminders and notifications",
+    "Progress tracking and analytics"
+  ],
+  "target_audience": "Health-conscious individuals and individuals looking to improve productivity"
+}

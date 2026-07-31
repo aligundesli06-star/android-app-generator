@@ -1,0 +1,10 @@
+{
+  "name": "FocusFlow",
+  "description": "A productivity app that helps users stay focused and avoid distractions. It includes customizable work sessions and break reminders.",
+  "features": [
+    "Pomodoro timer and work sessions",
+    "Customizable break reminders",
+    "Productivity tracking and statistics"
+  ],
+  "target_audience": "Students, professionals, and individuals with busy schedules"
+}

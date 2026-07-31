@@ -1,0 +1,10 @@
+{
+  "name": "TravelPal",
+  "description": "A travel companion app that helps users plan and organize trips. It includes itinerary management and destination guides.",
+  "features": [
+    "Trip planning and itinerary creation",
+    "Destination guides and recommendations",
+    "Real-time weather and currency updates"
+  ],
+  "target_audience": "Travelers and adventure-seekers"
+}
