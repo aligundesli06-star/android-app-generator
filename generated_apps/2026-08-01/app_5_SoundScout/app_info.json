@@ -1,0 +1,10 @@
+{
+  "name": "SoundScout",
+  "description": "A music app that recommends new artists and songs based on users' listening habits. It also provides a simple and intuitive interface for music discovery.",
+  "features": [
+    "Music discovery with personalized recommendations",
+    "Artist and song search with filters and genres",
+    "Playlist creation and management"
+  ],
+  "target_audience": "Music lovers and fans of various genres"
+}
