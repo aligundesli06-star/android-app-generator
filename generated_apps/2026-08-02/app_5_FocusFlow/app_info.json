@@ -1,0 +1,10 @@
+{
+  "name": "FocusFlow",
+  "description": "A productivity app that uses the Pomodoro Technique to help users stay focused and manage their time more efficiently. It provides customizable work sessions and break reminders.",
+  "features": [
+    "Pomodoro timer with customizable intervals",
+    "Task management and prioritization",
+    "Progress tracking and statistics"
+  ],
+  "target_audience": "Students, professionals, and individuals seeking productivity tools"
+}
