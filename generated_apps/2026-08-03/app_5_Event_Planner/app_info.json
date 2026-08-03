@@ -1,0 +1,10 @@
+{
+  "name": "Event Planner",
+  "description": "An app to help users organize and plan events, such as parties, weddings, and conferences. It features tools for guest management, scheduling, and task assignments.",
+  "features": [
+    "Guest list management and RSVP tracking",
+    "Schedule and timeline creation",
+    "Task assignments and reminders"
+  ],
+  "target_audience": "Event planners and coordinators"
+}

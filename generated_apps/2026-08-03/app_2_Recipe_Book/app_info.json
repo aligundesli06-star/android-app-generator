@@ -1,0 +1,10 @@
+{
+  "name": "Recipe Book",
+  "description": "A digital cookbook where users can discover, save, and share their favorite recipes. It features a wide variety of cuisines and cooking techniques.",
+  "features": [
+    "Search and filter recipes",
+    "Meal planning and grocery lists",
+    "Recipe sharing and community features"
+  ],
+  "target_audience": "Home cooks and food enthusiasts"
+}
