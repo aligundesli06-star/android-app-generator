@@ -1,0 +1,10 @@
+{
+  "name": "Travel Pal",
+  "description": "A travel planning app that assists users in organizing their trips and exploring new destinations. It provides features for itinerary management, destination guides, and real-time updates.",
+  "features": [
+    "Itinerary creation and management",
+    "Destination guides and recommendations",
+    "Real-time flight and weather updates"
+  ],
+  "target_audience": "Travelers and adventure seekers"
+}

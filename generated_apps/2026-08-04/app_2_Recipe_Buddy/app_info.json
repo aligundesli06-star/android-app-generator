@@ -1,0 +1,10 @@
+{
+  "name": "Recipe Buddy",
+  "description": "A cooking companion app that provides users with a vast collection of recipes and meal planning features. It helps users discover new dishes and manage their kitchen more efficiently.",
+  "features": [
+    "Recipe search and filtering",
+    "Meal planning and grocery lists",
+    "Step-by-step cooking instructions"
+  ],
+  "target_audience": "Home cooks and food enthusiasts"
+}

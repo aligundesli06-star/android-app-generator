@@ -1,0 +1,10 @@
+{
+  "name": "Focus Mode",
+  "description": "A productivity app that helps users stay focused and avoid distractions. It provides a set of tools and features to boost concentration and efficiency.",
+  "features": [
+    "Pomodoro timer and scheduling",
+    "Website and app blockers",
+    "Customizable focus modes"
+  ],
+  "target_audience": "Students, professionals, and individuals seeking to improve their productivity"
+}
