@@ -1,0 +1,10 @@
+{
+  "name": "To-Do Today",
+  "description": "A simple task management app that helps users stay organized and focused. It allows users to create and manage their to-do lists with ease.",
+  "features": [
+    "Task creation and management",
+    "Due date and reminder settings",
+    "Task prioritization and categorization"
+  ],
+  "target_audience": "Busy professionals and students"
+}
