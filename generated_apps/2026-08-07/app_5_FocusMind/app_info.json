@@ -1,0 +1,10 @@
+{
+  "name": "FocusMind",
+  "description": "FocusMind is a productivity app that helps users stay focused and concentrated by providing a distraction-free environment and personalized productivity tools. It offers features such as website blockers and Pomodoro timers.",
+  "features": [
+    "Website blockers and app limitations",
+    "Pomodoro timers and focus modes",
+    "Customizable productivity plans"
+  ],
+  "target_audience": "Students, professionals, and individuals looking to improve their productivity"
+}

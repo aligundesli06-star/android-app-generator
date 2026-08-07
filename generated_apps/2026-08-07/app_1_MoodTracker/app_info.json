@@ -1,0 +1,10 @@
+{
+  "name": "MoodTracker",
+  "description": "MoodTracker is a simple app that helps users track their emotions and moods over time. It provides insights and patterns to help users manage their mental health.",
+  "features": [
+    "Daily mood tracking",
+    "Emotion journaling",
+    "Mood analysis and insights"
+  ],
+  "target_audience": "Individuals struggling with mental health issues"
+}

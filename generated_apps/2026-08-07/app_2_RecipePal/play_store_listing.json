@@ -1,0 +1,11 @@
+{
+  "short_description": "Discover new recipes",
+  "full_description": "RecipePal is a recipe discovery app that suggests new dishes based on users' dietary preferences and ingredient availability. It provides step-by-step cooking instructions and meal planning features, making it easy to plan and cook healthy meals. With RecipePal, you can filter recipes by dietary needs such as vegan, gluten-free, or low-carb, and also search for recipes based on the ingredients you have at home. The app also allows you to save and organize your favorite recipes, create grocery lists, and keep track of your cooking history. Whether you're a busy home cook or an experienced chef, RecipePal is the perfect companion to help you explore new flavors and cooking techniques.",
+  "keywords": [
+    "recipe",
+    "cooking",
+    "meal planning",
+    "dietary preferences",
+    "ingredients"
+  ]
+}
