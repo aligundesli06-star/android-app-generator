@@ -1,0 +1,10 @@
+{
+  "name": "Recipe Booker",
+  "description": "Recipe Booker is a cooking app that allows users to discover and save new recipes. It provides a simple and easy-to-use interface for users to explore different cuisines.",
+  "features": [
+    "Recipe search with filtering options",
+    "Recipe bookmarking and categorization",
+    "Meal planning and grocery list generation"
+  ],
+  "target_audience": "Home cooks and food enthusiasts"
+}
